@@ -324,6 +324,7 @@ idea/
 aumc/data/AmsterdamUMCdb-v1.0.2/
 aumc/data/batch-files/
 aumc/data/drug-orders-per-day/
+aumc/data/diagnoses-items.csv
 eicu/data/eicu-collaborative-research-database-2.0/
 eicu/data/batch-files/
 eicu/data/drug-orders-per-day/
