@@ -1,0 +1,43 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:                      y   No. Observations:                 3165
+Model:                          Logit   Df Residuals:                     3135
+Method:                           MLE   Df Model:                           29
+Date:                Thu, 04 Apr 2024   Pseudo R-squ.:                  0.3443
+Time:                        16:55:28   Log-Likelihood:                -579.83
+converged:                       True   LL-Null:                       -884.26
+Covariance Type:            nonrobust   LLR p-value:                9.420e-110
+=================================================================================================
+                                    coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------
+n-stemi?                         -0.1828        nan        nan        nan         nan         nan
+shock?                            1.8340        nan        nan        nan         nan         nan
+los-h(days)                      -0.0188        nan        nan        nan         nan         nan
+received-analgesic?               2.6377        nan        nan        nan         nan         nan
+received-combined-therapy?        1.3745        nan        nan        nan         nan         nan
+received-ace-inhibitor?          -1.4816        nan        nan        nan         nan         nan
+received-aspirin?                -0.7903        nan        nan        nan         nan         nan
+received-beta-blocker?           -1.9175        nan        nan        nan         nan         nan
+received-anti-platelet?          -0.3048        nan        nan        nan         nan         nan
+received-statin?                 -0.8764        nan        nan        nan         nan         nan
+agegroup-40-49                   -1.8077        nan        nan        nan         nan         nan
+agegroup-50-59                   -0.5821        nan        nan        nan         nan         nan
+agegroup-60-69                    0.0031        nan        nan        nan         nan         nan
+agegroup-70-79                    0.4058        nan        nan        nan         nan         nan
+agegroup-80+                      0.8701        nan        nan        nan         nan         nan
+gender-female                     0.1975        nan        nan        nan         nan         nan
+insurance-government             -4.0514        nan        nan        nan         nan         nan
+insurance-medicaid               -1.4791        nan        nan        nan         nan         nan
+insurance-medicare               -2.2733        nan        nan        nan         nan         nan
+insurance-private                -2.3759        nan        nan        nan         nan         nan
+insurance-unknown               -40.5293        nan        nan        nan         nan         nan
+region-midwest                   34.1526        nan        nan        nan         nan         nan
+region-south                     34.8443        nan        nan        nan         nan         nan
+region-unknown                  -29.4541        nan        nan        nan         nan         nan
+region-west                      34.9455        nan        nan        nan         nan         nan
+ethnic-group-african american    -0.1254        nan        nan        nan         nan         nan
+ethnic-group-asian                0.4930        nan        nan        nan         nan         nan
+ethnic-group-caucasian           -0.3341        nan        nan        nan         nan         nan
+ethnic-group-hispanic            -1.0549        nan        nan        nan         nan         nan
+ethnic-group-native american     -4.8670        nan        nan        nan         nan         nan
+=================================================================================================

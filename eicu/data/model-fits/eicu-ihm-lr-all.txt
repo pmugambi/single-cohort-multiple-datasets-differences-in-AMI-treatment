@@ -1,0 +1,40 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:                      y   No. Observations:                  644
+Model:                          Logit   Df Residuals:                      621
+Method:                           MLE   Df Model:                           22
+Date:                Tue, 02 Apr 2024   Pseudo R-squ.:                  0.2299
+Time:                        16:40:33   Log-Likelihood:                -39.717
+converged:                       True   LL-Null:                       -51.573
+Covariance Type:            nonrobust   LLR p-value:                    0.3625
+==============================================================================================
+                                 coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+n-stemi?                       0.1385      0.820      0.169      0.866      -1.468       1.745
+shock?                         1.1454      0.983      1.165      0.244      -0.782       3.073
+los-h(days)                   -0.2008      0.155     -1.295      0.195      -0.505       0.103
+los-icu(days)                  0.3878      0.205      1.887      0.059      -0.015       0.791
+received-analgesic?          -22.8846   6.16e+04     -0.000      1.000   -1.21e+05    1.21e+05
+received-combined-therapy?    24.9750   6.16e+04      0.000      1.000   -1.21e+05    1.21e+05
+received-ace-inhibitor?        0.2169      1.213      0.179      0.858      -2.161       2.595
+received-aspirin?             -1.1787      1.152     -1.023      0.306      -3.437       1.080
+received-beta-blocker?        -0.7071      0.874     -0.809      0.419      -2.421       1.007
+received-anti-platelet?      -20.2352   1.42e+04     -0.001      0.999   -2.79e+04    2.78e+04
+received-statin?              -2.2347      1.489     -1.501      0.133      -5.152       0.683
+agegroup-40-49                -2.1562      1.174     -1.837      0.066      -4.457       0.145
+agegroup-50-59                -1.3034      0.936     -1.393      0.164      -3.138       0.531
+agegroup-60-69                -1.2584      0.965     -1.304      0.192      -3.150       0.633
+agegroup-70-79                -1.3903      1.167     -1.191      0.234      -3.678       0.898
+agegroup-80+                  -0.7397      1.373     -0.539      0.590      -3.431       1.952
+gender-female                 -2.1502      1.308     -1.644      0.100      -4.714       0.413
+region-midwest                -1.9508      1.274     -1.531      0.126      -4.448       0.546
+region-south                  -2.1570      0.980     -2.202      0.028      -4.077      -0.237
+region-unknown               -26.3242   2.31e+05     -0.000      1.000   -4.53e+05    4.53e+05
+region-west                   -1.7001      0.896     -1.898      0.058      -3.456       0.055
+ethnic-group-asian            -0.3847      0.808     -0.476      0.634      -1.968       1.199
+ethnic-group-hispanic         -9.2764    236.960     -0.039      0.969    -473.710     455.157
+==============================================================================================
+
+Possibly complete quasi-separation: A fraction 0.54 of observations can be
+perfectly predicted. This might indicate that there is complete
+quasi-separation. In this case some parameters will not be identified.

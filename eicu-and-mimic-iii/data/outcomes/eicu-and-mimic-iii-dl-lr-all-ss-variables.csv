@@ -1,0 +1,17 @@
+,variable,coef,p-value,OR
+0,shock?,-1.52726,0.0,0.21713
+1,los-h(days),-0.14515,0.0,0.86489
+2,received-analgesic?,-1.2324,0.00042,0.29159
+3,received-ace-inhibitor?,0.52182,4e-05,1.68509
+4,received-beta-blocker?,1.11394,0.0,3.04634
+5,received-anti-platelet?,0.58916,1e-05,1.80247
+6,received-statin?,0.64921,0.00048,1.91403
+7,agegroup-40-49,1.43516,9e-05,4.20032
+8,agegroup-50-59,0.88062,0.00515,2.41239
+9,agegroup-80+,-1.15079,0.00022,0.31639
+10,gender-female,-0.64875,0.0,0.5227
+11,insurance-government,3.01987,0.0,20.48863
+12,insurance-medicaid,1.39472,0.00042,4.03384
+13,insurance-medicare,1.20774,0.00012,3.34591
+14,insurance-private,1.92956,0.0,6.88648
+15,insurance-unknown,3.5702,1e-05,35.5237

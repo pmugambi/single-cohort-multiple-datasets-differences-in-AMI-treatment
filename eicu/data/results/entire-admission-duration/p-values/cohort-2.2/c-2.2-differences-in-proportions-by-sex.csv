@@ -1,0 +1,12 @@
+,treatment,pvalue,statistic,female-yes-#,female-yes-%,female-no-#,female-no-%,male-yes-#,male-yes-%,male-no-#,male-no-%
+0,received-analgesic?,0.4557,0.7684,116,0.79,31,0.21,377,0.76,120,0.24
+1,received-opioid?,0.0537,1.9378,96,0.65,51,0.35,280,0.56,217,0.44
+2,received-non-opioid?,0.3699,0.9139,116,0.79,31,0.21,374,0.75,123,0.25
+3,received-opioids-only?,0.5652,-0.9442,0,0.0,147,1.0,3,0.01,494,0.99
+4,received-non-opioids-only?,0.104,-1.633,20,0.14,127,0.86,97,0.2,400,0.8
+5,received-combined-therapy?,0.0401,2.065,96,0.65,51,0.35,277,0.56,220,0.44
+6,received-ace-inhibitor?,0.3572,-0.9474,37,0.25,110,0.75,145,0.29,352,0.71
+7,received-aspirin?,0.4056,0.856,102,0.69,45,0.31,326,0.66,171,0.34
+8,received-beta-blocker?,0.2384,1.1865,101,0.69,46,0.31,315,0.63,182,0.37
+9,received-anti-platelet?,0.3533,0.9599,56,0.38,91,0.62,168,0.34,329,0.66
+10,received-statin?,0.702,-0.4054,62,0.42,85,0.58,219,0.44,278,0.56

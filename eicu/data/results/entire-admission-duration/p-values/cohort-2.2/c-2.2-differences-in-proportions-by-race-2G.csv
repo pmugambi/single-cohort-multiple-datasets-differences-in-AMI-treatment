@@ -1,0 +1,12 @@
+,treatment,pvalue,statistic,caucasian-yes-#,caucasian-yes-%,caucasian-no-#,caucasian-no-%,non-caucasian-yes-#,non-caucasian-yes-%,non-caucasian-no-#,non-caucasian-no-%
+0,received-analgesic?,0.2334,1.2082,392,0.79,107,0.21,55,0.72,21,0.28
+1,received-opioid?,0.8293,-0.2657,294,0.59,205,0.41,46,0.61,30,0.39
+2,received-non-opioid?,0.2666,1.1237,390,0.78,109,0.22,55,0.72,21,0.28
+3,received-opioids-only?,1.0,0.5529,2,0.0,497,1.0,0,0.0,76,1.0
+4,received-non-opioids-only?,0.1064,1.6271,98,0.2,401,0.8,9,0.12,67,0.88
+5,received-combined-therapy?,0.7454,-0.3315,292,0.59,207,0.41,46,0.61,30,0.39
+6,received-ace-inhibitor?,0.2137,1.2753,147,0.29,352,0.71,17,0.22,59,0.78
+7,received-aspirin?,0.2988,1.0535,339,0.68,160,0.32,47,0.62,29,0.38
+8,received-beta-blocker?,0.5485,-0.6295,323,0.65,176,0.35,52,0.68,24,0.32
+9,received-anti-platelet?,0.3817,-0.8865,171,0.34,328,0.66,30,0.39,46,0.61
+10,received-statin?,0.7659,-0.3035,214,0.43,285,0.57,34,0.45,42,0.55

@@ -1,0 +1,12 @@
+,treatment,total-female-received-#,total-female-received-%,total-male-received-#,total-male-received-%
+0,received-analgesic?,857,80.39,1717,81.8
+1,received-opioid?,640,60.04,1269,60.46
+2,received-non-opioid?,854,80.11,1712,81.56
+3,received-opioids-only?,3,0.28,5,0.24
+4,received-non-opioids-only?,217,20.36,448,21.34
+5,received-combined-therapy?,637,59.76,1264,60.22
+6,received-ace-inhibitor?,539,50.56,1120,53.36
+7,received-aspirin?,826,77.49,1650,78.61
+8,received-beta-blocker?,800,75.05,1593,75.89
+9,received-anti-platelet?,652,61.16,1213,57.79
+10,received-statin?,722,67.73,1448,68.99

@@ -1,0 +1,32 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:                      y   No. Observations:                   92
+Model:                          Logit   Df Residuals:                       77
+Method:                           MLE   Df Model:                           14
+Date:                Wed, 03 Apr 2024   Pseudo R-squ.:                  0.3131
+Time:                        12:59:26   Log-Likelihood:                -33.948
+converged:                       True   LL-Null:                       -49.419
+Covariance Type:            nonrobust   LLR p-value:                  0.005647
+==============================================================================================
+                                 coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+agegroup-80+                   2.7555      1.336      2.063      0.039       0.138       5.373
+gender-vrouw                  -0.8532      0.843     -1.012      0.312      -2.505       0.799
+received-analgesic?           -0.6550      0.993     -0.659      0.510      -2.602       1.292
+location-mc&ic                 2.3037      2.035      1.132      0.258      -1.685       6.293
+urgency                        0.9187      0.674      1.364      0.173      -0.402       2.239
+agegroup-50-59                 0.3623      1.116      0.325      0.745      -1.825       2.549
+received-statin?              -0.0364      0.893     -0.041      0.968      -1.786       1.713
+received-beta-blocker?         1.0887      0.940      1.158      0.247      -0.753       2.931
+agegroup-60-69                 0.1588      1.250      0.127      0.899      -2.290       2.608
+received-anti-platelet?       -1.4390      1.061     -1.357      0.175      -3.518       0.640
+received-ace-inhibitor?       -1.6231      0.861     -1.885      0.059      -3.311       0.065
+agegroup-70-79                 1.4741      1.358      1.086      0.278      -1.187       4.135
+agegroup-40-49               -13.9178   1367.322     -0.010      0.992   -2693.819    2665.983
+location-mc                  -25.5130   9.46e+04     -0.000      1.000   -1.85e+05    1.85e+05
+received-combined-therapy?    -1.2179      0.905     -1.346      0.178      -2.991       0.556
+==============================================================================================
+
+Possibly complete quasi-separation: A fraction 0.13 of observations can be
+perfectly predicted. This might indicate that there is complete
+quasi-separation. In this case some parameters will not be identified.

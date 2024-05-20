@@ -1,0 +1,10 @@
+,variable,coef,p-value,OR
+0,received-beta-blocker?,0.94915,2e-05,2.58351
+1,received-anti-platelet?,0.49156,0.00014,1.63486
+2,insurance-medicare,-0.43426,0.00118,0.64774
+3,shock?,-1.59423,0.0,0.20306
+4,agegroup-70-79,-1.06561,0.02191,0.34452
+5,agegroup-80+,-2.20606,0.0,0.11013
+6,received-combined-therapy?,-0.86335,0.0,0.42175
+7,received-analgesic?,1.29261,0.02482,3.64228
+8,los-h(days),-0.07499,0.0,0.92775

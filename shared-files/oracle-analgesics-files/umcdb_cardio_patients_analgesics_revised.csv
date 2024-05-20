@@ -1,0 +1,96 @@
+,item,treatment,analgesic?,opioid?
+0,Acetylsalicylzuur (Aspegic),aspirin,,
+1,Allopurinol (Zyloric),uric acid reducer,,
+2,Alprazolam (Xanax),sedative,,
+3,Amitriptyline (Tryptizol),antidepressant and nerve pain medication,,
+4,Baclofen (Lioresal),muscle relaxant,,
+5,Biperideen (Akineton),treatment for Parkison's and certain drug-induced movement disorders,,
+6,Carbamazepine (Tegretol),anticonvulsant,,
+7,Carbasalaat Calcium,"analgesic, antipyretic, platelet aggregation inhibitor, anti-inflammatory",maybe?,
+8,Carbasalaatcalcium (Ascal),"analgesic, antipyretic, platelet aggregation inhibitor, anti-inflammatory",maybe?,
+9,Chloorpromazine (Largactil),antipsychotic,,
+10,Citalopram (Cipramil),SSRI,,
+11,Clobazam (Frisium),sedative,,
+12,Clomipramine (Anafranil),antidepressant and nerve pain medication,,
+13,Clonazepam (Rivotril),sedative,,
+14,Clorazepaat dikalium (Tranxene),sedative,,
+15,Clozapine (Leponex),antipsychotic,,
+16,Codeine fosfaat,opioid,yes,yes
+17,Colchicine,anti-inflammatory,maybe?,
+18,Dantroleen (Dantrium),muscle relaxant,,
+19,Dehydrobenzoperidol (Droperidol),antipsychotic and antiemetic,,
+20,Diazepam (Valium),anxiolytic and sedative,,
+21,Diclofenac Retard (Voltaren),NSAID,yes,no
+22,Diclofenac natrium (Voltaren),NSAID,yes,no
+23,Duloxetine (Cymbalta),antidepressant and nerve pain medication,,
+24,Escitalopram (Lexapro),SSRI,,
+25,Esketamine (Ketanest-S),anaesthetic and antidepressant,maybe?,no
+26,Etomidaat (Hypnomidate),anaesthetic,No,
+27,Fenobarbital,treats epilepsy,,
+28,Fentanyl,opioid,yes,yes
+29,Fentanyl pleister,opioid,yes,yes
+30,Fenytoine (Diphantoine),anticonvulsant,,
+31,Flurazepam (Dalmadorm),sedative,,
+32,Gabapentine (Neurontin),anticonvulsant and nerve pain medication,,
+33,Haloperidol (Haldol),antipsychotic,,
+34,Ibuprofen,NSAID,yes,no
+35,Indometazine (Indocid),NSAID,yes,no
+36,Ketamine (Ketalar),anaesthetic and antidepressant,maybe?,no
+37,Lamotrigine (Lamictal),anticonvulsant,,
+38,Levetiracetam (Keppra),anticonvulsant,,
+39,Levodopa-carbidopa (Sinemet),"dopamine promoter, treats Parkison's",,
+40,Levomepromazine (Nozinan),"antipsychotic, analgesic, hypnotic and antiemetic",maybe?,
+41,Lidocaine (Xylocard),antiarrhythmic and anaesthetic,yes,no
+42,"Lithiumcarbonaat (Camcolit, Priadel)",antidepressant?,,
+43,Lorazepam (Temesta),sedative,,
+44,MS Contin,opioid,yes,yes
+45,Madopar,treatment for Parkison's and certain drug-induced movement disorders,,
+46,Melatonine (Circadin),short-term treatment of insomnia,,
+47,Methadon (Symoron),opioid,yes,yes
+48,Methylfinidaat (Ritalin),stimulant,,
+49,Midazolam (Dormicum),sedative,,
+50,Mirtazapine (Remeron),antidepressant,,
+51,Morfine,opioid,yes,yes
+52,Naloxon (Narcan),opioid - treats OUD,maybe?,maybe?
+53,Naproxen (Naprosyne),NSAID,yes,no
+54,Nicomorfine (Vilan),opioid,yes,yes
+55,Nitrazepam,"hypnotic, sedative, anticonvulsant, and muscle relaxant",,
+56,Nortriptyline (Nortrilen),antidepressant and nerve pain medication,,
+57,Olanzapine (Zyprexa),antipsychotic,,
+58,Oxazepam (Seresta),sedative,,
+59,Oxcarbazepine (Trileptal),anticonvulsant,,
+60,Oxycodon (OxyContin),opioid,yes,yes
+61,Oxycodon (OxyNorm),opioid,yes,yes
+62,Pancuronium (Pavulon),muscle relaxant,,
+63,Paracetamol,analgesic,yes,no
+64,Paracetamol-codeine,apap-opioid,yes,yes
+65,Paroxetinechloride (Seroxat),SSRI,,
+66,Pentobarbital (Nembutal),sedative and anticonvulsant,,
+67,Pethidine,opioid,yes,yes
+68,Pimozide (Orap forte),antipsychotic,,
+69,Piritramide (Dipidolor),opioid,yes,yes
+70,Pramipexol (Sifrol),"dopamine promoter, treats Parkison's",,
+71,Pregabaline (Lyrica),nerve pain medication,maybe?,
+72,Propofol (Diprivan),anaesthetic,No,no
+73,Pyridostigmine (Mestinon),muscle strengthener,,
+74,Quetiapine (Seroquel),antipsychotic,,
+75,Risperidon (Risperdal),antipsychotic,,
+76,Rocuronium (Esmeron),paralytic,,
+77,Seleginine (Eldepryl),antidepressant,,
+78,Sertraline (Zoloft),SSRI,,
+79,Suxamethonium (Succinylcholine),paralytic,,
+80,Temazepam (Normison),sedative,,
+81,Tizanidine (Sirdalud),muscle relaxant,,
+82,Tramadol (Tramadolhydrochloride),opioid,yes,yes
+83,Trazodon (Trazolan),antidepressant and sedative,,
+84,Valproinezuur (Orfiril),anticonvulsant,,
+85,Valproinezuur (Depakine Chrono),anticonvulsant,,
+86,Valproinezuur (Depakine Enteric),anticonvulsant,,
+87,Valproinezuur (Depakine) drank,anticonvulsant,,
+88,Valproinezuur (Orfiril/Depakine),anticonvulsant,,
+89,Vecuronium (Norcuron),anaesthetic,no,no
+90,Venlafaxine (Efexor),antidepressant and nerve pain medication,,
+91,X nader te bepalen,,,
+92,ZZ-Niet gebruiken Methadon drank,,,
+93,Zopiclon (Imovane),short-term treatment of insomnia,,
+94,Zuclopentixol (Cisordinol),antipsychotic,,

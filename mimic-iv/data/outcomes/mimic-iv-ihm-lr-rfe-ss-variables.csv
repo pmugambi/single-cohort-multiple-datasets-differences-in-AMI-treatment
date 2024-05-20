@@ -1,0 +1,12 @@
+,variable,coef,p-value,OR
+0,los-h(days),-0.03805,0.01081,0.96266
+1,agegroup-50-59,-1.00344,0.03733,0.36662
+2,received-aspirin?,-1.0903,0.01594,0.33612
+3,received-statin?,-0.91049,0.0078,0.40233
+4,shock?,2.96904,0.0,19.47322
+5,agegroup-40-49,-1.72573,0.02092,0.17804
+6,received-ace-inhibitor?,-0.75948,0.00143,0.46791
+7,received-beta-blocker?,-1.81661,0.0,0.16258
+8,received-combined-therapy?,1.66107,0.0,5.26494
+9,ethnic-group-caucasian,-0.5801,0.01326,0.55984
+10,agegroup-80+,0.90968,0.04365,2.48353

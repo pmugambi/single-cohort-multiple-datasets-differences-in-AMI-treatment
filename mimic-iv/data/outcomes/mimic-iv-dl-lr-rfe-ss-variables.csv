@@ -1,0 +1,13 @@
+,variable,coef,p-value,OR
+0,gender-female,-0.24217,0.00191,0.78492
+1,los-h(days),-0.09308,0.0,0.91112
+2,agegroup-70-79,-1.03901,0.00054,0.3538
+3,received-statin?,0.41284,0.01773,1.5111
+4,shock?,-1.55243,0.0,0.21173
+5,received-anti-platelet?,0.58016,0.0,1.78632
+6,insurance-medicare,-0.51221,0.0,0.59917
+7,received-ace-inhibitor?,0.22501,0.00368,1.25234
+8,received-beta-blocker?,0.69005,0.0,1.99382
+9,received-combined-therapy?,-0.65317,0.0,0.52039
+10,agegroup-80+,-1.83893,0.0,0.15899
+11,received-analgesic?,1.37233,0.00039,3.94453

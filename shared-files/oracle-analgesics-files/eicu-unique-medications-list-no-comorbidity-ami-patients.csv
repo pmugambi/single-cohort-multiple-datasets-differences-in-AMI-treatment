@@ -1,0 +1,1657 @@
+,drugname,routeadmin,Notes,pain_med?,narcotic?,antiplatelet?,beta-blocker?,statin?,aspirin?,ace-inhibitor?
+1611022,.5 ml vial : pneumococcal vac polyvalent 25 mcg/0.5ml ij inj,IM,Vaccine for pneumococcal diseases,no,no,no,no,no,no,no
+5998297,<<norepinephrine 4 mg/4 ml inj,IV,Blood pressure treatment,no,no,no,no,no,no,no
+4328604,0.4 ml syringe : enoxaparin sodium 40 mg/0.4ml sc soln,SC,anticoagulant,no,no,no,no,no,no,no
+4491526,0.4 ml syringe : enoxaparin sodium 40 mg/0.4ml sc soln,Subcutaneous,anticoagulant,no,no,no,no,no,no,no
+1631076,0.5 ml - influenza vac split quad 0.5 ml im susp,IM,Flu vaccine,no,no,no,no,no,no,no
+6358517,0.5 ml plas cont : albuterol sulfate (5 mg/ml) 0.5% in nebu,Nebulization,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+1226508,0.9%  nacl infusion,IV,,no,no,no,no,no,no,no
+5978756,"0.9%nacl 1,000 ml",IV,,no,no,no,no,no,no,no
+15530,1 each package custom ndc : metoprolol tartrate 12.5 mg po tabs (half-tab),PO,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+45329,1 each package custom ndc : metoprolol tartrate 12.5 mg po tabs (half-tab),PER NG TUBE,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+104572,1 each package custom ndc : metoprolol tartrate 12.5 mg po tabs (half-tab),PEG TUBE,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+5364081,1 each vial : alteplase 2 mg ij solr,IK,Stroke/acute STEMI,no,no,no,no,no,no,no
+5336630,1 each vial : ceftriaxone sodium 1 g ij solr,IV,Antibiotic,no,no,no,no,no,no,no
+42063,1 ml  -  diphenhydramine hcl 50 mg/ml ij soln,IV,Antihistamine,No,no,no,no,no,no,no
+3837809,1 ml  -  haloperidol lactate 5 mg/ml ij soln,IV,Antipsychotic,no,no,no,no,no,no,no
+23018,1 ml  -  heparin sodium (porcine) 5000 unit/ml ij soln,SC,anticoagulant,no,no,no,no,no,no,no
+1587909,1 ml  -  heparin sodium (porcine) 5000 unit/ml ij soln,IV,anticoagulant,no,no,no,no,no,no,no
+23035,1 ml  -  hydralazine hcl 20 mg/ml ij soln,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+47502,1 ml  -  hydromorphone hcl 1 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+23022,1 ml  -  lorazepam 2 mg/ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+1667676,1 ml  -  naloxone hcl 0.4 mg/ml ij soln,IV,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+4384851,1 ml : heparin sodium (porcine) 5000 unit/ml ij soln,SC,anticoagulant,no,no,no,no,no,no,no
+6289731,1 ml : heparin sodium (porcine) 5000 unit/ml ij soln,IV,anticoagulant,no,no,No,no,no,no,no
+4318715,1 ml : hydromorphone hcl pf 1 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+1115740,1 ml : promethazine 25 mg/ml inj soln,IM,Antihistamine,no,no,no,no,no,no,no
+6554280,1 ml crtrdg-ndl : hydromorphone hcl pf 1 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+569061,1 ml crtrdg-ndl : lorazepam 2 mg/ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+880421,1 ml crtrdg-ndl : morphine sulfate (pf) 2 mg/ml iv soln,IV,opioid,yes,yes,no,no,no,no,no
+4491529,1 ml crtrdg-ndl : morphine sulfate 2 mg/ml ij soln,Intravenous,opioid,yes,yes,no,no,no,no,no
+4657434,1 ml syringe : morphine sulfate (pf) 4 mg/ml iv soln,IV,opioid,yes,yes,no,no,no,no,no
+3817570,1 ml vial : dexamethasone sodium phosphate 4 mg/ml ij soln,IV,Steroid,no,no,no,no,no,no,no
+695258,1 ml vial : diphenhydramine hcl 50 mg/ml ij soln,Intravenous,Antihistamine,no,no,no,no,no,no,no
+4911051,"1 ml vial : heparin (porcine) 5,000 unit/ml inj soln",SubQ,anticoagulant,no,no,no,no,no,no,no
+6277525,1 ml vial : heparin sodium (porcine) 1000 unit/ml ij soln,IR,anticoagulant,no,no,no,no,no,no,no
+6379684,1 ml vial : heparin sodium (porcine) 1000 unit/ml ij soln,Intravenous,anticoagulant,no,no,no,no,no,no,no
+547741,1 ml vial : heparin sodium (porcine) 5000 unit/ml ij soln,IV,anticoagulant,no,no,no,no,no,no,no
+556302,1 ml vial : heparin sodium (porcine) 5000 unit/ml ij soln,SC,anticoagulant,no,no,no,no,no,no,no
+699734,1 ml vial : hydralazine hcl 20 mg/ml ij soln,Intravenous,High blood pressure - vasodilator,no,no,no,no,no,no,no
+4461757,1 ml vial : lorazepam 2 mg/ml ij soln,Intravenous,Sedative,no,no,no,no,no,no,no
+1127856,1 ml vial : morphine 5 mg/ml inj soln,IV,opioid,yes,yes,no,no,no,no,no
+4623881,1 ml vial: diphenhydramine hcl 50 mg/ml ij soln,IV,Antihistamine,no,no,no,no,no,no,no
+893066,1 ml vial: heparin sodium (porcine) 5000 unit/ml ij soln,SC,anticoagulant,no,no,no,no,no,no,no
+893068,1 ml vial: heparin sodium (porcine) 5000 unit/ml ij soln,IV,anticoagulant,no,no,no,no,no,no,no
+3013456,1 ml vial: heparin sodium (porcine) 5000 unit/ml ij soln,IA,anticoagulant,no,no,no,no,no,no,no
+868576,1 ml vial: hydralazine hcl 20 mg/ml ij soln,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+955519,1 ml vial: lorazepam 2 mg/ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+1576503,10 ml  -  atropine sulfate 0.1 mg/ml ij soln,IV,Nervous system blocker,no,no,no,no,no,no,no
+5316952,10 ml  -  calcium gluconate 10 % iv soln,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+5290455,10 ml  -  heparin sodium (porcine) 1000 unit/ml ij soln,IV,anticoagulant,no,no,no,no,no,no,no
+3889034,10 ml  -  insulin glargine 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+1576486,10 ml  -  magnesium sulfate 50 % ij soln,IV,Treatment for constipation?,no,no,no,no,no,no,no
+1821622,10 ml  -  nicardipine hcl 2.5 mg/ml iv soln,IV,antihypertensive,no,no,no,no,no,no,no
+5380358,10 ml  -  potassium chloride 2 meq/ml iv soln,OTHER,Treatment for low blood potassium,no,no,no,no,no,no,no
+699731,10 ml cup : docusate sodium 50 mg/5ml po liqd,Oral,Treatment for constipation?,no,no,no,no,no,no,no
+3817576,10 ml cup : magnesium hydroxide 2400 mg/10ml po susp,PO,Treatment for constipation?,no,no,no,no,no,no,no
+3832891,10 ml cup : magnesium hydroxide 2400 mg/10ml po susp,PER NG TUBE,Treatment for constipation?,no,no,no,no,no,no,no
+3868751,10 ml cup : magnesium hydroxide 2400 mg/10ml po susp,PEG TUBE,Treatment for constipation?,no,no,no,no,no,no,no
+1576532,10 ml vial : calcium chloride 10 % iv soln,IV,Treatment for low blood calcium?,no,no,no,no,no,no,no
+4318720,10 ml vial : calcium gluconate 10 % iv soln,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+1114277,"10 ml vial : heparin (porcine) 1,000 unit/ml inj soln",IV,anticoagulant,no,no,no,no,no,no,no
+3370699,"10 ml vial : heparin (porcine) 1,000 unit/ml inj soln",IK,anticoagulant,no,no,no,no,no,no,no
+4491531,10 ml vial : heparin sodium (porcine) 1000 unit/ml ij soln,Intravenous,anticoagulant,no,no,no,no,no,no,no
+4492031,10 ml vial : heparin sodium (porcine) 1000 unit/ml ij soln,Intra-arterial,anticoagulant,no,no,no,no,no,no,no
+559924,10 ml vial : insulin aspart 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+637860,10 ml vial : insulin glargine 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+699732,10 ml vial : insulin regular human 100 unit/ml ij soln,Subcutaneous,Diabetes medication,no,no,no,no,no,no,no
+2715590,10 ml vial : insulin regular human 100 unit/ml ij soln,IV,Diabetes medication,no,no,no,no,no,no,no
+2955204,10 ml vial: infuvite iv inj,IV,Multivitamin,no,no,no,no,no,no,no
+6554289,10 ml vial: insulin glargine 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+895769,10 ml vial: insulin regular human 100 unit/ml ij soln,SC,Diabetes medication,no,no,no,no,no,no,no
+6792,100 ml  -  magnesium sulfate in d5w 10-5 mg/ml-% iv soln,IV,Treatment for constipation?,no,no,no,no,no,no,no
+1631103,100 ml  -  metronidazole in nacl 5-0.79 mg/ml-% iv soln,IV,Antibiotic?,no,no,no,no,no,no,no
+32056,100 ml  -  potassium chloride 20 meq/100ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5327271,100 ml  -  propofol 10 mg/ml iv emul,IV,Anesthetic?,no,no,no,no,no,no,no
+4907171,100 ml bag : sodium chloride 0.9 % 0.9 % iv solp,IV,Electrolyte?,no,no,no,no,no,no,no
+1619972,100 ml bag custom ndc : insulin infusion,IV,Diabetes medication,no,no,no,no,no,no,no
+552391,100 ml flex cont : magnesium sulfate in d5w 10-5 mg/ml-% iv soln,IV,Treatment for constipation?,no,no,no,no,no,no,no
+4488102,100 ml flex cont : magnesium sulfate in d5w 10-5 mg/ml-% iv soln,Intravenous,Treatment for constipation?,no,no,no,no,no,no,no
+5336631,100 ml flex cont : sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+5290496,100 ml glass cont : iopamidol 76 % iv soln,IV,"Contrast to help diagnose brain, heart, head, diseases",no,no,no,no,no,no,no
+556350,100 ml plas cont : potassium chloride 10 meq/100ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+6266120,100 ml vial : propofol 10 mg/ml iv emul,IV,Anesthetic?,no,no,no,no,no,no,no
+955518,100 ml: potassium chloride 20 meq/100ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+1576512,1000 ml  -  dextrose 5 % iv soln,IV,Glucose?,no,no,no,no,no,no,no
+5290487,1000 ml  -  dextrose-nacl 5-0.45 % iv soln,IV,Glucose?,no,no,no,no,no,no,no
+1620062,1000 ml  -  kcl in dextrose-nacl 20-5-0.45 meq/l-%-% iv soln,IV,Glucose?,no,no,no,no,no,no,no
+1576519,1000 ml  -  lactated ringers iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+3854767,1000 ml  -  sodium chloride 0.9 % iv soln,CRRT,Electrolyte?,no,no,no,no,no,no,no
+5290456,1000 ml  -  sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+2763155,1000 ml : lactated ringers iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+1120618,1000 ml : sodium chloride 0.9 % 0.9 % iv solp,IV,Electrolyte?,no,no,no,no,no,no,no
+4911951,1000 ml bag : lactated ringers iv solp,IV,Electrolyte?,no,no,no,no,no,no,no
+6337089,1000 ml flex cont : dextrose-nacl 5-0.45 % iv soln,IV,Glucose?,no,no,no,no,no,no,no
+2763147,1000 ml flex cont : sodium chloride 0.45 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+547740,1000 ml flex cont : sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+4469167,1000 ml flex cont : sodium chloride 0.9 % iv soln,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+6554307,1000 ml flex cont: dextrose-nacl 5-0.45 % iv soln,IV,Glucose?,no,no,no,no,no,no,no
+4623435,1000 ml flex cont: sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+4376567,15 ml cup : chlorhexidine gluconate 0.12 % mt soln,Mouth Rinse,Topical antiseptic,no,no,no,no,no,no,no
+3351791,15 ml cup : potassium chloride 10 % oral liqd,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+6212743,15 ml vial : sodium phosphate 3 mmole/ml iv soln,IV,Laxative?,no,no,no,no,no,no,no
+6212748,150 ml flex cont : sodium chloride 0.9 % iv soln,OTHER,Electrolyte?,no,no,no,no,no,no,no
+3865285,2 ml  -  digoxin 0.25 mg/ml ij soln,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+3817572,2 ml  -  famotidine 10 mg/ml iv soln,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+3882731,2 ml  -  fentanyl citrate 0.05 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+5320739,2 ml  -  furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+892,2 ml  -  metoclopramide hcl 5 mg/ml ij soln,IV,Antiemetic - treats GURD?,no,no,no,no,no,no,no
+1576529,2 ml  -  nitroprusside sodium 25 mg/ml iv soln,IV,Treats low blood pressure,no,no,no,no,no,no,no
+5290479,2 ml  -  prochlorperazine edisylate 5 mg/ml ij soln,IV,Antipsychotic,no,no,no,no,no,no,no
+6214552,2 ml : fentanyl citrate 0.05 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+672365,2 ml : furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+1115737,2 ml : metoclopramide hcl 5 mg/ml inj soln,IV,Antiemetic - treats GURD?,no,no,no,no,no,no,no
+1115742,2 ml : metoclopramide hcl 5 mg/ml inj soln,IM,Antiemetic - treats GURD?,no,no,no,no,no,no,no
+709960,2 ml : ondansetron hcl 4 mg/2ml iv soln,Intravenous,antiemetic,no,no,no,no,no,no,no
+868964,2 ml ampule: fentanyl citrate 0.05 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+4318714,2 ml vial : famotidine 10 mg/ml iv soln,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+709961,2 ml vial : famotidine 20 mg/2ml iv soln,Intravenous,Antihistamine and antiacid,no,no,no,no,no,no,no
+4488105,2 ml vial : fentanyl citrate 0.05 mg/ml ij soln,Subcutaneous,opioid,yes,yes,no,no,no,no,no
+4488108,2 ml vial : fentanyl citrate 0.05 mg/ml ij soln,Intravenous,opioid,yes,yes,no,no,no,no,no
+709959,2 ml vial : metoclopramide hcl 5 mg/ml ij soln,Intravenous,Antiemetic - treats GURD?,no,no,no,no,no,no,no
+3845843,2 ml vial : midazolam hcl 2 mg/2ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+912,2 ml vial : ondansetron hcl 4 mg/2ml ij soln,IV,antiemetic,no,no,no,no,no,no,no
+917885,2 ml vial: fentanyl citrate 0.05 mg/ml ij soln,IV,opioid,no,no,no,no,no,no,no
+4623871,2 ml vial: furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+4623430,2 ml vial: midazolam hcl 2 mg/2ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+6270093,2 ml: fentanyl citrate 0.05 mg/ml ij soln,IV,opioid,no,no,no,no,no,no,no
+4638151,2 ml: ondansetron hcl 4 mg/2ml ij soln,IV,antiemetic,no,no,no,no,no,no,no
+6358514,2.5 ml plas : ipratropium bromide 0.02 % in soln,Nebulization,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+3877217,20 ml  -  labetalol hcl 5 mg/ml iv soln,IV,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+5300951,20 ml  -  lidocaine hcl 1 % ij soln,SC,Local aneshetic,yes,no,no,no,no,no,no
+1576499,20 ml  -  potassium chloride 2 meq/ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5015600,20 ml vial : potassium chloride 2 meq/ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+6277513,20 ml vial : potassium chloride 2 meq/ml iv soln,OTHER,Treatment for low blood potassium,no,no,no,no,no,no,no
+953642,20 ml vial: potassium chloride 2 meq/ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+2763140,20.3 ml cup : acetaminophen 160 mg/5ml po soln,PER TUBE,apap,yes,no,no,no,no,no,no
+2796831,20.3 ml cup : acetaminophen 160 mg/5ml po soln,Per NG tube,apap,yes,no,no,no,no,no,no
+5290451,250 ml  -  albumin human 5 % iv soln,IV,Treatment for shock?,no,no,no,no,no,no,no
+5300161,250 ml  -  sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+4312073,250 ml flex cont : sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+3865282,3 ml  -  albuterol sulfate (2.5 mg/3ml) 0.083% in nebu,NEBULIZATION,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+906,3 ml  -  ipratropium-albuterol 0.5-2.5 (3) mg/3ml in soln,NEBULIZATION,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+4638155,3 ml plas cont: albuterol sulfate (2.5 mg/3ml) 0.083% in nebu,NEBULIZATION,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+4623426,3 ml plas cont: ipratropium-albuterol 0.5-2.5 (3) mg/3ml in soln,NEBULIZATION,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+5380351,3 ml syringe custom ndc : anticoagulant sodium citrate 4 % vi soln,IV,anticoagulant?,no,no,no,no,no,no,no
+891,3 ml vial : insulin lispro (human) 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+23020,3 ml vial : insulin regular human 100 unit/ml ij soln,SC,Diabetes medication,no,no,no,no,no,no,no
+1780373,3 ml vial : insulin regular human 100 unit/ml ij soln,IV,Diabetes medication,no,no,no,no,no,no,no
+23026,3.5 g  -  refresh p.m. op oint,BOTH EYES,Artificial tears?,no,no,no,no,no,no,no
+5364082,30 ml  -  iopamidol 61 % iv soln,IV,"Contrast to help diagnose brain, heart, head, diseases",no,no,no,no,no,no,no
+5414627,30 ml  -  lactulose 10 gm/15ml po soln,PO,Laxative?,no,no,no,no,no,no,no
+47476,30 ml cup : alum & mag hydroxide-simeth 200-200-20 mg/5ml po susp,PO,Antiacid,no,no,no,no,no,no,no
+743040,30 ml cup : alum & mag hydroxide-simeth 200-200-20 mg/5ml po susp,Oral,Antiacid,no,no,no,no,no,no,no
+1619990,30 ml cup : alum & mag hydroxide-simeth 200-200-20 mg/5ml po susp,PER NG TUBE,Antiacid,no,no,no,no,no,no,no
+4410257,30 ml cup : magnesium hydroxide 400 mg/5ml po susp,PO,Treatment for constipation?,no,no,no,no,no,no,no
+4461758,30 ml cup : magnesium hydroxide 400 mg/5ml po susp,Oral,Treatment for constipation?,no,no,no,no,no,no,no
+2796827,37.5 g tube : dextrose (diabetic use) 40 % po gel,Oral,Glucose?,no,no,no,no,no,no,no
+23000,37.5 g tube : glucose 40 % po gel,PO,Glucose,no,no,no,no,no,no,no
+1620064,37.5 g tube : glucose 40 % po gel,PER NG TUBE,Glucose,no,no,no,no,no,no,no
+888,4 ml  -  furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+6293854,4 ml : furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+743043,4 ml vial : furosemide 10 mg/ml ij soln,Intravenous,Diuretic,no,no,no,no,no,no,no
+4318734,4 ml vial : furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+1120626,4 ml vial : furosemide 10 mg/ml inj soln,IV,Diuretic,no,no,no,no,no,no,no
+4623880,4 ml vial: furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+3817574,473 ml  -  chlorhexidine gluconate 0.12 % mt soln,SWISH,Topical antiseptic,no,no,no,no,no,no,no
+1619957,5 g  -  lidocaine-prilocaine 2.5-2.5 % ex crea,TP,Local aneshetic,yes,no,no,no,no,no,no
+47501,5 ml  -  levetiracetam 500 mg/5ml iv soln,IV,anticonvulsant,no,no,no,no,no,no,no
+23011,5 ml  -  metoprolol tartrate 1 mg/ml iv soln,IV,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+3848069,5 ml syringe : heparin sodium lock flush 10 unit/ml iv soln,IK,anticoagulant,no,no,no,no,no,no,no
+5367643,5 ml syringe : heparin sodium lock flush 10 unit/ml iv soln,IV,anticoagulant,no,no,no,no,no,no,no
+900,5 ml vial : diltiazem hcl 25 mg/5ml iv soln,IV,antihypertensive,no,no,no,no,no,no,no
+756207,5 ml vial : metoprolol tartrate 1 mg/ml iv soln,Intravenous,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+55205,5 ml vial : sodium phosphate 3 mmole/ml iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+4623877,5 ml vial: metoprolol tartrate 1 mg/ml iv soln,IV,High blood pressure - beta blocker,no,no,no,yes,no,no,no
+5380371,50 ml  -  albumin human 25 % iv soln,IV,Treatment for shock?,no,no,no,no,no,no,no
+1576501,50 ml  -  potassium chloride 20 meq/50ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+4321518,50 ml : potassium chloride 20 meq/50ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+4922283,50 ml flex cont : magnesium sulfate 2 gram/50 ml (4 %) iv pgbk,IV,Treatment for constipation?,no,no,no,no,no,no,no
+7239,50 ml flex cont : magnesium sulfate 4% ij soln,IV,Treatment for constipation?,no,no,no,no,no,no,no
+6266129,50 ml flex cont : magnesium sulfate 40 mg/ml ij soln,IV,Treatment for constipation?,no,no,no,no,no,no,no
+868970,50 ml flex cont: magnesium sulfate 40 mg/ml ij soln,IV,Treatment for constipation?,no,no,no,no,no,no,no
+1576488,50 ml syringe : dextrose 50 % iv soln,IV,Glucose?,no,no,no,no,no,no,no
+2796834,50 ml syringe : dextrose 50 % iv soln,Intravenous,Glucose?,no,no,no,no,no,no,no
+5327283,50 ml syringe : sodium bicarbonate 8.4 % iv soln,IV,Treatment for metabolic acidosis?,no,no,no,no,no,no,no
+5367633,50 ml vial : sodium bicarbonate 8.4 % iv soln,IV,Treatment for metabolic acidosis?,no,no,no,no,no,no,no
+1576526,500 ml  -  heparin (porcine) in d5w 50-5 unit/ml-% iv soln,IV,anticoagulant,no,no,no,no,no,no,no
+5290454,500 ml  -  sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+6379683,500 ml : heparin (porcine) in d5w 50-5 unit/ml-% iv soln,Intravenous,anticoagulant,no,no,no,no,no,no,no
+1127854,500 ml : sodium chloride 0.9 % 0.9 % iv solp,IV,Electrolyte?,no,no,no,no,no,no,no
+570364,500 ml : sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+2740288,500 ml flex cont : sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+4640601,500 ml flex cont excel : sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+47488,8 g  -  albuterol sulfate hfa 108 (90 base) mcg/act in aers,IN,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+6513487,acetamin/hydrocodon 325mg/5mg,PO,apap/opiod,yes,yes,no,no,no,no,no
+156364,acetaminophen,PO,apap,yes,no,no,no,no,no,no
+156366,acetaminophen,.ROUTE,apap,yes,no,no,no,no,no,no
+480846,acetaminophen,RECT,apap,yes,no,no,no,no,no,no
+480852,acetaminophen,ORAL,apap,yes,no,no,no,no,no,no
+773271,acetaminophen,REC,apap,yes,no,no,no,no,no,no
+773822,acetaminophen,NG,apap,yes,no,no,no,no,no,no
+1383283,acetaminophen,GASTRIC TU,apap,yes,no,no,no,no,no,no
+2858631,acetaminophen,RTL,apap,yes,no,no,no,no,no,no
+3036841,acetaminophen,PR,apap,yes,no,no,no,no,no,no
+3351794,acetaminophen,RECTAL,apap,yes,no,no,no,no,no,no
+3754793,acetaminophen,NGTUBE,apap,yes,no,no,no,no,no,no
+4345890,acetaminophen,Oral,apap,yes,no,no,no,no,no,no
+6096812,acetaminophen,PO or NG,apap,yes,no,no,no,no,no,no
+1194591,acetaminophen  325 mg oral tab,Oral,apap,yes,no,no,no,no,no,no
+493765,acetaminophen (tylenol) tab 650 mg,PO,apap,yes,no,no,no,no,no,no
+525576,acetaminophen (tylenol) tab 975 mg,PO,apap,yes,no,no,no,no,no,no
+4989773,acetaminophen (tylenol) tablet 650 mg,Oral,apap,yes,no,no,no,no,no,no
+7010954,acetaminophen (tylenol) tablet 650 mg,PO,apap,yes,no,no,no,no,no,no
+3036847,acetaminophen 10 mg/ml 100 ml vial,IV,apap,yes,no,no,no,no,no,no
+552395,acetaminophen 325 mg po tabs,PO,apap,yes,no,no,no,no,no,no
+5224434,acetaminophen 325 mg po tabs,Oral,apap,yes,no,no,no,no,no,no
+5327273,acetaminophen 325 mg po tabs,PER NG TUBE,apap,yes,no,no,no,no,no,no
+5413669,acetaminophen 325 mg po tabs,PEG TUBE,apap,yes,no,no,no,no,no,no
+1114281,acetaminophen 325 mg rectal suppository,Rect,apap,yes,no,no,no,no,no,no
+237019,acetaminophen 325 mg tab,PO,apap,yes,no,no,no,no,no,no
+2119312,acetaminophen 325 mg tab,PR,apap,yes,no,no,no,no,no,no
+4903094,acetaminophen 325 mg tablet,Oral,apap,yes,no,no,no,no,no,no
+6916809,acetaminophen 325 mg tablet,PER NG TUBE,apap,yes,no,no,no,no,no,no
+1766701,acetaminophen 500 mg po tabs,PO,apap,yes,no,no,no,no,no,no
+4413618,acetaminophen 650 mg re supp,RE,apap,yes,no,no,no,no,no,no
+6339005,acetaminophen 650 mg re supp,Rectal,apap,yes,no,no,no,no,no,no
+4907170,acetaminophen 650 mg rectal suppository,Rect,apap,yes,no,no,no,no,no,no
+228909,acetaminophen 650mg rect supp,PR,apap,yes,no,no,no,no,no,no
+1477040,acetaminophen tab,PO,apap,yes,no,no,no,no,no,no
+6075293,acetaminophen-oxycodone 325 mg-5 mg oral tablet,PO,apap/opiod,yes,yes,no,no,no,no,no
+6118752,albumin (human) (plasbumin-5) 5% infusion 25 g,IV,Treatment for shock?,no,no,no,no,no,no,no
+237018,albumin 25% 100 ml inj,IVPB,Treatment for shock?,no,no,no,no,no,no,no
+238213,albumin 25% 100 ml inj,IV,Treatment for shock?,no,no,no,no,no,no,no
+6071038,albumin 5%,IVPB,Treatment for shock?,no,no,no,no,no,no,no
+268231,albumin 5% 250 ml inj,IV,Treatment for shock?,no,no,no,no,no,no,no
+2061803,albumin 5% 500 ml inj,IV,Treatment for shock?,no,no,no,no,no,no,no
+2474868,albumin human,IVPB,Treatment for shock?,no,no,no,no,no,no,no
+5224464,albumin human 25 % iv soln,Intravenous,Treatment for shock?,no,no,no,no,no,no,no
+224360,albumin human 25%,IV,Treatment for shock?,no,no,no,no,no,no,no
+3549729,albumin human 25%,INTRAVENOU,Treatment for shock?,no,no,no,no,no,no,no
+1436608,albumin human 5 % iv soln,IV,Treatment for shock?,no,no,no,no,no,no,no
+1436631,albumin human 5 % iv soln,Machine prim,Treatment for shock?,no,no,no,no,no,no,no
+1504387,albumin human 5 % iv soln,Intravenous,Treatment for shock?,no,no,no,no,no,no,no
+3962071,albumin human 5%,IV,Treatment for shock?,no,no,no,no,no,no,no
+7062205,albumin human 5%,INTRAVENOU,Treatment for shock?,no,no,no,no,no,no,no
+780974,albuterol 0.083%,INHL,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+2101967,albuterol 2.5 mg/0.5ml ud inh soln,SVN,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+4004920,albuterol 2.5 mg/3 ml ud inh soln,SVN,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+5676648,albuterol 2.5 mg/3 ml ud inh soln,INH,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+5848782,albuterol 2.5 mg/3 ml ud inh soln,NEB,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+4013114,albuterol inh soln (variable dose),SVN,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+5822119,albuterol inh soln (variable dose),NEB,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+6075304,albuterol inhale,Inhale,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+2479935,albuterol neb,Inhale,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+2946862,albuterol sulf,NEB,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+4376574,albuterol sulfate (2.5 mg/3ml) 0.083% in nebu,NEBULIZATION,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+5146884,albuterol sulfate (2.5 mg/3ml) 0.083% in nebu,Nebulization,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+42058,albuterol sulfate (5 mg/ml) 0.5% in nebu,NEBULIZATION,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+2543357,albuterol sulfate (proventil) (2.5 mg/3ml) 0.083% inhalation solution 2.5 mg,NEBULIZER,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+1922297,albuterol sulfate 2.5 mg/3 ml (0.083 %) neb solution 3 ml blist pack,NEBULIZATION,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+501009,albuterol-ipratropium (duoneb) inhalation solution 3 ml,NEBULIZER,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+3496091,albuterol-ipratropium (duoneb) nebulizer solution 3 ml,IN,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+424585,albuterol-ipratropium 3-0.5mg,MISC,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+6501373,albuterol/ipratropium,NEB,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+3766339,albuterol/ipratropium neb,INHALATION,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+3929289,albuterol/ipratropium neb 3ml,.ROUTE,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+5543145,albuterol/ipratropium neb 3ml,NEB,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+1383268,alprazolam,ORAL,Sedative,no,no,no,no,no,no,no
+2894784,alprazolam,Oral,Sedative,no,no,no,no,no,no,no
+3217109,alprazolam,DEVICE,Sedative,no,no,no,no,no,no,no
+6465731,alprazolam,PO,Sedative,no,no,no,no,no,no,no
+30349,alprazolam 0.25 mg po tabs,PO,Sedative,no,no,no,no,no,no,no
+3875084,alprazolam 0.5 mg po tabs,PO,Sedative,no,no,no,no,no,no,no
+501001,alteplase (cathflo activase) inj 2 mg,IV PUSH,Stroke/acute STEMI,no,no,no,no,no,no,no
+4040282,alteplase 1 mg/2ml syr,Catheter,Stroke/acute STEMI,no,no,no,no,no,no,no
+4056941,alteplase 1 mg/2ml syr,IV,Stroke/acute STEMI,no,no,no,no,no,no,no
+1003383,ambien,Oral,Sedative,no,no,no,no,no,no,no
+2380157,ambien,PO,Sedative,no,no,no,no,no,no,no
+929735,aminocaproic acid,.ROUTE,Antifibrinolytic - treats bleeding by enabling clotting,no,no,no,no,no,no,no
+3549727,aminocaproic acid,INTRAVENOU,Antifibrinolytic - treats bleeding by enabling clotting,no,no,no,no,no,no,no
+335531,amiodarone,MISC,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+480855,amiodarone,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+590266,amiodarone,Oral,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+1388523,amiodarone,INTRAVENOU,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+1530388,amiodarone,ORAL,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+2678301,amiodarone,IntraVENOUS,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+2844530,amiodarone,Intravenous,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+3321070,amiodarone,DEVICE,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+6105180,amiodarone (cordarone) 150 mg in d5w 100ml bolus,PERIPH IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+6118700,amiodarone (cordarone) 150 mg in d5w 100ml bolus,CENTRAL IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5694435,amiodarone 150 mg in 100 ml d5w,IV Push,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5711369,amiodarone 150 mg in 100 ml d5w,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5727144,amiodarone 150 mg in 100 ml d5w,IVPB,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+4014933,amiodarone 200 mg tab,PO,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+4056930,amiodarone 200 mg tab,FT,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+3942377,amiodarone 200 mg tablet,Oral,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5578983,amiodarone 200 mg tablet,PER NG TUBE,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+1619938,amiodarone 450 mg/250 ml d5w infusion (std con'c) (repackage),IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5683382,amiodarone 900 mg in 500 ml d5w,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5694438,amiodarone 900 mg in 500 ml d5w,IVPB,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+6089132,amiodarone bolus,IVPB,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+6607391,amiodarone hcl,PO,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+7255694,amiodarone hcl,INTRAVEN,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+5146875,amiodarone hcl 150 mg/3ml iv soln,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+3832880,amiodarone hcl 200 mg po tabs,PO,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+3868750,amiodarone hcl 200 mg po tabs,PEG TUBE,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+4265544,amiodarone hcl 900 mg/18ml iv soln,PERIPH IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+6118693,amiodarone hcl 900 mg/18ml iv soln,CENTRAL IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+607096,amlodipine,Oral,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+2043937,amlodipine 5 mg tab,PO,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+4922281,amlodipine 5 mg tablet,Oral,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+155185,amlodipine besylate,PO,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+3836601,amlodipine besylate 10 mg po tabs,PO,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+3877219,amlodipine besylate 5 mg po tabs,PO,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+7193685,amlodipine besylate 5 mg po tabs,Oral,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+1080219,ancef,IV,Antibiotic,no,no,no,no,no,no,no
+4885203,apresoline,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+4891789,apresoline,Oral,High blood pressure - vasodilator,no,no,no,no,no,no,no
+5613550,apresoline,PO,High blood pressure - vasodilator,no,no,no,no,no,no,no
+255771,ascorbic acid 500 mg tab,PO,Vitamin C?,no,no,no,no,no,no,no
+358221,aspart insulin,MISC,Diabetes medication,no,no,no,no,no,no,no
+862593,aspirin,.ROUTE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+887601,aspirin,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+2921539,aspirin,ORAL,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3028389,aspirin,PR,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3217099,aspirin,DEVICE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3566676,aspirin,ZPYXVEND,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4121246,aspirin,MISC,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4253142,aspirin,PO or NG,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4345889,aspirin,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+6935927,aspirin   81 mg oral chew tab,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3992917,aspirin (baby asa) 81 mg tab,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4089873,aspirin (baby asa) 81 mg tab,Chewed,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+5683377,aspirin (baby asa) 81 mg tab,NG,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+5805884,aspirin (baby asa) 81 mg tab,FT,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+791647,aspirin (chewable),ORAL,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3845844,aspirin 300 mg re supp,RE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+246250,aspirin 300 mg rect supp,PR,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+2032255,aspirin 325 mg ec tab,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+896,aspirin 325 mg po tabs,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+23033,aspirin 325 mg po tabs,PER NG TUBE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+730836,aspirin 325 mg po tabs,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+170056,aspirin 325 mg tablet,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+1943076,aspirin 325 mg tablet,PER NG TUBE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4021467,aspirin 325mg tab,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+5683353,aspirin 325mg tab,NG,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+5810737,aspirin 325mg tab,GTUBE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+1114270,aspirin 81 mg chewable tablet,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+247164,aspirin 81 mg ec tab,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+547704,aspirin 81 mg po chew,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3868741,aspirin 81 mg po chew,PEG TUBE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+3889040,aspirin 81 mg po chew,PER G TUBE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4416270,aspirin 81 mg po chew,PER TUBE,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4430872,aspirin 81 mg po chew,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+6104125,aspirin chew tab 81 mg,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+6118723,aspirin chew tab 81 mg,NGT,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+215936,aspirin chewable,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+1290503,aspirin ec,ORAL,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+1859682,aspirin ec,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+17246,aspirin ec 325 mg po tbec,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+28648,aspirin ec 81 mg po tbec,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+1283783,"aspirin, children's",ORAL,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+1388539,"aspirin, children's",GASTRIC TU,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+5616540,assess pneumococcal vaccine,MIS,Vaccine for pneumococcal diseases,no,no,no,no,no,no,no
+6422075,atenolol,ORAL,beta-blocker,no,no,no,yes,no,no,no
+335518,ativan,IV,Sedative,no,no,no,no,no,no,no
+2423993,ativan,PO,Sedative,no,no,no,no,no,no,no
+4891782,ativan,Oral,Sedative,no,no,no,no,no,no,no
+780972,atorvastatin,ORAL,Statin,no,no,no,no,yes,no,no
+804649,atorvastatin,TUBE,Statin,no,no,no,no,yes,no,no
+870209,atorvastatin,PO,Statin,no,no,no,no,yes,no,no
+4345885,atorvastatin,Oral,Statin,no,no,no,no,yes,no,no
+2046752,atorvastatin 20 mg tab,PO,Statin,no,no,no,no,yes,no,no
+2036734,atorvastatin 40 mg tab,PO,Statin,no,no,no,no,yes,no,no
+2176372,atorvastatin 40 mg tab,NG,Statin,no,no,no,no,yes,no,no
+2267017,atorvastatin 40 mg tab,Soak,Statin,no,no,no,no,yes,no,no
+3934781,atorvastatin 40 mg tablet,Oral,Statin,no,no,no,no,yes,no,no
+4623886,atorvastatin calcium 10 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+7193687,atorvastatin calcium 10 mg po tabs,Oral,Statin,no,no,no,no,yes,no,no
+4730392,atorvastatin calcium 20 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+5358571,atorvastatin calcium 20 mg po tabs,PER NG TUBE,Statin,no,no,no,no,yes,no,no
+695259,atorvastatin calcium 40 mg po tabs,Oral,Statin,no,no,no,no,yes,no,no
+882495,atorvastatin calcium 40 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+1663475,atorvastatin calcium 40 mg po tabs,PER NG TUBE,Statin,no,no,no,no,yes,no,no
+851047,atorvastatin calcium 80 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+1722519,atorvastatin calcium 80 mg po tabs,PEG TUBE,Statin,no,no,no,no,yes,no,no
+3688640,atorvastatin calcium 80 mg po tabs,Oral,Statin,no,no,no,no,yes,no,no
+4123824,atropine,MISC,Nervous system blocker,no,no,no,no,no,no,no
+4345886,atropine,IntraVENOUS,Nervous system blocker,no,no,no,no,no,no,no
+6015099,atropine,IV,Nervous system blocker,no,no,no,no,no,no,no
+6410422,atropine,Intravenous,Nervous system blocker,no,no,no,no,no,no,no
+6881098,atropine,DEVICE,Nervous system blocker,no,no,no,no,no,no,no
+3390171,atropine 0.1 mg/ml inj syringe,IV,Nervous system blocker,no,no,no,no,no,no,no
+1057315,atropine 0.1 mg/ml syringe : 10 ml syringe,IV,Nervous system blocker,no,no,no,no,no,no,no
+5251771,atropine injection 0.5 mg,Intravenous,Nervous system blocker,no,no,no,no,no,no,no
+7014116,atropine injection 0.5 mg,IV,Nervous system blocker,no,no,no,no,no,no,no
+5616538,atropine sulfate syringe,IV,Nervous system blocker,no,no,no,no,no,no,no
+193719,atrovent,INH,Treats wheezing and shortness of breath,no,no,no,no,no,no,no
+804638,azithromycin,IV,Antibiotic,no,no,no,no,no,no,no
+4023498,azithromycin 500 mg in ns 250 ml iv,IVPB,Antibiotic,no,no,no,no,no,no,no
+4095746,azithromycin 500 mg in ns 250 ml iv,IV,Antibiotic,no,no,no,no,no,no,no
+3903755,azithromycin 500 mg iv solr,IV,Antibiotic,no,no,no,no,no,no,no
+929739,bacitracin,.ROUTE,Antibiotic,no,no,no,no,no,no,no
+1003381,bayer chewable,Oral,Aspirin,no,no,yes - aspirin,no,no,Yes,no
+1015283,bayer chewable,NG Tube,Aspirin,no,no,yes - aspirin,no,no,yes,no
+381403,benadryl,PO,Antihistamine,no,no,no,no,no,no,no
+5628238,benadryl,IV,Antihistamine,no,no,no,no,no,no,no
+6880535,benadryl,Oral,Antihistamine,no,no,no,no,no,no,no
+622378,biotene dry mouth mt liqd,Mouth Rinse,Mouthwash,no,no,no,no,no,no,no
+780973,bisacodyl,ORAL,Laxative,no,no,no,no,no,no,no
+1530405,bisacodyl,RECTAL,Laxative,no,no,no,no,no,no,no
+2850483,bisacodyl,PR,Laxative,no,no,no,no,no,no,no
+2858650,bisacodyl,RTL,Laxative,no,no,no,no,no,no,no
+4530326,bisacodyl,Rectal,Laxative,no,no,no,no,no,no,no
+6040039,bisacodyl,PO,Laxative,no,no,no,no,no,no,no
+6232825,bisacodyl,Oral,Laxative,no,no,no,no,no,no,no
+2531486,bisacodyl (dulcolax) supp 10 mg,PR,Laxative,no,no,no,no,no,no,no
+4989654,bisacodyl (dulcolax) suppository 10 mg,RE,Laxative,no,no,no,no,no,no,no
+4994556,bisacodyl (dulcolax) suppository 10 mg,Rect,Laxative,no,no,no,no,no,no,no
+3714110,bisacodyl 10 mg pr supp,Rectal,Laxative,no,no,no,no,no,no,no
+889,bisacodyl 10 mg re supp,RE,Laxative,no,no,no,no,no,no,no
+699730,bisacodyl 10 mg re supp,Rectal,Laxative,no,no,no,no,no,no,no
+282431,bisacodyl 10 mg rect supp,PR,Laxative,no,no,no,no,no,no,no
+2035207,bisacodyl 5 mg ec tab,PO,Laxative,no,no,no,no,no,no,no
+4416264,bisacodyl 5 mg po tbec,PO,Laxative,no,no,no,no,no,no,no
+6627726,bumetanide,IV,Diuretic,no,no,no,no,no,no,no
+5912646,bumetanide 0.25 mg/1ml 4ml sdv inj,IV Push,Diuretic,no,no,no,no,no,no,no
+2495798,bumex,IV,Diuretic,no,no,no,no,no,no,no
+4863664,buminate,IV,Stroke/acute STEMI,no,no,no,no,no,no,no
+7112400,calcium carbonate,ORAL,Antiacid?,no,no,no,no,no,no,no
+5683375,calcium carbonate 500 mg chew tab,Chewed,Antiacid?,no,no,no,no,no,no,no
+5795686,calcium carbonate 500 mg chew tab,PO,Antiacid?,no,no,no,no,no,no,no
+5336259,calcium carbonate antacid 500 mg po chew,PO,Antiacid?,no,no,no,no,no,no,no
+6071043,calcium chloride,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+2043929,calcium gluconate 1 gram/d5w 50ml,IVPB,Treatment for low blood calcium,no,no,no,no,no,no,no
+2167992,calcium gluconate 1 gram/d5w 50ml,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+1436610,calcium gluconate 10 % iv soln,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+2531468,calcium gluconate 10 % iv soln 10ml,IVPB,Treatment for low blood calcium,no,no,no,no,no,no,no
+810303,calcium gluconate 10%,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+7174310,calcium gluconate 10%  sso,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+3172744,calcium gluconate 100 mg/ml (10 %) iv : 10 ml,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+6935937,calcium gluconate 100 mg/ml iv soln,IV,Treatment for low blood calcium,no,no,no,no,no,no,no
+5109298,calcium gluconate 2 g/50 ml ns,INTRAVENOU,Treatment for low blood calcium,no,no,no,no,no,no,no
+5683354,calcium gluconate 2 gram/d5w 50ml,IVPB,Treatment for low blood calcium,no,no,no,no,no,no,no
+4862894,cardizem,IV,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+3922342,carvedilol,PO,beta-blocker,no,no,no,yes,no,no,no
+4560305,carvedilol,ORAL,beta-blocker,no,no,no,yes,no,no,no
+1611005,carvedilol 12.5 mg po tabs,PO,beta-blocker,no,no,no,yes,no,no,no
+2817575,carvedilol 12.5 mg po tabs,Oral,beta-blocker,no,no,no,yes,no,no,no
+1634021,carvedilol 25 mg po tabs,PO,beta-blocker,no,no,no,yes,no,no,no
+112972,carvedilol 3.125 mg po tabs,PO,beta-blocker,no,no,no,yes,no,no,no
+727272,carvedilol 3.125 mg po tabs,Oral,beta-blocker,no,no,no,yes,no,no,no
+3714119,carvedilol 3.125 mg po tabs,Nasogastric Tube,beta-blocker,no,no,no,yes,no,no,no
+235256,carvedilol 3.125 mg tab,PO,beta-blocker,no,no,no,yes,no,no,no
+3894897,carvedilol 6.25 mg po tabs,PO,beta-blocker,no,no,no,yes,no,no,no
+7193691,carvedilol 6.25 mg po tabs,Oral,beta-blocker,no,no,no,yes,no,no,no
+4253141,cefazolin,IVPB,Antibiotic,no,no,no,no,no,no,no
+7062207,cefazolin,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+525567,cefazolin (ancef) in dextrose ivpb 2 g,IVPB,Antibiotic,no,no,no,no,no,no,no
+1290507,cefazolin 2 g/100 ml ns,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+4011175,cefazolin 2 gm in ns 100 ml ivpb,IV,Antibiotic,no,no,no,no,no,no,no
+4027266,cefazolin 2 gm in ns 100 ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+1619998,cefazolin 2 gm in ns 100 ml ivpb (repackage),IV,Antibiotic,no,no,no,no,no,no,no
+55204,cefepime hcl 2 g ij solr,IV,Antibiotic,no,no,no,no,no,no,no
+4303353,cefepime in d5w (maxipime) ivpb 1 g,IVPB,Antibiotic,no,no,no,no,no,no,no
+3998915,ceftriaxone 1 gram in ns 50 ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+4015044,ceftriaxone 1 gram in ns 50 ml ivpb,IV,Antibiotic,no,no,no,no,no,no,no
+501008,ceftriaxone in d5w (rocephin) ivpb 1 g,IVPB,Antibiotic,no,no,no,no,no,no,no
+5307736,ceftriaxone sodium 1 g ij solr,IV,Antibiotic,no,no,no,no,no,no,no
+3962066,cephulac,PO,Laxative?,no,no,no,no,no,no,no
+4989636,chlorhexidine (peridex) 0.12 % solution 15 ml,PO,Topical antiseptic,no,no,no,no,no,no,no
+4994566,chlorhexidine (peridex) 0.12 % solution 15 ml,MT,Topical antiseptic,no,no,no,no,no,no,no
+4271706,chlorhexidine (periogard) 0.12 % oral rinse 15 ml,ORAL MUCOSA,Topical antiseptic,no,no,no,no,no,no,no
+1504392,chlorhexidine gluconate 0.12 % mouth/throat soln multidose,Other,Topical antiseptic,no,no,no,no,no,no,no
+1290498,chlorhexidine gluconate 0.12%,MUCOUS MEM,Topical antiseptic,no,no,no,no,no,no,no
+2882983,chlorhexidine gluconate 0.12%,MTHW,Topical antiseptic,no,no,no,no,no,no,no
+242185,chlorhexidine gluconate ud liq 15ml,Swish,Topical antiseptic,no,no,no,no,no,no,no
+246814,chlorhexidine gluconate ud liq 15ml,Oral swab,Topical antiseptic,no,no,no,no,no,no,no
+2077300,chlorhexidine gluconate ud liq 15ml,PO,Topical antiseptic,no,no,no,no,no,no,no
+3832889,ciprofloxacin in d5w 400 mg/200ml iv soln,IV,Antibiotic,no,no,no,no,no,no,no
+5224480,ciprofloxacin in d5w 400 mg/200ml iv soln,Intravenous,Antibiotic,no,no,no,no,no,no,no
+5722774,clonidine 0.1 mg tab,PO,Sedative?,no,no,no,no,no,no,no
+1576498,clonidine hcl 0.1 mg po tabs,PO,Sedative?,no,no,no,no,no,no,no
+146541,clopidogrel,.ROUTE,Blood thinner,no,no,yes,no,no,no,no
+372943,clopidogrel,MISC,Blood thinner,no,no,yes,no,no,no,no
+405149,clopidogrel,PO,Blood thinner,no,no,yes,no,no,no,no
+480850,clopidogrel,PER_TUBE,Blood thinner,no,no,yes,no,no,no,no
+607097,clopidogrel,Oral,Blood thinner,no,no,yes,no,no,no,no
+779484,clopidogrel,ORAL,Blood thinner,no,no,yes,no,no,no,no
+2479917,clopidogrel,PO or NG,Blood thinner,no,no,yes,no,no,no,no
+3217100,clopidogrel,DEVICE,Blood thinner,no,no,yes,no,no,no,no
+256762,clopidogrel 75 mg tab,PO,Blood thinner,no,no,yes,no,no,no,no
+2043962,clopidogrel 75 mg tab,NG,Blood thinner,no,no,yes,no,no,no,no
+483889,clopidogrel bisulfate,PO (oral)                                                                                           ,Blood thinner,no,no,yes,no,no,no,no
+905044,clopidogrel bisulfate,PO,Blood thinner,no,no,yes,no,no,no,no
+932568,clopidogrel bisulfate,.ROUTE,Blood thinner,no,no,yes,no,no,no,no
+903,clopidogrel bisulfate 75 mg po tabs,PO,Blood thinner,no,no,yes,no,no,no,no
+45341,clopidogrel bisulfate 75 mg po tabs,PER NG TUBE,Blood thinner,no,no,yes,no,no,no,no
+75693,clopidogrel bisulfate 75 mg po tabs,PEG TUBE,Blood thinner,no,no,yes,no,no,no,no
+709964,clopidogrel bisulfate 75 mg po tabs,Oral,Blood thinner,no,no,yes,no,no,no,no
+484849,colace,PO,Laxative?,no,no,no,no,no,no,no
+3990430,colace,NG,Laxative?,no,no,no,no,no,no,no
+4767517,colace,Oral,Laxative?,no,no,no,no,no,no,no
+6842532,compazine,Oral,Antipsychotic,no,no,no,no,no,no,no
+4885204,cordarone,Oral,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+482626,coreg,PO,beta-blocker,no,no,no,yes,no,no,no
+978445,coreg,Oral,beta-blocker,no,no,no,yes,no,no,no
+2437399,coreg,PO (oral)                                                                                           ,beta-blocker,no,no,no,yes,no,no,no
+3339165,coumadin,Oral,Blood thinner,no,no,no,no,no,no,no
+4808729,cozaar,Oral,antihypertensive,no,no,no,no,no,no,no
+5647350,cozaar,PO,antihypertensive,no,no,no,no,no,no,no
+3121964,d50,IV,Glucose?,no,no,no,no,no,no,no
+987145,definity,IV,Contrast?,no,no,no,no,no,no,no
+4121225,dexmedetomidine,MISC,Sedative,no,no,no,no,no,no,no
+231403,dexmedetomidine 200 mcg in 50 ml ns,IV,Sedative,no,no,no,no,no,no,no
+4376563,dexmedetomidine hcl in nacl 200 mcg/50ml iv soln,IV,Sedative,no,no,no,no,no,no,no
+5327190,dexmedetomidine hcl in nacl 400 mcg/100ml iv soln,IV,Sedative,no,no,no,no,no,no,no
+5676646,dext 5% in water 1000 ml lvp,IV,Glucose?,no,no,no,no,no,no,no
+5691377,dext 5%-nacl 0.45% 1000 ml lvp,IV,Glucose?,no,no,no,no,no,no,no
+2095264,dext 5%-nacl 0.45%-kcl 20meq lvp,IV,Glucose?,no,no,no,no,no,no,no
+5752194,dext 5%-nacl 0.9% 1000 ml lvp,IV,Glucose?,no,no,no,no,no,no,no
+5225635,dextrose 5 % iv soln,Intravenous,Glucose?,no,no,no,no,no,no,no
+6744740,dextrose 5% in normal saline iv : 1000 ml bag,IV,Glucose?,no,no,no,no,no,no,no
+3110076,dextrose 5% in water (d5w) iv : 1000 ml bag,IV,Glucose?,no,no,no,no,no,no,no
+3668569,dextrose 5% sso,IV,Glucose?,no,no,no,no,no,no,no
+3545764,dextrose 5%-nacl 0.9%,INTRAVENOU,Glucose?,no,no,no,no,no,no,no
+1530402,dextrose 5%/nacl 0.45%,INTRAVEN,Glucose?,no,no,no,no,no,no,no
+3500382,dextrose 50 % (d50w) syringe,IV,Glucose?,no,no,no,no,no,no,no
+5251776,dextrose 50 % in water (d50w) injection 15 ml,Intravenous,Glucose?,no,no,no,no,no,no,no
+501005,dextrose 50 % inj,IV PUSH,Glucose?,no,no,no,no,no,no,no
+7014129,dextrose 50 % injection 50 ml,IV,Glucose?,no,no,no,no,no,no,no
+5224433,dextrose 50 % iv soln,Intravenous,Glucose?,no,no,no,no,no,no,no
+6337086,dextrose 50 % iv soln,IV,Glucose?,no,no,no,no,no,no,no
+4121265,dextrose 50%,IV,Glucose?,no,no,no,no,no,no,no
+6841547,dextrose 50%,DEVICE,Glucose?,no,no,no,no,no,no,no
+238215,dextrose 50% 25 gram/50 ml inj,IV Push,Glucose?,no,no,no,no,no,no,no
+2043951,dextrose 50% 25 gram/50 ml inj,IRR,Glucose?,no,no,no,no,no,no,no
+2046157,dextrose 50% 25 gram/50 ml inj,IV,Glucose?,no,no,no,no,no,no,no
+3995210,dextrose 50% 25 gram/50 ml syr,IV Push,Glucose?,no,no,no,no,no,no,no
+5683357,dextrose 50% 25 gram/50 ml syr,IV,Glucose?,no,no,no,no,no,no,no
+1969735,dextrose 50% abboject,IV,Glucose?,no,no,no,no,no,no,no
+6075307,dextrose 50% in water,IV,Glucose?,no,no,no,no,no,no,no
+6232826,dextrose 50% in water,IntraVENOUS,Glucose?,no,no,no,no,no,no,no
+7180329,dextrose 50% inj,IV,Glucose?,no,no,no,no,no,no,no
+7255707,dextrose 50% syringe,INTRAVEN,Glucose?,no,no,no,no,no,no,no
+6772140,dextrose 50% vial,IVP,Glucose?,no,no,no,no,no,no,no
+7255701,dextrose 50% vial,INTRAVEN,Glucose?,no,no,no,no,no,no,no
+1283774,dextrose 50%-water,INTRAVENOU,Glucose?,no,no,no,no,no,no,no
+5224435,dextrose-nacl 5-0.45 % iv soln,Intravenous,Glucose?,no,no,no,no,no,no,no
+4535860,diazepam,ORAL,Anxiolytic and Sedative,no,no,no,no,no,no,no
+5109290,diazepam,INTRAVENOU,Anxiolytic and Sedative,no,no,no,no,no,no,no
+6521422,diazepam,PO,Anxiolytic and Sedative,no,no,no,no,no,no,no
+3824991,diazepam 5 mg po tabs,PO,Anxiolytic and Sedative,no,no,no,no,no,no,no
+4256266,digoxin,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+4023502,digoxin 0.25 mg/1 ml 2 ml inj,IV Push,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+4657426,digoxin 125 mcg po tabs,PO,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+484855,dilaudid,IV,opioid,yes,yes,no,no,no,no,no
+213211,dilaudid 1mg/ml,IV,opioid,yes,yes,no,no,no,no,no
+1400955,diltiazem,INTRAVENOU,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+3285366,diltiazem,DEVICE,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+3615610,diltiazem,ZPYXVEND,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+4721017,diltiazem hcl,IV,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+70694,diltiazem hcl 30 mg po tabs,PO,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+4173881,diphenhydramine,MISC,Antihistamine,no,no,no,no,no,no,no
+4238407,diphenhydramine,PO,Antihistamine,no,no,no,no,no,no,no
+6075317,diphenhydramine,IV,Antihistamine,no,no,no,no,no,no,no
+258646,diphenhydramine 25 mg cap,PO,Antihistamine,no,no,no,no,no,no,no
+4004917,diphenhydramine 50 mg/1 ml 1 ml inj,IV Push,Antihistamine,no,no,no,no,no,no,no
+4637123,diphenhydramine hcl,.ROUTE,Antihistamine,no,no,no,no,no,no,no
+4665796,diphenhydramine hcl,IV,Antihistamine,no,no,no,no,no,no,no
+4910305,diphenhydramine hcl,ORAL,Antihistamine,no,no,no,no,no,no,no
+5549222,diphenhydramine hcl,PO,Antihistamine,no,no,no,no,no,no,no
+657726,diphenhydramine hcl 25 mg po caps,PO,Antihistamine,no,no,no,no,no,no,no
+3714132,diphenhydramine hcl 25 mg po caps,Oral,Antihistamine,no,no,no,no,no,no,no
+6935942,diphenhydramine hcl 50 mg/ml inj soln,IV,Antihistamine,no,no,no,no,no,no,no
+5613556,diprivan,IV,Anesthetic?,no,no,no,no,no,no,no
+476606,docusate,PO,Laxative,no,no,no,no,no,no,no
+4361566,docusate sodium,Feeding Tube,Laxative,no,no,no,no,no,no,no
+4361569,docusate sodium,Oral,Laxative,no,no,no,no,no,no,no
+4661559,docusate sodium,PO,Laxative,no,no,no,no,no,no,no
+5080115,docusate sodium,ORAL,Laxative,no,no,no,no,no,no,no
+7264216,docusate sodium,ORAL/TUBE,Laxative,no,no,no,no,no,no,no
+512028,docusate sodium (colace) cap 100 mg,PO,Laxative,no,no,no,no,no,no,no
+1219261,docusate sodium (colace) capsule 100 mg,PO,Laxative,no,no,no,no,no,no,no
+501002,docusate sodium (colace) oral liquid 100 mg,NGT,Laxative,no,no,no,no,no,no,no
+228434,docusate sodium 100 mg cap,PO,Laxative,no,no,no,no,no,no,no
+5552645,docusate sodium 100 mg capsule,Oral,Laxative,no,no,no,no,no,no,no
+654585,docusate sodium 100 mg po caps,PO,Laxative,no,no,no,no,no,no,no
+699727,docusate sodium 100 mg po caps,Oral,Laxative,no,no,no,no,no,no,no
+6935935,docusate sodium 250 mg oral cap,Oral,Laxative,no,no,no,no,no,no,no
+2695576,dopamine,IntraVENOUS,Blood pressure treatment,no,no,no,no,no,no,no
+4795365,dulcolax,Rectal,Laxative,no,no,no,no,no,no,no
+5613562,dulcolax,REC,Laxative,no,no,no,no,no,no,no
+338448,dulcolax laxative,Rectal,Laxative,no,no,no,no,no,no,no
+4792229,duoneb,Inhalation,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+5993531,duoneb,NEB,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+246827,duoneb 3 mg-0.5 mg/3 ml ud inh soln,SVN,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+1961529,ecotrin,PO,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+4758693,ecotrin ec,Oral,NSAID/blood thinner,no,no,yes - aspirin,no,no,yes,no
+773815,enoxaparin,SC,anticoagulant,no,no,no,no,no,no,no
+842727,enoxaparin,SQ,anticoagulant,no,no,no,no,no,no,no
+862594,enoxaparin,SUBCUT,anticoagulant,no,no,no,no,no,no,no
+3545762,enoxaparin,SUBCUTAN,anticoagulant,no,no,no,no,no,no,no
+4361562,enoxaparin,Subcutaneous,anticoagulant,no,no,no,no,no,no,no
+2513250,enoxaparin (lovenox) inj 40 mg,SUBQ,anticoagulant,no,no,no,no,no,no,no
+234225,enoxaparin 30 mg/0.3 ml syr,SubQ,anticoagulant,no,no,no,no,no,no,no
+175079,enoxaparin 40 mg/0.4 ml sub-q syringe .4 ml syringe,SubQ,anticoagulant,no,no,no,no,no,no,no
+3992915,enoxaparin 40 mg/0.4 ml syr,SubQ,anticoagulant,no,no,no,no,no,no,no
+3690708,enoxaparin inj,SUBQ,anticoagulant,no,no,no,no,no,no,no
+3848072,enoxaparin sodium 30 mg/0.3ml sc soln,SC,anticoagulant,no,no,no,no,no,no,no
+6788,enoxaparin sodium 40 mg/0.4ml sc soln,SC,anticoagulant,no,no,no,no,no,no,no
+929743,ephedrine sulfate,.ROUTE,Treats low blood pressure?,no,no,no,no,no,no,no
+2695575,epinephrine,IntraVENOUS,Treats low blood pressure?,no,no,no,no,no,no,no
+3615615,epinephrine,ZPYXVEND,Treats low blood pressure?,no,no,no,no,no,no,no
+2043948,epinephrine 8 mg in 250 ml ns,IV,Treats low blood pressure?,no,no,no,no,no,no,no
+2046167,epinephrine 8 mg in 250 ml ns,IVPB,Treats low blood pressure?,no,no,no,no,no,no,no
+5210793,esomeprazole inj,IV,Treats GURD?,no,no,no,no,no,no,no
+7062200,etomidate,INTRAVENOU,Anesthetic?,no,no,no,no,no,no,no
+338446,famotidine,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+773820,famotidine,NG,Antihistamine and antiacid,no,no,no,no,no,no,no
+773821,famotidine,ORAL,Antihistamine and antiacid,no,no,no,no,no,no,no
+875198,famotidine,PO,Antihistamine and antiacid,no,no,no,no,no,no,no
+1318617,famotidine,GASTRIC TU,Antihistamine and antiacid,no,no,no,no,no,no,no
+1350014,famotidine,INTRAVENOU,Antihistamine and antiacid,no,no,no,no,no,no,no
+3615623,famotidine,ZPYXVEND,Antihistamine and antiacid,no,no,no,no,no,no,no
+4271714,famotidine (pepcid) (2 mg/ml) inj dilution 20 mg,IV PUSH,Antihistamine and antiacid,no,no,no,no,no,no,no
+4292758,famotidine (pepcid) (2 mg/ml) inj dilution 20 mg,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+4271719,famotidine (pepcid) tab 20 mg,PO,Antihistamine and antiacid,no,no,no,no,no,no,no
+4303344,famotidine (pepcid) tab 20 mg,NGT,Antihistamine and antiacid,no,no,no,no,no,no,no
+1532493,famotidine (pepcid) tablet 20 mg,Oral,Antihistamine and antiacid,no,no,no,no,no,no,no
+777775,famotidine (pf),IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+4938019,famotidine (pf) 20 mg/2 ml iv soln,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+547739,famotidine 20 mg po tabs,PO,Antihistamine and antiacid,no,no,no,no,no,no,no
+3889043,famotidine 20 mg po tabs,PER G TUBE,Antihistamine and antiacid,no,no,no,no,no,no,no
+4458036,famotidine 20 mg po tabs,Oral,Antihistamine and antiacid,no,no,no,no,no,no,no
+4006306,famotidine 20 mg tab,PO,Antihistamine and antiacid,no,no,no,no,no,no,no
+5752176,famotidine 20 mg tab,NG,Antihistamine and antiacid,no,no,no,no,no,no,no
+1127867,famotidine 20 mg tablet,Oral,Antihistamine and antiacid,no,no,no,no,no,no,no
+228432,famotidine 20 mg/2 ml sdv inj,IV Push,Antihistamine and antiacid,no,no,no,no,no,no,no
+301400,famotidine 20 mg/2 ml sdv inj,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+4123816,fentanyl,MISC,opioid,yes,yes,no,no,no,no,no
+4561918,fentanyl,IV,opioid,yes,yes,no,no,no,no,no
+6688533,fentanyl,DEVICE,opioid,yes,yes,no,no,no,no,no
+3993454,fentanyl (pf) 50 mcg/1 ml 2 ml inj,IV Push,opioid,yes,yes,no,no,no,no,no
+4010171,fentanyl (pf) 50 mcg/1 ml 2 ml inj,IV Sedation,opioid,yes,yes,no,no,no,no,no
+4040271,fentanyl (pf) 50 mcg/1 ml 2 ml inj,IV,opioid,yes,yes,no,no,no,no,no
+276733,fentanyl (pf) 50 mcg/1 ml 2 ml syr,IV Push,opioid,yes,yes,no,no,no,no,no
+324745,fentanyl (pf) 50 mcg/1 ml 2 ml syr,IV Sedation,opioid,yes,yes,no,no,no,no,no
+5683362,fentanyl 1000 mcg in 100 ml ns,IV,opioid,yes,yes,no,no,no,no,no
+5683379,fentanyl 1000 mcg in 100 ml ns,IVPB,opioid,yes,yes,no,no,no,no,no
+2531464,fentanyl 2000 mcg in d5w 100 ml infusion final conc = 20 mcg/ml,IV,opioid,yes,yes,no,no,no,no,no
+5069103,fentanyl 2000 mcg/100 ml ns,COSIG IV,opioid,yes,yes,no,no,no,no,no
+5109306,fentanyl 2000 mcg/100 ml ns,INTRAVENOU,opioid,yes,yes,no,no,no,no,no
+7077838,fentanyl 2000 mcg/100 ml ns,ZPYXVEND,opioid,yes,yes,no,no,no,no,no
+7145378,fentanyl 25 mcg/ml iv soln,IV,opioid,yes,yes,no,no,no,no,no
+870208,fentanyl citrate,.ROUTE,opioid,yes,yes,no,no,no,no,no
+875651,fentanyl citrate,IV,opioid,yes,yes,no,no,no,no,no
+5069101,fentanyl citrate (pf),INTRAVENOU,opioid,yes,yes,no,no,no,no,no
+7077835,fentanyl citrate (pf),ZPYXVEND,opioid,yes,yes,no,no,no,no,no
+1166030,fentanyl citrate (pf) 50 mcg/ml inj soln,IV,opioid,yes,yes,no,no,no,no,no
+1445910,fentanyl citrate 0.05 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+5224487,fentanyl citrate 0.05 mg/ml inj soln (range) prn,Intravenous,opioid,yes,yes,no,no,no,no,no
+3922344,fentanyl citrate inj,INJ,opioid,yes,yes,no,no,no,no,no
+3933074,fentanyl citrate inj,.ROUTE,opioid,yes,yes,no,no,no,no,no
+5549216,fentanyl citrate inj,IVP,opioid,yes,yes,no,no,no,no,no
+6165971,fentanyl inj 25 mcg,IV PUSH,opioid,yes,yes,no,no,no,no,no
+6117319,fentanyl inj 50 mcg,IV PUSH,opioid,yes,yes,no,no,no,no,no
+5290482,fentanyl standard infusion 10 mcg/ml premix,IV,opioid,yes,yes,no,no,no,no,no
+484852,flagyl,IVPB,Antibiotic,no,no,no,no,no,no,no
+4853927,flomax,Oral,Treatment for enlarged prostate?,no,no,no,no,no,no,no
+3849532,fluticasone-salmeterol 250-50 mcg/dose in aepb,IN,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+5647377,folic acid,PO,Vitamin B?,no,no,no,no,no,no,no
+3848074,folic acid 1 mg po tabs,PO,Vitamin B?,no,no,no,no,no,no,no
+3848079,folic acid 1 mg po tabs,PER NG TUBE,Vitamin B?,no,no,no,no,no,no,no
+2056188,folic acid 1 mg tab,PO,Vitamin B?,no,no,no,no,no,no,no
+2119309,folic acid 1 mg tab,NG,Vitamin B?,no,no,no,no,no,no,no
+3848081,folic acid 5 mg/ml ij soln,IV,Vitamin B?,no,no,no,no,no,no,no
+6189669,folic acid 5 mg/ml ij soln,IV PUSH,Vitamin B?,no,no,no,no,no,no,no
+335537,furosemide,MISC,Diuretic,no,no,no,no,no,no,no
+480853,furosemide,IV,Diuretic,no,no,no,no,no,no,no
+929716,furosemide,PO,Diuretic,no,no,no,no,no,no,no
+1383284,furosemide,INTRAVENOU,Diuretic,no,no,no,no,no,no,no
+1530395,furosemide,INTRAVEN,Diuretic,no,no,no,no,no,no,no
+2699777,furosemide,IntraVENOUS,Diuretic,no,no,no,no,no,no,no
+2858653,furosemide,ORAL,Diuretic,no,no,no,no,no,no,no
+3231063,furosemide,DEVICE,Diuretic,no,no,no,no,no,no,no
+3607998,furosemide,ZPYXVEND,Diuretic,no,no,no,no,no,no,no
+6144671,furosemide (lasix) inj 20 mg,IV PUSH,Diuretic,no,no,no,no,no,no,no
+525566,furosemide (lasix) inj 40 mg,IV PUSH,Diuretic,no,no,no,no,no,no,no
+4989649,furosemide (lasix) injection 20 mg,IV,Diuretic,no,no,no,no,no,no,no
+4997641,furosemide (lasix) injection 40 mg,IV,Diuretic,no,no,no,no,no,no,no
+2591217,furosemide (lasix) tab 40 mg,PO,Diuretic,no,no,no,no,no,no,no
+1233069,furosemide (lasix) tablet 40 mg,PO,Diuretic,no,no,no,no,no,no,no
+3500377,furosemide (lasix) tablet 40 mg,Oral,Diuretic,no,no,no,no,no,no,no
+4016773,furosemide 10 mg/1 ml 2ml sdv inj,IV Push,Diuretic,no,no,no,no,no,no,no
+4108867,furosemide 10 mg/1 ml 2ml sdv inj,IV,Diuretic,no,no,no,no,no,no,no
+252602,furosemide 10 mg/1 ml 4ml sdv inj,IV Push,Diuretic,no,no,no,no,no,no,no
+276732,furosemide 10 mg/1 ml 4ml sdv inj,IV,Diuretic,no,no,no,no,no,no,no
+5146867,furosemide 10 mg/ml ij soln,IV,Diuretic,no,no,no,no,no,no,no
+5224472,furosemide 10 mg/ml inj soln,Intravenous,Diuretic,no,no,no,no,no,no,no
+7174331,furosemide 10mg/ml sso,IV,Diuretic,no,no,no,no,no,no,no
+3817575,furosemide 20 mg po tabs,PO,Diuretic,no,no,no,no,no,no,no
+2176359,furosemide 20 mg tab,PO,Diuretic,no,no,no,no,no,no,no
+3817568,furosemide 40 mg po tabs,PO,Diuretic,no,no,no,no,no,no,no
+4063469,furosemide 40 mg tab,PO,Diuretic,no,no,no,no,no,no,no
+484853,gabapentin,PO,anticonvulsant,maybe,no,no,no,no,no,no
+45337,gabapentin 100 mg po caps,PO,anticonvulsant,maybe,no,no,no,no,no,no
+251486,gabapentin 300 mg cap,PO,anticonvulsant,maybe,no,no,no,no,no,no
+5462446,gabapentin 300 mg po caps,PO,anticonvulsant,maybe,no,no,no,no,no,no
+1969732,glucagen,IM,antihypoglycemic,no,no,no,no,no,no,no
+1310850,glucagon,SUBCUTAN,antihypoglycemic,no,no,no,no,no,no,no
+2996806,glucagon,IM,antihypoglycemic,no,no,no,no,no,no,no
+6232829,glucagon,Subcutaneous,antihypoglycemic,no,no,no,no,no,no,no
+6232831,glucagon,IntraMUSCULAR,antihypoglycemic,no,no,no,no,no,no,no
+6416049,glucagon (human recombinant),SC,antihypoglycemic,no,no,no,no,no,no,no
+6916933,glucagon (human recombinant) 1 mg/ml solution for injection,SubQ,antihypoglycemic,no,no,no,no,no,no,no
+6916935,glucagon (human recombinant) 1 mg/ml solution for injection,IM,antihypoglycemic,no,no,no,no,no,no,no
+228908,glucagon 1 mg (1 unit) inj,SubQ,antihypoglycemic,no,no,no,no,no,no,no
+1576500,glucagon hcl (rdna) 1 mg ij solr,IM,antihypoglycemic,no,no,no,no,no,no,no
+3714095,glucagon hcl (rdna) 1 mg inj solr,Subcutaneous,antihypoglycemic,no,no,no,no,no,no,no
+3674937,glucagon inj,IM,antihypoglycemic,no,no,no,no,no,no,no
+1310848,glucose,ORAL,Glucose,no,no,no,no,no,no,no
+3995208,glucose 15 gram/60 ml bq liq,PO,Glucose,no,no,no,no,no,no,no
+4040265,glucose 15 gram/60 ml bq liq,FT,Glucose,no,no,no,no,no,no,no
+235627,glucose 40% 15 gram bq gel,PO,Glucose,no,no,no,no,no,no,no
+6416056,glucose 40% gel,ORAL,Glucose,no,no,no,no,no,no,no
+1504391,glucose-vitamin c 4-0.006 g po chew,Oral,Glucose,no,no,no,no,no,no,no
+1969736,glutose 15,PO,antihypoglycemic,no,no,no,no,no,no,no
+6607406,glycopyrrolate,IM,Treats peptic ulcers?,no,no,no,no,no,no,no
+905,guaifenesin er 600 mg po tb12,PO,Treats coughs and colds,no,no,no,no,no,no,no
+213202,haldol,IV,Antipsychotic,maybe,no,no,no,no,no,no
+213203,haldol,IM,Antipsychotic,maybe,no,no,no,no,no,no
+802707,haloperidol,IV,Antipsychotic,maybe,no,no,no,no,no,no
+802709,haloperidol,IM,Antipsychotic,maybe,no,no,no,no,no,no
+2881028,haloperidol,ORAL,Antipsychotic,maybe,no,no,no,no,no,no
+2082289,haloperidol 5 mg/1 ml 1 ml inj,IV Push,Antipsychotic,maybe,no,no,no,no,no,no
+2141974,haloperidol 5 mg/1 ml 1 ml inj,IM,Antipsychotic,maybe,no,no,no,no,no,no
+2850497,haloperidol lactate,IV,Antipsychotic,maybe,no,no,no,no,no,no
+3604921,haloperidol lactate,INTRAVENOU,Antipsychotic,maybe,no,no,no,no,no,no
+335528,heparin,MISC,anticoagulant,no,no,no,no,no,no,no
+335539,heparin,IV,anticoagulant,no,no,no,no,no,no,no
+484856,heparin,Subcutan,anticoagulant,no,no,no,no,no,no,no
+2386198,heparin,Subcut,anticoagulant,no,no,no,no,no,no,no
+3285651,heparin,DEVICE,anticoagulant,no,no,no,no,no,no,no
+4539252,heparin,INTRA-ARTERIAL,anticoagulant,no,no,no,no,no,no,no
+5044579,heparin,.ROUTE,anticoagulant,no,no,no,no,no,no,no
+6442488,heparin,SC,anticoagulant,no,no,no,no,no,no,no
+3962067,heparin (porcine),SUBQ,anticoagulant,no,no,no,no,no,no,no
+6410419,heparin (porcine),Subcutaneous,anticoagulant,no,no,no,no,no,no,no
+3450319,heparin (porcine)  1000 unit/ml inj soln,IV,anticoagulant,no,no,no,no,no,no,no
+4885016,"heparin (porcine) 1,000 unit/ml injection : 10 ml vial",IV,anticoagulant,no,no,no,no,no,no,no
+4758694,"heparin (porcine) 5,000 unit/ml injection : 1 ml vial",subCUT,anticoagulant,no,no,no,no,no,no,no
+4827523,"heparin (porcine) 5,000 unit/ml injection : 1 ml vial",IV,anticoagulant,no,no,no,no,no,no,no
+6744247,heparin (porcine) in 1/2 ns,IV,anticoagulant,no,no,no,no,no,no,no
+2719237,heparin (porcine) in nacl 100-0.45 unit/ml-% ij soln,IV,anticoagulant,no,no,no,no,no,no,no
+4998830,"heparin (porcine) injection 5,000 units",SC,anticoagulant,no,no,no,no,no,no,no
+1350020,"heparin 1,000 unit/ml",INTRAVENOU,anticoagulant,no,no,no,no,no,no,no
+3577454,"heparin 1,000 unit/ml",ZPYXVEND,anticoagulant,no,no,no,no,no,no,no
+231401,"heparin 25,000 unit(s) in d5w 25",IV,anticoagulant,no,no,no,no,no,no,no
+2341645,"heparin 25,000 unit(s) in d5w 25",IVPB,anticoagulant,no,no,no,no,no,no,no
+5051160,"heparin 25,000 unit/500 ml d5w",INTRAVENOU,anticoagulant,no,no,no,no,no,no,no
+5080114,"heparin 25,000 unit/500 ml d5w",COSIG IV,anticoagulant,no,no,no,no,no,no,no
+1310866,"heparin 5,000 unit/ml",SUBCUTAN,anticoagulant,no,no,no,no,no,no,no
+3566678,"heparin 5,000 unit/ml",ZPYXVEND,anticoagulant,no,no,no,no,no,no,no
+3604936,"heparin 5,000 unit/ml",INTRAVENOU,anticoagulant,no,no,no,no,no,no,no
+228431,heparin 5000 unit/ml 1ml inj,SubQ,anticoagulant,no,no,no,no,no,no,no
+233591,heparin 5000 unit/ml 1ml inj,IV,anticoagulant,no,no,no,no,no,no,no
+238361,heparin 5000 unit/ml 1ml inj,IV Push,anticoagulant,no,no,no,no,no,no,no
+257831,heparin 5000 unit/ml 1ml inj,Catheter,anticoagulant,no,no,no,no,no,no,no
+2513256,"heparin inj 5,000 units",IV PUSH,anticoagulant,no,no,no,no,no,no,no
+2531501,"heparin inj 5,000 units",SUBQ,anticoagulant,no,no,no,no,no,no,no
+2576942,"heparin inj 5,000 units",IA,anticoagulant,no,no,no,no,no,no,no
+862595,heparin sod (porcine),.ROUTE,anticoagulant,no,no,no,no,no,no,no
+887604,heparin sod (porcine),SUBCUT,anticoagulant,no,no,no,no,no,no,no
+902766,heparin sod (porcine),IV,anticoagulant,no,no,no,no,no,no,no
+5154025,heparin sodium (porcine) 5000 unit/ml ij soln,IV,anticoagulant,no,no,no,no,no,no,no
+7138757,heparin sodium (porcine) 5000 unit/ml ij soln,SC,anticoagulant,no,no,no,no,no,no,no
+5225630,heparin sodium (porcine) pf 5000 unit/0.5ml inj soln,Subcutaneous,anticoagulant,no,no,no,no,no,no,no
+7219255,heparin sodium lock flush 10 unit/ml iv soln,Flush,anticoagulant,no,no,no,no,no,no,no
+489115,heparin subcutaneous,Subcutan,anticoagulant,no,no,no,no,no,no,no
+1166028,"heparin, porcine (pf) 5000 unit/0.5 ml inj syringe",SubQ,anticoagulant,no,no,no,no,no,no,no
+862590,heparin/dextrose 5% 25000 units/250 ml bag,IV,anticoagulant,no,no,no,no,no,no,no
+3982749,humulin r,SUBQ,Diabetes medication,no,no,no,no,no,no,no
+424599,hydralazine,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+1383292,hydralazine,INTRAVENOU,High blood pressure - vasodilator,no,no,no,no,no,no,no
+4034395,hydralazine 20 mg/1 ml 1 ml inj,IV Push,High blood pressure - vasodilator,no,no,no,no,no,no,no
+5676651,hydralazine 20 mg/1 ml 1 ml inj,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+887594,hydralazine hcl,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+5146872,hydralazine hcl 20 mg/ml ij soln,IV,High blood pressure - vasodilator,no,no,no,no,no,no,no
+1489207,hydralazine hcl 20 mg/ml inj soln (range) prn,Intravenous,High blood pressure - vasodilator,no,no,no,no,no,no,no
+3837808,hydralazine hcl 25 mg po tabs,PO,High blood pressure - vasodilator,no,no,no,no,no,no,no
+5339141,hydralazine hcl 50 mg po tabs,PO,High blood pressure - vasodilator,no,no,no,no,no,no,no
+1887532,hydrocodone 5 mg-acetaminophen 325 mg tablet,Oral,opioid,yes,yes,no,no,no,no,no
+4345887,hydrocodone-acetaminophen,Oral,opioid,yes,yes,no,no,no,no,no
+109716,hydrocodone-acetaminophen 10-325 mg po tabs,PO,opioid,yes,yes,no,no,no,no,no
+3836594,hydrocodone-acetaminophen 5-325 mg po tabs,PO,opioid,yes,yes,no,no,no,no,no
+3848071,hydrocodone-acetaminophen 5-325 mg po tabs,PER NG TUBE,opioid,yes,yes,no,no,no,no,no
+4491527,hydrocodone-acetaminophen 5-325 mg po tabs,Oral,opioid,yes,yes,no,no,no,no,no
+5413675,hydrocodone-acetaminophen 5-325 mg po tabs,PEG TUBE,opioid,yes,yes,no,no,no,no,no
+3754777,hydrocodone/apap 5mg/325mg,ORAL,opioid,yes,yes,no,no,no,no,no
+3998059,hydrocortisone  (pf) 100 mg inj,IV Push,Steroid,No,No,no,no,no,no,no
+4040281,hydrocortisone  (pf) 100 mg inj,IV,Steroid,No,No,no,no,no,no,no
+3848080,hydrocortisone sod succinate 100 mg ij solr,IV,Steroid,No,No,no,no,no,no,no
+776348,hydromorphone,Intravenous,opioid,yes,yes,no,no,no,no,no
+2495794,hydromorphone,IV,opioid,yes,yes,no,no,no,no,no
+540158,hydromorphone (dilaudid) 1 mg/ml inj 0.5 mg,IV PUSH,opioid,yes,yes,no,no,no,no,no
+3450341,hydromorphone (pf)  1 mg/ml inj syringe,IV,opioid,yes,yes,no,no,no,no,no
+4106426,hydromorphone 1 mg/1 ml syr,IV Push,opioid,yes,yes,no,no,no,no,no
+5257318,hydromorphone hcl,INTRAVEN,opioid,yes,yes,no,no,no,no,no
+6513489,hydromorphone hcl,IV,opioid,yes,yes,no,no,no,no,no
+7264196,hydromorphone hcl,ORAL,opioid,yes,yes,no,no,no,no,no
+3933079,hydromorphone inj,IVP,opioid,yes,yes,no,no,no,no,no
+2925377,ibuprofen,ORAL,NSAID,yes,no,no,no,no,no,no
+1108151,imdur,Oral,Treats heart related chest pain,no,no,no,no,no,no,no
+2043919,insulin (regular) 100 units in 1,IVPB,Diabetes medication,no,no,no,no,no,no,no
+2043920,insulin (regular) 100 units in 1,IV,Diabetes medication,no,no,no,no,no,no,no
+1290505,insulin aspart,SUBCUTAN,Diabetes medication,no,no,no,no,no,no,no
+4668517,insulin aspart,SUBCUT,Diabetes medication,no,no,no,no,no,no,no
+6140296,insulin aspart (novolog) inj,SUBQ,Diabetes medication,no,no,no,no,no,no,no
+672360,insulin aspart 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+474037,insulin aspart corrective dosing,Subcutan,Diabetes medication,no,no,no,no,no,no,no
+945603,insulin detemir,SUBCUT,Diabetes medication,no,no,no,no,no,no,no
+5580410,insulin detemir 100 unit/ml sub-q 10 ml vial,SubQ,Diabetes medication,no,no,no,no,no,no,no
+7255695,insulin hum-reg (per unit),INTRAVEN,Diabetes medication,no,no,no,no,no,no,no
+1530387,insulin humalog (per unit),SUBCUTAN,Diabetes medication,no,no,no,no,no,no,no
+780977,insulin human regular,SC,Diabetes medication,no,no,no,no,no,no,no
+5249976,insulin lantus (per unit),SUBCUTAN,Diabetes medication,no,no,no,no,no,no,no
+5046966,insulin lispro,SUBCUTAN,Diabetes medication,no,no,no,no,no,no,no
+7257855,insulin lispro (humalog) injection 0-20 units,Subcutaneous,Diabetes medication,no,no,no,no,no,no,no
+1442123,insulin lispro (human) 100 unit/ml sc soln,SC,Diabetes medication,no,no,no,no,no,no,no
+5224462,insulin lispro (human) 100 unit/ml subcu soln extemp inj,Intravenous,Diabetes medication,no,no,no,no,no,no,no
+7217603,insulin lispro (human) 100 unit/ml subcu soln extemp inj,Subcutaneous,Diabetes medication,no,no,no,no,no,no,no
+3674938,"insulin lispro, recombinant",SUBQ,Diabetes medication,no,no,no,no,no,no,no
+5051161,insulin reg 100 units/100 ml,INTRAVENOU,Diabetes medication,no,no,no,no,no,no,no
+5063102,insulin reg 100 units/100 ml,COSIG IV,Diabetes medication,no,no,no,no,no,no,no
+1436625,insulin regular human 100 unit/ml ij soln,SC,Diabetes medication,no,no,no,no,no,no,no
+1436630,insulin regular human 100 unit/ml ij soln,IV,Diabetes medication,no,no,no,no,no,no,no
+5224446,insulin regular human 100 unit/ml inj soln,Intravenous,Diabetes medication,no,no,no,no,no,no,no
+2850494,"insulin regular, human",IV,Diabetes medication,no,no,no,no,no,no,no
+2850496,"insulin regular, human",SQ,Diabetes medication,no,no,no,no,no,no,no
+235631,insulin-glargine *unit* inj,SubQ,Diabetes medication,no,no,no,no,no,no,no
+3998057,insulin-lispro (rdna) *unit* inj,SubQ,Diabetes medication,no,no,no,no,no,no,no
+2043950,insulin-regular (human) *unit* inj,IRR,Diabetes medication,no,no,no,no,no,no,no
+2090855,insulin-regular (human) *unit* inj,IV Push,Diabetes medication,no,no,no,no,no,no,no
+2330670,insulin-regular (human) *unit* inj,IV,Diabetes medication,no,no,no,no,no,no,no
+3450334,iohexol 350 mg iodine/ml iv soln,Miscellaneou,Contrast agent for imaging purposes,no,no,no,no,no,no,no
+4642472,iopamidol,IV,"Contrast to help diagnose brain, heart, head, diseases",no,no,no,no,no,no,no
+6415545,iopamidol,RADINJ,"Contrast to help diagnose brain, heart, head, diseases",no,no,no,no,no,no,no
+6075300,ipratropium,Inhale,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+6251714,ipratropium,Nebulization,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+4013118,ipratropium 0.5 mg/2.5ml ud inh soln,SVN,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+5934011,ipratropium 0.5 mg/2.5ml ud inh soln,NEB,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+4396972,ipratropium bromide 0.02 % in soln,NEBULIZATION,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+609326,ipratropium-albuterol,Nebulization,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+175076,ipratropium-albuterol 0.5 mg-3 mg(2.5 mg base)/3 ml neb solution 3 ml vial,NEBULIZATION,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+622379,ipratropium-albuterol 0.5-2.5 (3) mg/3ml in soln,NEBULIZATION,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+1442121,ipratropium-albuterol 0.5-2.5 (3) mg/3ml in soln,Nebulization,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+3830315,isosorbide mononitrate er 30 mg po tb24,PO,Treats heart related chest pain,no,no,no,no,no,no,no
+1436626,k phos mono-sod phos di & mono 155-852-130 mg po tabs,PO,Phosphorus supplement?,no,no,no,no,no,no,no
+189177,k-dur,PO,Potassium supplement?,no,no,no,no,no,no,no
+1097707,k-dur,Oral,Potassium supplement?,no,no,no,no,no,no,no
+4121258,k-dur 20,PO,Potassium supplement?,no,no,no,no,no,no,no
+3957949,kcl 10%,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+6607386,kcl 20 meq/100ml sterile water bag,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5109302,kcl 20 meq/50 ml,INTRAVENOU,Treatment for low blood potassium,no,no,no,no,no,no,no
+3036833,kcl 40 meq/100ml sterile water bag,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+2488101,keppra,IV (intravenous)                                                                                    ,anticonvulsant,no,no,no,no,no,no,no
+810300,ketorolac,IV,NSAID,yes,no,no,no,no,no,no
+235251,ketorolac 30 mg/ml 1ml sdv inj,IV Push,NSAID,yes,no,no,no,no,no,no
+45324,ketorolac inj,IV,NSAID,yes,no,no,no,no,no,no
+2850487,ketorolac tromethamine,IV,NSAID,yes,no,no,no,no,no,no
+4792224,klor-con,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+1046266,"klor-con,k-tab",Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+4188988,labetalol,IV,beta-blocker,no,no,no,yes,no,no,no
+4361570,labetalol,IntraVENOUS,beta-blocker,no,no,no,yes,no,no,no
+292847,labetalol 5 mg/1ml 20ml mdv inj,IV Push,beta-blocker,no,no,no,yes,no,no,no
+1904113,labetalol 5 mg/ml iv 20 ml vial,IV,beta-blocker,no,no,no,yes,no,no,no
+2910537,labetalol hcl,IV,beta-blocker,no,no,no,yes,no,no,no
+7193693,labetalol hcl 5 mg/ml iv soln,Intravenous,beta-blocker,no,no,no,yes,no,no,no
+7193694,labetalol hcl 5 mg/ml iv soln (range) prn,Intravenous,beta-blocker,no,no,no,yes,no,no,no
+4699646,"lactated ringer's 1,000 ml bag",IV,Electrolyte?,no,no,no,no,no,no,no
+1538869,lactated ringers,INTRAVEN,Electrolyte?,no,no,no,no,no,no,no
+2025753,lactated ringers,IV,Electrolyte?,no,no,no,no,no,no,no
+5718359,lactated ringers 1000 ml lvp,IV,Electrolyte?,no,no,no,no,no,no,no
+2386202,"lactated ringers injection 1,000 ml",IV,Electrolyte?,no,no,no,no,no,no,no
+1046269,lactated ringers iv : 1000 ml bag,IV,Electrolyte?,no,no,no,no,no,no,no
+5224488,lactated ringers iv soln,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+1504365,lactated ringers iv soln bolus,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+3390167,lactated ringers iv solp,IV,Electrolyte?,no,no,no,no,no,no,no
+476602,lactulose,PO,Laxative?,no,no,no,no,no,no,no
+3754783,lactulose,ORAL,Laxative?,no,no,no,no,no,no,no
+4046068,lactulose 20 gram/30 ml ud liq,PO,Laxative?,no,no,no,no,no,no,no
+5822115,lactulose 20 gram/30 ml ud liq,FT,Laxative?,no,no,no,no,no,no,no
+4801856,lantus,subCUT,Diabetes medication,no,no,no,no,no,no,no
+6842542,lantus,XX,Diabetes medication,no,no,no,no,no,no,no
+189178,lasix,IV,Diuretic,no,no,no,no,no,no,no
+424582,lasix,PO,Diuretic,no,no,no,no,no,no,no
+978444,lasix,Oral,Diuretic,no,no,no,no,no,no,no
+480848,levetiracetam,PER_TUBE,anticonvulsant,no,no,no,no,no,no,no
+480856,levetiracetam,IV,anticonvulsant,no,no,no,no,no,no,no
+802702,levetiracetam,ORAL,anticonvulsant,no,no,no,no,no,no,no
+3071593,levetiracetam 500 mg po tabs,PO,anticonvulsant,no,no,no,no,no,no,no
+3715836,levetiracetam 500 mg po tabs,Oral,anticonvulsant,no,no,no,no,no,no,no
+5224432,levetiracetam 500 mg/5ml iv soln,Intravenous,anticonvulsant,no,no,no,no,no,no,no
+5109280,levofloxacin,ORAL,Antibiotic,no,no,no,no,no,no,no
+4429022,levofloxacin 500 mg po tabs,PO,Antibiotic,no,no,no,no,no,no,no
+4015042,levofloxacin 500mg in d5w 100ml rt,IV,Antibiotic,no,no,no,no,no,no,no
+4023295,levofloxacin 500mg in d5w 100ml rt,IVPB,Antibiotic,no,no,no,no,no,no,no
+3998912,levofloxacin 750 mg in d5w 150ml,IVPB,Antibiotic,no,no,no,no,no,no,no
+4020580,levofloxacin 750 mg in d5w 150ml,IV,Antibiotic,no,no,no,no,no,no,no
+1631108,levofloxacin 750 mg po tabs,PO,Antibiotic,no,no,no,no,no,no,no
+47486,levofloxacin in d5w 500 mg/100ml iv soln,IV,Antibiotic,no,no,no,no,no,no,no
+3845840,levofloxacin in d5w 750 mg/150ml iv soln,IV,Antibiotic,no,no,no,no,no,no,no
+625555,levothyroxine sodium 25 mcg po tabs,PO,Treatment for hypothyroidism,no,no,no,no,no,no,no
+115988,levothyroxine sodium 75 mcg po tabs,PO,Treatment for hypothyroidism,no,no,no,no,no,no,no
+6089141,lidocaine,IV,Antiarrhythmic and anesthetic,maybe,no,no,no,no,no,no
+6410421,lidocaine,Intravenous,Antiarrhythmic and anesthetic,maybe,no,no,no,no,no,no
+1538887,lidocaine 1%,INJECTION,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+3217091,lidocaine 1%,DEVICE,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+3766350,lidocaine 1%,SUBCUTAN,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+2043954,lidocaine 1% 10mg/ml 20ml mdv inj,IRR,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+2196882,lidocaine 1% 10mg/ml 20ml mdv inj,Transdermal,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+2316305,lidocaine 1% 10mg/ml 20ml mdv inj,IV,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+2320784,lidocaine 1% 10mg/ml 20ml mdv inj,IVPB,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+175084,lidocaine 10 mg/ml (1 %) injection 20 ml vial,IDrm,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+175085,lidocaine 10 mg/ml (1 %) injection 20 ml vial,INFILTRATION,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+49241,lidocaine 5 % ex ptch,TD,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+1504393,lidocaine hcl 1 % inj soln,Endotracheal,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+3688638,lidocaine hcl 1 % inj soln,Intradermal,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+4625560,lidocaine hcl 1%,INJ,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+4629467,lidocaine hcl 1%,.ROUTE,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+4665792,lidocaine hcl 1%,IV,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+4535401,lidocaine hcl 2%,IV,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+4632217,lidocaine hcl 2%,INJ,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+4661557,lidocaine hcl 2%,.ROUTE,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+3688637,lidocaine-transparent dressing 4 % external kit,Topical,Antiarrhythmic and anesthetic,yes,no,no,no,no,no,no
+455710,lipitor,PO,Statin,no,no,no,no,yes,no,no
+4758696,lipitor,Oral,Statin,no,no,no,no,yes,no,no
+4795370,lipitor,NG Tube,Statin,no,no,no,no,yes,no,no
+4121229,lisinopril,MISC,ACE inhibitor,no,no,no,no,no,no,yes
+4121240,lisinopril,PO,ACE inhibitor,no,no,no,no,no,no,yes
+4363713,lisinopril,Oral,ACE inhibitor,no,no,no,no,no,no,yes
+4542014,lisinopril,ORAL,ACE inhibitor,no,no,no,no,no,no,yes
+4647173,lisinopril,.ROUTE,ACE inhibitor,no,no,no,no,no,no,yes
+3817571,lisinopril 10 mg po tabs,PO,ACE inhibitor,no,no,no,no,no,no,yes
+5209525,lisinopril 10 mg po tabs,Oral,ACE inhibitor,no,no,no,no,no,no,yes
+4060267,lisinopril 10 mg tab,PO,ACE inhibitor,no,no,no,no,no,no,yes
+3817566,lisinopril 2.5 mg po tabs,PO,ACE inhibitor,no,no,no,no,no,no,yes
+3889041,lisinopril 2.5 mg po tabs,PEG TUBE,ACE inhibitor,no,no,no,no,no,no,yes
+4505140,lisinopril 2.5 mg po tabs,Oral,ACE inhibitor,no,no,no,no,no,no,yes
+3836766,lisinopril 20 mg po tabs,PO,ACE inhibitor,no,no,no,no,no,no,yes
+7193683,lisinopril 20 mg po tabs,Oral,ACE inhibitor,no,no,no,no,no,no,yes
+5712322,lisinopril 20 mg tab,PO,ACE inhibitor,no,no,no,no,no,no,yes
+11587,lisinopril 5 mg po tabs,PO,ACE inhibitor,no,no,no,no,no,no,yes
+674096,lisinopril 5 mg po tabs,Oral,ACE inhibitor,no,no,no,no,no,no,yes
+254285,lisinopril 5 mg tab,PO,ACE inhibitor,no,no,no,no,no,no,yes
+2119333,lisinopril 5 mg tab,NG,ACE inhibitor,no,no,no,no,no,no,yes
+3957950,lopressor,PO,beta-blocker,no,no,no,yes,no,no,no
+3962068,lopressor,IV,beta-blocker,no,no,no,yes,no,no,no
+4237830,lopressor,PO (oral)                                                                                           ,beta-blocker,no,no,no,yes,no,no,no
+4238083,lopressor,IV (intravenous)                                                                                    ,beta-blocker,no,no,no,yes,no,no,no
+4310801,lopressor,Per enteric tube (oral)                                                                             ,beta-blocker,no,no,no,yes,no,no,no
+4759139,lopressor,Oral,beta-blocker,no,no,no,yes,no,no,no
+3836596,loratadine 10 mg po tabs,PO,Antihistamine,no,no,no,no,no,no,no
+474036,lorazepam,IV,Sedative,no,no,no,no,no,no,no
+590264,lorazepam,Oral,Sedative,no,no,no,no,no,no,no
+609319,lorazepam,IntraVENOUS,Sedative,no,no,no,no,no,no,no
+1383285,lorazepam,INTRAVENOU,Sedative,no,no,no,no,no,no,no
+3121966,lorazepam,DEVICE,Sedative,no,no,no,no,no,no,no
+3615619,lorazepam,ZPYXVEND,Sedative,no,no,no,no,no,no,no
+4535866,lorazepam,IM,Sedative,no,no,no,no,no,no,no
+4535869,lorazepam,ORAL,Sedative,no,no,no,no,no,no,no
+4655585,lorazepam,PO,Sedative,no,no,no,no,no,no,no
+4699655,lorazepam,.ROUTE,Sedative,no,no,no,no,no,no,no
+6117330,lorazepam (ativan) inj 1 mg,IV,Sedative,no,no,no,no,no,no,no
+6154943,lorazepam (ativan) inj 1 mg,IV PUSH,Sedative,no,no,no,no,no,no,no
+104580,lorazepam 0.5 mg po tabs,PER G TUBE,Sedative,no,no,no,no,no,no,no
+642101,lorazepam 0.5 mg po tabs,PO,Sedative,no,no,no,no,no,no,no
+2030688,lorazepam 0.5 mg tab,PO,Sedative,no,no,no,no,no,no,no
+3836768,lorazepam 1 mg po tabs,PO,Sedative,no,no,no,no,no,no,no
+2030679,lorazepam 1 mg tab,PO,Sedative,no,no,no,no,no,no,no
+245347,lorazepam 2 mg/1 ml 1 ml inj,IV Push,Sedative,no,no,no,no,no,no,no
+2052910,lorazepam 2 mg/1 ml 1 ml inj,INJ,Sedative,no,no,no,no,no,no,no
+2141970,lorazepam 2 mg/1 ml 1 ml inj,IV,Sedative,no,no,no,no,no,no,no
+4070587,lorazepam 2 mg/1 ml 1 ml syr,IV Push,Sedative,no,no,no,no,no,no,no
+5676647,lorazepam 2 mg/1 ml 1 ml syr,IV,Sedative,no,no,no,no,no,no,no
+4374792,lorazepam 2 mg/ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+1166027,lorazepam 2 mg/ml inj soln,IV,Sedative,no,no,no,no,no,no,no
+1504382,lorazepam 2 mg/ml inj soln,Intravenous,Sedative,no,no,no,no,no,no,no
+1127861,lorazepam 2 mg/ml injection solution,IV,Sedative,no,no,no,no,no,no,no
+155194,lorazepam inj,.ROUTE,Sedative,no,no,no,no,no,no,no
+1874438,lorazepam inj,IV,Sedative,no,no,no,no,no,no,no
+3875192,losartan potassium 50 mg po tabs,PO,High blood pressure,no,no,no,no,no,no,no
+3980135,lovenox,SUBQ,anticoagulant,no,no,no,no,no,no,no
+4121255,lovenox,Subcut,anticoagulant,no,no,no,no,no,no,no
+4237912,lovenox,Subcutaneous (Subcutane)                                                                            ,anticoagulant,no,no,no,no,no,no,no
+4759140,lovenox,subCUT,anticoagulant,no,no,no,no,no,no,no
+2495800,"lr 1,000 ml",IV,Electrolyte?,no,no,no,no,no,no,no
+455711,maalox,PO,Antiacid?,no,no,no,no,no,no,no
+4535861,mag/alum hydroxide w/simeth,ORAL,Antiacid,no,no,no,no,no,no,no
+6249520,magnesium chloride,Oral,Treatment for low blood magnesium,no,no,no,no,no,no,no
+780979,magnesium hydroxide,ORAL,Antiacid?,no,no,no,no,no,no,no
+1883400,magnesium hydroxide,PO,Antiacid?,no,no,no,no,no,no,no
+5146877,magnesium hydroxide 400 mg/5ml po susp,PO,Antiacid?,no,no,no,no,no,no,no
+1310841,magnesium oxide,ORAL,Antiacid/helps migraines/helps constipation,no,no,no,no,no,no,no
+1538876,magnesium oxide,ORAL/TUBE,Antiacid/helps migraines/helps constipation,no,no,no,no,no,no,no
+1969737,magnesium oxide,PO,Antiacid/helps migraines/helps constipation,no,no,no,no,no,no,no
+4404145,magnesium oxide 400 (241.3 mg) mg po tabs,PO,Antiacid/helps migraines/helps constipation,no,no,no,no,no,no,no
+5683365,magnesium oxide 400 mg tab,PO,Antiacid/helps migraines/helps constipation,no,no,no,no,no,no,no
+6382146,magnesium sulf 2 g in d5w 50ml premix,Intravenous,Relief for constipation,no,no,no,no,no,no,no
+5051159,magnesium sulf 2 g/50 ml ns,INTRAVENOU,Relief for constipation,no,no,no,no,no,no,no
+6607385,magnesium sulf 2 gm/sw 50 ml bag,IV,Relief for constipation,no,no,no,no,no,no,no
+335532,magnesium sulfate,IVPB,Relief for constipation,no,no,no,no,no,no,no
+489124,magnesium sulfate,IV,Relief for constipation,no,no,no,no,no,no,no
+776352,magnesium sulfate,Intravenous,Relief for constipation,no,no,no,no,no,no,no
+3549726,magnesium sulfate,INTRAVENOU,Relief for constipation,no,no,no,no,no,no,no
+2531452,magnesium sulfate 1 g in d5w 100ml **locked dose,IVPB,Relief for constipation,no,no,no,no,no,no,no
+42065,magnesium sulfate 2 g in ns premix,IV,Relief for constipation,no,no,no,no,no,no,no
+280805,magnesium sulfate 2 gm/50 ml ivpb,IVPB,Relief for constipation,no,no,no,no,no,no,no
+1021497,magnesium sulfate 2 gram/50 ml iv piggy back : 50 ml flex cont,IV,Relief for constipation,no,no,no,no,no,no,no
+171401,magnesium sulfate 2 gram/50 ml iv piggy back 50 ml flex cont,IV,Relief for constipation,no,no,no,no,no,no,no
+7174308,magnesium sulfate 2g/50ml sso,IV,Relief for constipation,no,no,no,no,no,no,no
+1504354,magnesium sulfate 2g/sodium chloride 0.9% 100ml stock bag,Intravenous,Relief for constipation,no,no,no,no,no,no,no
+1545506,magnesium sulfate 2gm/50ml,INTRAVEN,Relief for constipation,no,no,no,no,no,no,no
+4862897,magnesium sulfate 4 gram/100 ml iv piggy back : 100 ml flex cont,IV,Relief for constipation,no,no,no,no,no,no,no
+6935930,magnesium sulfate 4 meq/ml (50 %) inj soln,IV,Relief for constipation,no,no,no,no,no,no,no
+1436613,magnesium sulfate 50 % ij soln,IV,Relief for constipation,no,no,no,no,no,no,no
+6249525,magnesium sulfate in d5w,IntraVENOUS,Relief for constipation,no,no,no,no,no,no,no
+1077850,magnesium sulfate in d5w 1 gram/100 ml iv piggy back : 100 ml,IV,Relief for constipation,no,no,no,no,no,no,no
+6089094,magnesium sulfate ivpb,IVPB,Relief for constipation,no,no,no,no,no,no,no
+4989645,magnesium sulfate ivpb d5w 1 g 100 ml,IV,Relief for constipation,no,no,no,no,no,no,no
+6049407,magnesium sulfate ivpb.,IVPB,Relief for constipation,no,no,no,no,no,no,no
+335533,magox 400,PO,Antiacid/helps migraines/helps constipation,no,no,no,no,no,no,no
+255778,meperidine 25 mg/1 ml 1 ml syr,IV Push,opioid,yes,yes,no,no,no,no,no
+2158454,meperidine 25 mg/1 ml 1 ml syr,IV,opioid,yes,yes,no,no,no,no,no
+4665788,meperidine hcl,IV,opioid,yes,yes,no,no,no,no,no
+7255706,meperidine hcl,INTRAVEN,opioid,yes,yes,no,no,no,no,no
+1656944,meperidine range inj,IV,opioid,yes,yes,no,no,no,no,no
+5462449,meropenem 1 g iv solr,IV,Antibiotic,no,no,no,no,no,no,no
+5462440,meropenem 500 mg iv solr,IV,Antibiotic,no,no,no,no,no,no,no
+2740297,metformin hcl 500 mg po tabs,PO,Diabetes medication?,no,no,no,no,no,no,no
+232115,methylprednisolone 125 mg inj,IV,Steroid,no,no,no,no,no,no,no
+264294,methylprednisolone 125 mg inj,IV Push,Steroid,no,no,no,no,no,no,no
+4013116,methylprednisolone 40 mg inj,IV,Steroid,no,no,no,no,no,no,no
+3615616,methylprednisolone sod suc(pf),ZPYXVEND,Steroid,no,no,no,no,no,no,no
+902760,methylprednisolone sod succ,IV,Steroid,no,no,no,no,no,no,no
+932566,methylprednisolone sod succ,.ROUTE,Steroid,no,no,no,no,no,no,no
+1821638,methylprednisolone sodium succ 125 mg ij solr,IV,Steroid,no,no,no,no,no,no,no
+55213,methylprednisolone sodium succ 40 mg ij solr,IV,Steroid,no,no,no,no,no,no,no
+1383280,metoclopramide,INTRAVENOU,Treatment for GERD?,maybe,no,no,no,no,no,no
+2488103,metoclopramide,IV,Treatment for GERD?,maybe,no,no,no,no,no,no
+2857032,metoclopramide,ORAL,Treatment for GERD?,maybe,no,no,no,no,no,no
+4253150,metoclopramide,PO,Treatment for GERD?,maybe,no,no,no,no,no,no
+274323,metoclopramide 5 mg/1ml 2ml sdv inj,IV Push,Treatment for GERD?,maybe,no,no,no,no,no,no
+2957340,metoclopramide hcl,IVP,Treatment for GERD?,maybe,no,no,no,no,no,no
+1166029,metoclopramide hcl  5 mg/ml inj soln,IV,Treatment for GERD?,maybe,no,no,no,no,no,no
+6319870,metoclopramide hcl 5 mg/ml ij soln,IV,Treatment for GERD?,maybe,no,no,no,no,no,no
+160725,metoprolol,PO,beta-blocker,no,no,no,yes,no,no,no
+779486,metoprolol,ORAL,beta-blocker,no,no,no,yes,no,no,no
+1538882,metoprolol,INTRAVEN,beta-blocker,no,no,no,yes,no,no,no
+2858636,metoprolol,IV,beta-blocker,no,no,no,yes,no,no,no
+3217098,metoprolol,DEVICE,beta-blocker,no,no,no,yes,no,no,no
+4121236,metoprolol,MISC,beta-blocker,no,no,no,yes,no,no,no
+4345892,metoprolol,Oral,beta-blocker,no,no,no,yes,no,no,no
+4265543,metoprolol (lopressor) tab 12.5 mg,PO,beta-blocker,no,no,no,yes,no,no,no
+494185,metoprolol (lopressor) tab 25 mg,PO,beta-blocker,no,no,no,yes,no,no,no
+538041,metoprolol (lopressor) tab 25 mg,NGT,beta-blocker,no,no,no,yes,no,no,no
+240656,metoprolol 1 mg/ml 5ml sdv inj,IV Push,beta-blocker,no,no,no,yes,no,no,no
+258604,metoprolol 1 mg/ml 5ml sdv inj,IV,beta-blocker,no,no,no,yes,no,no,no
+148550,metoprolol inj,IV,beta-blocker,no,no,no,yes,no,no,no
+148552,metoprolol inj,.ROUTE,beta-blocker,no,no,no,yes,no,no,no
+936357,metoprolol succinate,PO,beta-blocker,no,no,no,yes,no,no,no
+2437426,metoprolol succinate,PO (oral)                                                                                           ,beta-blocker,no,no,no,yes,no,no,no
+2851069,metoprolol succinate,ORAL,beta-blocker,no,no,no,yes,no,no,no
+29432,metoprolol succinate er 25 mg po tb24,PO,beta-blocker,no,no,no,yes,no,no,no
+917890,metoprolol succinate er 50 mg po tb24,PO,beta-blocker,no,no,no,yes,no,no,no
+773264,metoprolol tartrate,PO,beta-blocker,no,no,no,yes,no,no,no
+875653,metoprolol tartrate,IV,beta-blocker,no,no,no,yes,no,no,no
+887588,metoprolol tartrate,.ROUTE,beta-blocker,no,no,no,yes,no,no,no
+1125355,metoprolol tartrate,ORAL,beta-blocker,no,no,no,yes,no,no,no
+1290499,metoprolol tartrate,INTRAVENOU,beta-blocker,no,no,no,yes,no,no,no
+4530327,metoprolol tartrate,Oral,beta-blocker,no,no,no,yes,no,no,no
+4938016,metoprolol tartrate  25 mg oral tab,Oral,beta-blocker,no,no,no,yes,no,no,no
+6140295,metoprolol tartrate (lopressor) inj 5 mg,IV PUSH,beta-blocker,no,no,no,yes,no,no,no
+4416269,metoprolol tartrate 1 mg/ml iv soln,IV,beta-blocker,no,no,no,yes,no,no,no
+5224450,metoprolol tartrate 1 mg/ml iv soln,Intravenous,beta-blocker,no,no,no,yes,no,no,no
+621951,metoprolol tartrate 12.5 mg half tablet,PO,beta-blocker,no,no,no,yes,no,no,no
+904,metoprolol tartrate 25 mg po tabs,PO,beta-blocker,no,no,no,yes,no,no,no
+75697,metoprolol tartrate 25 mg po tabs,PEG TUBE,beta-blocker,no,no,no,yes,no,no,no
+674098,metoprolol tartrate 25 mg po tabs,Oral,beta-blocker,no,no,no,yes,no,no,no
+3993453,metoprolol tartrate 25 mg tab,PO,beta-blocker,no,no,no,yes,no,no,no
+4027067,metoprolol tartrate 25 mg tab,NG,beta-blocker,no,no,no,yes,no,no,no
+1115736,metoprolol tartrate 25 mg tablet,Oral,beta-blocker,no,no,no,yes,no,no,no
+6979884,metoprolol tartrate 5 mg/5 ml iv soln,IV,beta-blocker,no,no,no,yes,no,no,no
+910,metoprolol tartrate 50 mg po tabs,PO,beta-blocker,no,no,no,yes,no,no,no
+104570,metoprolol tartrate 50 mg po tabs,PEG TUBE,beta-blocker,no,no,no,yes,no,no,no
+1821625,metoprolol tartrate 50 mg po tabs,PER NG TUBE,beta-blocker,no,no,no,yes,no,no,no
+231396,metoprolol tartrate 50 mg tab,PO,beta-blocker,no,no,no,yes,no,no,no
+5109275,metronidazole,ORAL,Antibiotic,no,no,no,no,no,no,no
+5735278,metronidazole 500 mg in 100ml rtu-pb,IVPB,Antibiotic,no,no,no,no,no,no,no
+1383278,metronidazole 500 mg/100 ml,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+338447,midazolam,MISC,Sedative,no,no,no,no,no,no,no
+476601,midazolam,IV,Sedative,no,no,no,no,no,no,no
+1318629,midazolam,INTRAVENOU,Sedative,no,no,no,no,no,no,no
+3217093,midazolam,DEVICE,Sedative,no,no,no,no,no,no,no
+3566674,midazolam,ZPYXVEND,Sedative,no,no,no,no,no,no,no
+5044577,midazolam,.ROUTE,Sedative,no,no,no,no,no,no,no
+231405,midazolam (pf) 1 mg/1 ml 2 ml inj,IV Push,Sedative,no,no,no,no,no,no,no
+261715,midazolam (pf) 1 mg/1 ml 2 ml inj,IV Sedation,Sedative,no,no,no,no,no,no,no
+2141418,midazolam (pf) 1 mg/1 ml 2 ml inj,IV,Sedative,no,no,no,no,no,no,no
+538034,midazolam (versed) 2 mg/2ml inj 1 mg,IV PUSH,Sedative,no,no,no,no,no,no,no
+2620602,midazolam (versed) 2 mg/2ml inj 1 mg,IV,Sedative,no,no,no,no,no,no,no
+501003,midazolam (versed) 2 mg/2ml inj 2 mg,IV PUSH,Sedative,no,no,no,no,no,no,no
+4004911,midazolam 1 mg/1 ml 2ml mdv inj,IV Push,Sedative,no,no,no,no,no,no,no
+4101644,midazolam 1 mg/1 ml 2ml mdv inj,IV Sedation,Sedative,no,no,no,no,no,no,no
+5758671,midazolam 1 mg/1 ml 2ml mdv inj,IV,Sedative,no,no,no,no,no,no,no
+3390163,midazolam 1 mg/ml inj soln,IV,Sedative,no,no,no,no,no,no,no
+2046145,midazolam 100 mg in 100 ml ns,IV,Sedative,no,no,no,no,no,no,no
+1318628,midazolam 100 mg/100 ml ns,INTRAVENOU,Sedative,no,no,no,no,no,no,no
+3566673,midazolam 100 mg/100 ml ns,ZPYXVEND,Sedative,no,no,no,no,no,no,no
+4625551,midazolam hcl,.ROUTE,Sedative,no,no,no,no,no,no,no
+4632220,midazolam hcl,IV,Sedative,no,no,no,no,no,no,no
+2763152,midazolam hcl 2 mg/2ml ij soln,IV,Sedative,no,no,no,no,no,no,no
+5224463,midazolam hcl 2 mg/2ml inj soln (range) prn,Intravenous,Sedative,no,no,no,no,no,no,no
+3922340,midazolam inj,IV,Sedative,no,no,no,no,no,no,no
+3933078,midazolam inj,.ROUTE,Sedative,no,no,no,no,no,no,no
+5462443,midodrine hcl 5 mg po tabs,PEG TUBE,Treats low blood pressure,no,no,no,no,no,no,no
+416100,milk of magnesia,PO,Laxative/Antiacid,no,no,no,no,no,no,no
+4801859,milk of magnesia,Oral,Laxative/Antiacid,no,no,no,no,no,no,no
+2046192,milk of magnesia ud liq 30 ml,PO,Laxative/Antiacid,no,no,no,no,no,no,no
+1015282,miralax,Oral,Laxative,no,no,no,no,no,no,no
+1969744,miralax,PO,Laxative,no,no,no,no,no,no,no
+193722,morphine,IV,opioid,yes,yes,no,no,no,no,no
+372947,morphine,MISC,opioid,yes,yes,no,no,no,no,no
+590263,morphine,IntraVENOUS,opioid,yes,yes,no,no,no,no,no
+767279,morphine,Intravenous,opioid,yes,yes,no,no,no,no,no
+1383317,morphine,INTRAVENOU,opioid,yes,yes,no,no,no,no,no
+4542012,morphine,SC,opioid,yes,yes,no,no,no,no,no
+2046168,morphine 10 mg/1 ml 1 ml syr,IV Push,opioid,yes,yes,no,no,no,no,no
+6788708,morphine 10 mg/ml injection : 1 ml injection,IV,opioid,yes,yes,no,no,no,no,no
+4005455,morphine 2 mg/1 ml 1 ml syr,IV Push,opioid,yes,yes,no,no,no,no,no
+5676644,morphine 2 mg/1 ml 1 ml syr,IV,opioid,yes,yes,no,no,no,no,no
+3254365,morphine 2 mg/ml syringe : 1 ml syringe,IV,opioid,yes,yes,no,no,no,no,no
+1538873,morphine 2mg/ml,INTRAVEN,opioid,yes,yes,no,no,no,no,no
+226992,morphine 4 mg/1 ml 1 ml syr,IV Push,opioid,yes,yes,no,no,no,no,no
+324105,morphine 4 mg/1 ml 1 ml syr,IV,opioid,yes,yes,no,no,no,no,no
+3248504,morphine 4 mg/ml syringe : 1 ml syringe,IV,opioid,yes,yes,no,no,no,no,no
+4760710,morphine 5 mg/ml injection : 1 ml vial,IV,opioid,yes,yes,no,no,no,no,no
+895,morphine inj,IV,opioid,yes,yes,no,no,no,no,no
+155186,morphine inj,.ROUTE,opioid,yes,yes,no,no,no,no,no
+1483752,morphine inj,IV PUSH,opioid,yes,yes,no,no,no,no,no
+5552641,morphine injection orderable,IV,opioid,yes,yes,no,no,no,no,no
+3957948,morphine sulfate,IV,opioid,yes,yes,no,no,no,no,no
+4625559,morphine sulfate,.ROUTE,opioid,yes,yes,no,no,no,no,no
+4699638,morphine sulfate,IVP,opioid,yes,yes,no,no,no,no,no
+5154024,morphine sulfate (pf) 2 mg/ml iv soln,IV,opioid,yes,yes,no,no,no,no,no
+6125649,morphine sulfate (pf) inj 2 mg,IV PUSH,opioid,yes,yes,no,no,no,no,no
+621948,morphine sulfate 2 mg/ml ij soln,IV,opioid,yes,yes,no,no,no,no,no
+547701,morphine sulfate 2 mg/ml ij/iv soln,IV,opioid,yes,yes,no,no,no,no,no
+4965632,morphine variable dose 2-4mg,IV,opioid,yes,yes,no,no,no,no,no
+1961531,multivitamin,PO,Multivitamin,no,no,no,no,no,no,no
+2851073,multivitamin,ORAL,Multivitamin,no,no,no,no,no,no,no
+6565594,multivitamins,PO,Multivitamin,no,no,no,no,no,no,no
+911,mupirocin 2 % oint 1 g syringe,EACH NARE,Antibiotic,no,no,no,no,no,no,no
+381406,nacl 0.9%,MISC,Electrolyte?,no,no,no,no,no,no,no
+6815400,nacl 0.9% (1566),DEVICE,Electrolyte?,no,no,no,no,no,no,no
+4123825,nacl 0.9% mbp,MISC,Electrolyte?,no,no,no,no,no,no,no
+6410418,naloxone,Intravenous,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+6871122,naloxone,DEVICE,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+4022208,naloxone 0.4 mg/1 ml sdv inj,IV Push,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+6415542,naloxone hcl,IV,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+3640109,naloxone hcl 0.4 mg/ml ij soln,IV,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+6685474,narcan,IV,opioid - treats opioid use overdose. Ask Stephanie if to include,maybe,maybe,no,no,no,no,no
+6607383,neostigmine methylsulfate,IV,anticholinesterase,no,no,no,no,no,no,no
+4895814,neurontin,Oral,anticonvulsant/nerve pain med?,maybe,no,no,no,no,no,no
+3172749,nexterone,IV,Anti arrhythmic - treats heart failure and arrhythmias,no,no,no,no,no,no,no
+2043935,nicardipine 40 mg in 200 ml ns rtu-,IVPB,antihypertensive,no,no,no,no,no,no,no
+2119929,nicardipine 40 mg in 200 ml ns rtu-,IV,antihypertensive,no,no,no,no,no,no,no
+4767515,nicoderm cq,Transdermal,Nicorette,no,no,no,no,no,no,no
+3829754,nicotine 21 mg/24hr td pt24,TD,Nicorette,no,no,no,no,no,no,no
+214595,nitro-bid,TOP,Ointment for heart-related chest pain,no,no,no,no,no,no,no
+3151591,nitro-bid,Topical,Ointment for heart-related chest pain,no,no,no,no,no,no,no
+4121233,nitroglycerin,MISC,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4242449,nitroglycerin,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4363719,nitroglycerin,Sublingual,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+6232830,nitroglycerin,IntraVENOUS,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+6256557,nitroglycerin,Topical (Top),High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+6528223,nitroglycerin,TD,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+6815391,nitroglycerin,DEVICE,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+7087508,nitroglycerin,ZPYXVEND,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+7102984,nitroglycerin,INTRAVENOU,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4292757,nitroglycerin (nitrostat) sl tab 0.4 mg,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4989652,nitroglycerin (nitrostat) sl tablet 0.4 mg,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+7257267,nitroglycerin (nitrostat) sl tablet 0.4 mg,Sublingual,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+743042,nitroglycerin 0.4 mg sl subl,Sublingual,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+961412,nitroglycerin 0.4 mg sl subl,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+162664,nitroglycerin 0.4 mg sublingual tablet,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+226993,nitroglycerin 0.4 mg(1/150) sl tab,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+2330698,nitroglycerin 0.4 mg(1/150) sl tab,Transdermal,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+5672606,nitroglycerin 50 mg in d5w 250 ml r,IVPB,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+5685808,nitroglycerin 50 mg in d5w 250 ml r,IV,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+870211,nitroglycerin 50mg/d5w 250ml btl,IV,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4376099,nitroglycerin in d5w 200-5 mcg/ml-% iv soln,IV,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+5224477,nitroglycerin in d5w 200-5 mcg/ml-% iv soln,Intravenous,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+3933081,nitroglycerin sl,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+5063104,nitroglycerin sl,SUBLINGUAL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+7121996,nitroglycerin sl,ZPYXVEND,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4152044,nitrostat,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4813813,nitrostat,Sublingual,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+194215,nitrostat 1/150,SL,High blood pressure - vasodilator,maybe,no,no,no,no,no,no
+4781024,norco,Oral,apap/opiod,yes,yes,no,no,no,no,no
+5964658,norco 5 mg-325 mg,PO,apap/opiod,yes,yes,no,no,no,no,no
+2213310,norco 5/325 tab,PO,apap/opiod,yes,yes,no,no,no,no,no
+6442480,norepinephrine,IV,Treats low blood pressure,no,no,no,no,no,no,no
+7062208,norepinephrine,INTRAVENOU,Treats low blood pressure,no,no,no,no,no,no,no
+7270938,norepinephrine,INTRAVEN,Treats low blood pressure,no,no,no,no,no,no,no
+1383274,norepinephrine 4 mg/250 ml ns,INTRAVENOU,Treats low blood pressure,no,no,no,no,no,no,no
+3608001,norepinephrine 4 mg/250 ml ns,ZPYXVEND,Treats low blood pressure,no,no,no,no,no,no,no
+1663461,norepinephrine 4 mg/250 ml ns infusion (std con'c) (repackage),IV,Treats low blood pressure,no,no,no,no,no,no,no
+2043963,norepinephrine 8 mg in 250ml ns,IVPB,Treats low blood pressure,no,no,no,no,no,no,no
+2043966,norepinephrine 8 mg in 250ml ns,IV,Treats low blood pressure,no,no,no,no,no,no,no
+4699670,norepinephrine bitartrate 1 mg/ml amp,IV,Treats low blood pressure,no,no,no,no,no,no,no
+622387,norepinephrine bitartrate 1 mg/ml ij soln,IV,Treats low blood pressure,no,no,no,no,no,no,no
+2531458,norepinephrine bitartrate 1 mg/ml ij soln,CENTRAL IV,Treats low blood pressure,no,no,no,no,no,no,no
+6744733,norepinephrine bitartrate 1 mg/ml iv : 4 ml,IV,Treats low blood pressure,no,no,no,no,no,no,no
+5146900,norepinephrine bitartrate 1 mg/ml iv soln,IV,Treats low blood pressure,no,no,no,no,no,no,no
+6165981,norepinephrine bitartrate 1 mg/ml iv soln,CENTRAL IV,Treats low blood pressure,no,no,no,no,no,no,no
+4535398,normal saline 0.9%,IV,Electrolyte?,no,no,no,no,no,no,no
+5613566,normal saline flush,IV,Electrolyte?,no,no,no,no,no,no,no
+6807800,normodyne;trandate,IV,beta-blocker,no,no,no,yes,no,no,no
+4792226,norvasc,Oral,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+5613549,norvasc,PO,High blood pressure - calcium channel blocker,no,no,no,no,no,no,no
+335530,novolog,Subcut,Diabetes medication,no,no,no,no,no,no,no
+4767520,novolog,subCUT,Diabetes medication,no,no,no,no,no,no,no
+6795593,novolog,XX,Diabetes medication,no,no,no,no,no,no,no
+194216,novolog flexpen,SUBQ,Diabetes medication,no,no,no,no,no,no,no
+3146946,ns 0.9%,DEVICE,Electrolyte?,no,no,no,no,no,no,no
+455709,"ns 1,000 ml",IV,Electrolyte?,no,no,no,no,no,no,no
+2531451,"nss 0.9% 1,000 ml bolus infusion",IV,Electrolyte?,no,no,no,no,no,no,no
+2535100,"nss 0.9% 1,000 ml bolus infusion",IVPB,Electrolyte?,no,no,no,no,no,no,no
+2531471,nss 0.9% 500 ml bolus infusion,IV,Electrolyte?,no,no,no,no,no,no,no
+2514431,nss infusion,IV,Electrolyte?,no,no,no,no,no,no,no
+2620607,nss infusion,CRRT,Electrolyte?,no,no,no,no,no,no,no
+5109294,nystatin,TOPICAL,antifungal,no,no,no,no,Confirm with Stephanie,no,no
+4272965,omeprazole (prilosec) cap 20 mg,PO,Antiacid,no,no,no,no,no,no,no
+4517383,omeprazole 20 mg po cap-del-rel,Oral,Antiacid,no,no,no,no,no,no,no
+338440,ondansetron,MISC,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+476599,ondansetron,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+590265,ondansetron,IntraVENOUS,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+767278,ondansetron,Intravenous,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+3289740,ondansetron,DEVICE,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4631706,ondansetron,.ROUTE,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5064169,ondansetron,INTRAVENOU,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+6513485,ondansetron,IVP,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+7087505,ondansetron,ZPYXVEND,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4566852,ondansetron (pf),IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+1219243,ondansetron (pf) (zofran) injection 4 mg,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4292764,ondansetron (zofran) inj 4 mg,IV PUSH,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+6173265,ondansetron (zofran) inj 4 mg,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5251159,ondansetron (zofran) injection 4 mg,Intravenous,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4002760,ondansetron 2 mg/1 ml 2ml sdv inj,IV Push,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4095750,ondansetron 2 mg/1 ml 2ml sdv inj,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5197768,ondansetron 2mg/ml  sso,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+727220,ondansetron 4 mg po tab-disperse,Oral,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4657430,ondansetron 4 mg po tbdp,SL,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5140649,ondansetron 4 mg po tbdp,PO,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+1032600,ondansetron 4mg/2ml inj,PROC IVP,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+3134780,ondansetron 4mg/2ml inj,IVP,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+773265,ondansetron hcl,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+1530389,ondansetron hcl,INTRAVEN,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+3358240,ondansetron hcl,ORAL,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4990964,ondansetron hcl (pf) (zofran) injection 4 mg,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4938017,ondansetron hcl (pf) 4 mg/2 ml inj soln,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+176119,ondansetron hcl (pf) 4 mg/2 ml injection 2 ml vial,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+657730,ondansetron hcl 4 mg po tabs,PO,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+1114278,ondansetron hcl 4 mg tablet,Oral,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+4374795,ondansetron hcl 4 mg/2ml ij soln,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5235733,ondansetron hcl inj,IV PUSH,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5532042,ondansetron inj,IV,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+5549217,ondansetron inj,IVP,Antiemetic - helps nausea and vomiting,no,no,no,no,no,no,no
+987149,optiray 320,Intra-arTERi,Contrast?,no,no,no,no,no,no,no
+1015281,optiray 320,IV,Contrast?,no,no,no,no,no,no,no
+1042198,optiray 320,See Instruct,Contrast?,no,no,no,no,no,no,no
+4542016,oxycodone,ORAL,opioid,yes,yes,no,no,no,no,no
+6089125,oxycodone,PO,opioid,yes,yes,no,no,no,no,no
+529364,oxycodone (oxy ir) cap-tab 10 mg,PO,opioid,yes,yes,no,no,no,no,no
+2591237,oxycodone (oxy ir) cap-tab 5 mg,PO,opioid,yes,yes,no,no,no,no,no
+2062178,oxycodone 5 mg tab,PO,opioid,yes,yes,no,no,no,no,no
+3817563,oxycodone hcl 5 mg po tabs,PO,opioid,yes,yes,no,no,no,no,no
+3832900,oxycodone hcl 5 mg po tabs,PER NG TUBE,opioid,yes,yes,no,no,no,no,no
+3868752,oxycodone hcl 5 mg po tabs,PEG TUBE,opioid,yes,yes,no,no,no,no,no
+5224494,oxycodone hcl 5 mg po tabs (range) prn,Oral,opioid,yes,yes,no,no,no,no,no
+4535867,oxycodone-acetamin 5-325 mg,ORAL,apap/opiod,yes,yes,no,no,no,no,no
+552394,oxycodone-acetaminophen 5-325 mg po tabs,PO,apap/opiod,yes,yes,no,no,no,no,no
+484844,pantoprazole,IV,Antiacid?,no,no,no,no,no,no,no
+484848,pantoprazole,PO,Antiacid?,no,no,no,no,no,no,no
+607098,pantoprazole,Oral,Antiacid?,no,no,no,no,no,no,no
+1383291,pantoprazole,INTRAVENOU,Antiacid?,no,no,no,no,no,no,no
+1566226,pantoprazole,INTRAVEN,Antiacid?,no,no,no,no,no,no,no
+2488106,pantoprazole,ORAL,Antiacid?,no,no,no,no,no,no,no
+1226509,pantoprazole (protonix) injection 40 mg,IV,Antiacid?,no,no,no,no,no,no,no
+1561260,pantoprazole (protonix) injection 40 mg,Intravenous,Antiacid?,no,no,no,no,no,no,no
+1219246,pantoprazole (protonix) tablet 40 mg,PO,Antiacid?,no,no,no,no,no,no,no
+4004907,pantoprazole 40 mg ec tab,PO,Antiacid?,no,no,no,no,no,no,no
+262792,pantoprazole 40 mg in 100 ml ns,IV,Antiacid?,no,no,no,no,no,no,no
+231395,pantoprazole 40 mg inj,IV Push,Antiacid?,no,no,no,no,no,no,no
+234224,pantoprazole 40 mg inj,IV,Antiacid?,no,no,no,no,no,no,no
+1114280,pantoprazole 40 mg intravenous solution,IV,Antiacid?,no,no,no,no,no,no,no
+3450330,pantoprazole 40 mg oral ent coat tab,Oral,Antiacid?,no,no,no,no,no,no,no
+4903093,"pantoprazole 40 mg tablet,delayed release",Oral,Antiacid?,no,no,no,no,no,no,no
+1383273,pantoprazole dr,ORAL,Antiacid?,no,no,no,no,no,no,no
+6569172,pantoprazole sod,IV,Antiacid?,no,no,no,no,no,no,no
+2850486,pantoprazole sodium,PO,Antiacid?,no,no,no,no,no,no,no
+2850488,pantoprazole sodium,IV,Antiacid?,no,no,no,no,no,no,no
+3351796,pantoprazole sodium,ORAL,Antiacid?,no,no,no,no,no,no,no
+47487,pantoprazole sodium 40 mg iv solr,IV,Antiacid?,no,no,no,no,no,no,no
+3714134,pantoprazole sodium 40 mg iv solr,Intravenous,Antiacid?,no,no,no,no,no,no,no
+17255,pantoprazole sodium 40 mg po tbec,PO,Antiacid?,no,no,no,no,no,no,no
+3714129,pantoprazole sodium 40 mg po tbec,Oral,Antiacid?,no,no,no,no,no,no,no
+193715,pepcid,PO,Antihistamine and antiacid,no,no,no,no,no,no,no
+193721,pepcid,IV,Antihistamine and antiacid,no,no,no,no,no,no,no
+980434,pepcid,Oral,Antihistamine and antiacid,no,no,no,no,no,no,no
+978891,percocet,Oral,opioid,yes,yes,no,no,no,no,no
+4099388,percocet 5/325 tab,PO,opioid,yes,yes,no,no,no,no,no
+338441,phenylephrine,MISC,Decongestant,no,no,no,no,no,no,no
+3332783,phenylephrine,DEVICE,Decongestant,no,no,no,no,no,no,no
+3549721,phenylephrine,INTRAVENOU,Decongestant,no,no,no,no,no,no,no
+7062198,phenylephrine 10 mg/250 ml ns,INTRAVENOU,Decongestant,no,no,no,no,no,no,no
+2046160,phenylephrine 40 mg in 250 ml ns,IVPB,Decongestant,no,no,no,no,no,no,no
+2109870,phenylephrine 40 mg in 250 ml ns,IV,Decongestant,no,no,no,no,no,no,no
+4699652,phenylephrine hcl,.ROUTE,Decongestant,no,no,no,no,no,no,no
+6415540,phenylephrine hcl,IV,Decongestant,no,no,no,no,no,no,no
+5146908,phenylephrine hcl 10 mg/ml ij soln,IV,Decongestant,no,no,no,no,no,no,no
+6193868,phenylephrine hcl 10 mg/ml ij soln,CENTRAL IV,Decongestant,no,no,no,no,no,no,no
+5224455,piperacillin sod-tazobactam so 3-0.375 g iv solr,Intravenous,Antibiotic,no,no,no,no,no,no,no
+5364086,piperacillin sod-tazobactam so 3-0.375 g iv solr,IV,Antibiotic,no,no,no,no,no,no,no
+6118696,piperacillin sod-tazobactam so 3-0.375 g iv solr,IVPB,Antibiotic,no,no,no,no,no,no,no
+4259032,piperacillin-tazobactam,IVPB,Antibiotic,no,no,no,no,no,no,no
+6554294,piperacillin-tazobactam 3.375 g mini-bag plus,IV,Antibiotic,no,no,no,no,no,no,no
+5109270,piperacillin/tazobactam,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+4691671,piperacillin/tazobactam sod 3.375 gm  vial,IV,Antibiotic,no,no,no,no,no,no,no
+2531463,plasma-lyte 148 infusion,IV,Electrolyte?,no,no,no,no,no,no,no
+367400,plavix,PO,Blood thinner,no,no,yes - waiting confirmation,no,no,no,no
+4760711,plavix,Oral,Blood thinner,no,no,yes - waiting confirmation,no,no,no,no
+2957337,pneumococcal polysaccharides,IMV,Vaccine for pneumococcal diseases,no,no,no,no,no,no,no
+2961598,pneumococcal polysaccharides,IM,Vaccine for pneumococcal diseases,no,no,no,no,no,no,no
+622373,pneumococcal vac polyvalent 25 mcg/0.5ml ij inj,IM,Vaccine for pneumococcal diseases,no,no,no,no,no,no,no
+3998919,pnu-immune-23  25 mcg/0.5 ml inj,IM,Vaccine for pneumococcal diseases,no,no,no,no,no,no,no
+6165983,polyethylene glycol 3350 (miralax) oral powder 17 g,PO,Relief for constipation?,no,no,no,no,no,no,no
+1114283,polyethylene glycol 3350 17 gram oral powder packet,Oral,Relief for constipation?,no,no,no,no,no,no,no
+3817573,polyethylene glycol 3350 po pack,PO,Relief for constipation?,no,no,no,no,no,no,no
+3832901,polyethylene glycol 3350 po pack,PER NG TUBE,Relief for constipation?,no,no,no,no,no,no,no
+3889048,polyethylene glycol 3350 po pack,PER G TUBE,Relief for constipation?,no,no,no,no,no,no,no
+3714115,polyethylene glycol 3350 po powd,Oral,Relief for constipation?,no,no,no,no,no,no,no
+2035210,polyethylene glycol 3350 udpwd,PO,Relief for constipation?,no,no,no,no,no,no,no
+2992154,potassium & sodium phosphates 280-160-250 mg po pack,PO,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+3714108,potassium & sodium phosphates 280-160-250 mg po pack,Dobhoff Tube,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+3715817,potassium & sodium phosphates 280-160-250 mg po pack,Oral,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+335519,potassium chloride,IVPB,Treatment for low blood potassium,no,no,no,no,no,no,no
+335525,potassium chloride,Feeding Tube,Treatment for low blood potassium,no,no,no,no,no,no,no
+372946,potassium chloride,MISC,Treatment for low blood potassium,no,no,no,no,no,no,no
+372956,potassium chloride,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+2416559,potassium chloride,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+2697411,potassium chloride,IntraVENOUS,Treatment for low blood potassium,no,no,no,no,no,no,no
+2697413,potassium chloride,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+4540756,potassium chloride,ORAL,Treatment for low blood potassium,no,no,no,no,no,no,no
+4561925,potassium chloride,TUBE,Treatment for low blood potassium,no,no,no,no,no,no,no
+4699653,potassium chloride,.ROUTE,Treatment for low blood potassium,no,no,no,no,no,no,no
+5109282,potassium chloride,GASTRIC TU,Treatment for low blood potassium,no,no,no,no,no,no,no
+7062203,potassium chloride,INTRAVENOU,Treatment for low blood potassium,no,no,no,no,no,no,no
+6935938,potassium chloride  20 meq oral pack,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+3390166,potassium chloride  20 meq oral sr part/tab,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+4001771,potassium chloride 10 meq i,IVPB,Treatment for low blood potassium,no,no,no,no,no,no,no
+501004,potassium chloride 10 meq in 100 ml ivpb **locked dose,PERIPH IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+4404153,potassium chloride 10 meq/100ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5225640,potassium chloride 10 meq/100ml iv soln,Intravenous,Treatment for low blood potassium,no,no,no,no,no,no,no
+4376570,potassium chloride 10 meq/50ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5154023,potassium chloride 2 meq/ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+3205351,potassium chloride 2 meq/ml iv soln : 20 ml vial,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+3390157,potassium chloride 2 meq/ml iv solp,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+231398,potassium chloride 20 meq in,IVPB,Treatment for low blood potassium,no,no,no,no,no,no,no
+5004800,potassium chloride 20 meq in 50 ml ivpb (central line),IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+4271704,potassium chloride 20 meq in 50 ml ivpb **locked dose,CENTRAL IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+3839105,potassium chloride 20 meq po pack,PER NG TUBE,Treatment for low blood potassium,no,no,no,no,no,no,no
+4729520,potassium chloride 20 meq po pack,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+5224443,potassium chloride 20 meq po pack,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+246812,potassium chloride 20 meq tr tab,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+4004910,potassium chloride 20 meq ud liq,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+5936351,potassium chloride 20 meq ud liq,FT,Treatment for low blood potassium,no,no,no,no,no,no,no
+4862898,potassium chloride 20 meq/100 ml iv piggy back : 100 ml bag,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+7217582,potassium chloride 20 meq/100ml iv soln,Intravenous,Treatment for low blood potassium,no,no,no,no,no,no,no
+5158804,potassium chloride 20 meq/15ml (10%) po liqd,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+5575750,potassium chloride 20 meq/50 ml iv piggy back 50 ml bag,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+699728,potassium chloride 20 meq/50ml iv soln,Intravenous,Treatment for low blood potassium,no,no,no,no,no,no,no
+5197765,potassium chloride 20meq/100ml sso,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5683369,potassium chloride 40 meq inj,IRR,Treatment for low blood potassium,no,no,no,no,no,no,no
+5685273,potassium chloride 40 meq inj,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5736408,potassium chloride 40 meq inj,IVPB,Treatment for low blood potassium,no,no,no,no,no,no,no
+1012058,potassium chloride 40 meq/100 ml iv piggy back : 100 ml bag,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+3390168,potassium chloride 40 meq/100 ml iv piggyback,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+5158802,potassium chloride 40 meq/100ml iv soln,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+19344,potassium chloride crys er 20 meq po tbcr,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+1505421,potassium chloride crys er 20 meq po tbcr,Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+1283779,potassium chloride er,ORAL,Treatment for low blood potassium,no,no,no,no,no,no,no
+4911939,"potassium chloride er 10 meq tablet,extended release",Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+3942378,"potassium chloride er 20 meq tablet,extended release(part/cryst)",Oral,Treatment for low blood potassium,no,no,no,no,no,no,no
+540154,potassium chloride er tab 20 meq,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+2531454,potassium chloride er tab 40 meq,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+868568,potassium chloride in nacl 40 meq in 250 ml (premix),IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+3674939,potassium chloride inj,IV,Treatment for low blood potassium,no,no,no,no,no,no,no
+2449739,potassium chloride ivpb in sw,IVPB,Treatment for low blood potassium,no,no,no,no,no,no,no
+540159,potassium chloride liquid 20 meq,NGT,Treatment for low blood potassium,no,no,no,no,no,no,no
+6118690,potassium chloride liquid 40 meq,NGT,Treatment for low blood potassium,no,no,no,no,no,no,no
+6140290,potassium chloride liquid 40 meq,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+5257319,potassium chloride sa,ORAL,Treatment for low blood potassium,no,no,no,no,no,no,no
+5204310,potassium chloride tab,PO,Treatment for low blood potassium,no,no,no,no,no,no,no
+3754790,potassium cl in water 20meq/50,INTRAVEN,Treatment for low blood potassium,no,no,no,no,no,no,no
+480862,potassium phosphate,IV,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+1310842,potassium phosphate,ORAL,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+4121226,potassium phosphate 3 mmol/ml15 ml inj,IVPB,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+1077843,potassium phosphate dibasic 3 mmole/ml iv : 15 ml vial,IV,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+2062179,potassium sodium phosphate pwdpkt,PO,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+1587900,pravastatin sodium 40 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+1821639,pravastatin sodium 40 mg po tabs,PER NG TUBE,Statin,no,no,no,no,yes,no,no
+2817817,pravastatin sodium 40 mg po tabs,Oral,Statin,no,no,no,no,yes,no,no
+1712699,prednisone 10 mg po tabs,PO,Steroid,no,no,no,no,no,no,no
+5405637,prednisone 20 mg po tabs,PO,Steroid,no,no,no,no,no,no,no
+2178135,prednisone 20 mg tab,PO,Steroid,no,no,no,no,no,no,no
+1712728,prednisone 5 mg po tabs,PO,Steroid,no,no,no,no,no,no,no
+978446,prinivil,Oral,ACE inhibitor,no,no,no,no,no,no,yes
+6075297,prmx dexmedetomidine 400mcg/100ml ns drip,IV,Sedative,no,no,no,no,no,no,no
+2474863,prmx norepinephrine 4 mg/250 ml ns drip,IV,Treats low blood pressure?,no,no,no,no,no,no,no
+5370559,prochlorperazine maleate 10 mg po tabs,PO,Antipsychotic and antiemetic,maybe,no,no,no,no,no,no
+7217591,prochlorperazine maleate 10 mg po tabs,Oral,Antipsychotic and antiemetic,maybe,no,no,no,no,no,no
+5367669,prochlorperazine maleate 5 mg po tabs,PO,Antipsychotic and antiemetic,maybe,no,no,no,no,no,no
+5413673,prochlorperazine maleate 5 mg po tabs,PEG TUBE,Antipsychotic and antiemetic,maybe,no,no,no,no,no,no
+4039503,promethazine 25 mg/1 ml 1ml sdv inj,IV,Antihistamine and antiemetic,maybe,no,no,no,no,no,no
+3167130,promethazine hcl,DEVICE,Antihistamine and antiemetic,maybe,no,no,no,no,no,no
+335517,propofol,MISC,Anesthetic,no,no,no,no,no,no,no
+3184248,propofol,DEVICE,Anesthetic,no,no,no,no,no,no,no
+6082514,propofol,IV,Anesthetic,no,no,no,no,no,no,no
+2531489,propofol 1% inj,IV,Anesthetic,no,no,no,no,no,no,no
+5683368,propofol 10 mg/1 ml 100ml sdv inj,IV,Anesthetic,no,no,no,no,no,no,no
+5805881,propofol 10 mg/1 ml 100ml sdv inj,IV Push,Anesthetic,no,no,no,no,no,no,no
+7112409,propofol 10 mg/ml,INTRAVENOU,Anesthetic,no,no,no,no,no,no,no
+4938014,propofol 10 mg/ml iv emul,IV,Anesthetic,no,no,no,no,no,no,no
+5224440,propofol 10 mg/ml iv emul,Intravenous,Anesthetic,no,no,no,no,no,no,no
+5109293,propofol 1000 mg/100 ml,INTRAVENOU,Anesthetic,no,no,no,no,no,no,no
+780969,propofol 1000 mg/100 ml (pmx),IV,Anesthetic,no,no,no,no,no,no,no
+5146894,propofol infusion 10 mg/ml,IV,Anesthetic,no,no,no,no,no,no,no
+4661553,propofol iv emulsion,.ROUTE,Anesthetic,no,no,no,no,no,no,no
+929732,propofol iv emulsion 10 mg/ml vial,IV,Anesthetic,no,no,no,no,no,no,no
+3990426,protonix,IV,Treatment for GERD?,no,no,no,no,no,no,no
+4166353,protonix,PO,Treatment for GERD?,no,no,no,no,no,no,no
+4801876,protonix,Oral,Treatment for GERD?,no,no,no,no,no,no,no
+1047534,"proventil,ventolin",Inhalation,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+3339170,"proventil,ventolin",Oral,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+5109304,quetiapine,ORAL,Antipsychotic,no,no,no,no,no,no,no
+3837807,quetiapine fumarate 25 mg po tabs,PO,Antipsychotic,no,no,no,no,no,no,no
+5616546,reglan,IV,Treatment for GERD?,no,no,no,no,no,no,no
+195259,restoril,PO,Sedative,no,no,no,no,no,no,no
+3549731,rocuronium,INTRAVENOU,Paralytic,no,no,no,no,no,no,no
+929728,rocuronium bromide,IV,Paralytic,no,no,no,no,no,no,no
+5613563,roxicodone,PO,opioid,yes,yes,no,no,no,no,no
+3492643,saline lock 0.9 % flush 10 ml,IV,Cleans catheters?,no,no,no,no,no,no,no
+484840,senna,PO,Treatment for constipation?,no,no,no,no,no,no,no
+607102,senna,Oral,Treatment for constipation?,no,no,no,no,no,no,no
+4292760,senna (senokot) 1 tab,PO,Treatment for constipation?,no,no,no,no,no,no,no
+773824,senna/docusate sodium,ORAL,Treatment for constipation?,no,no,no,no,no,no,no
+5080119,sennosides,ORAL,Treatment for constipation?,no,no,no,no,no,no,no
+6118751,sennosides (senokot) oral syrup 10 ml,NGT,Treatment for constipation?,no,no,no,no,no,no,no
+890,sennosides-docusate sodium 8.6-50 mg po tabs,PO,Treatment for constipation?,no,no,no,no,no,no,no
+23028,sennosides-docusate sodium 8.6-50 mg po tabs,PER NG TUBE,Treatment for constipation?,no,no,no,no,no,no,no
+75699,sennosides-docusate sodium 8.6-50 mg po tabs,PEG TUBE,Treatment for constipation?,no,no,no,no,no,no,no
+1780383,sennosides-docusate sodium 8.6-50 mg po tabs,PER G TUBE,Treatment for constipation?,no,no,no,no,no,no,no
+3714096,sennosides-docusate sodium 8.6-50 mg po tabs,Oral,Treatment for constipation?,no,no,no,no,no,no,no
+227457,senokot-s tab,PO,Laxative?,no,no,no,no,no,no,no
+47480,sertraline hcl 50 mg po tabs,PO,Selective serotonin re-uptake inhibitor - SSRI,no,no,no,no,no,no,no
+1780395,sertraline hcl 50 mg po tabs,PER G TUBE,Selective serotonin re-uptake inhibitor - SSRI,no,no,no,no,no,no,no
+146539,simvastatin,PO,Statin,no,no,no,no,yes,no,no
+3815892,simvastatin,ORAL,Statin,no,no,no,no,yes,no,no
+2744927,simvastatin 20 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+5290460,simvastatin 40 mg po tabs,PO,Statin,no,no,no,no,yes,no,no
+2474861,sodium bicarbonate,IV,Antiacid?,no,no,no,no,no,no,no
+6754876,sodium bicarbonate 8.4 % (1 meq/ml) iv syringe : 50 ml syringe,IV,Antiacid?,no,no,no,no,no,no,no
+5146907,sodium bicarbonate 8.4 % iv soln,Machine prim,Antiacid?,no,no,no,no,no,no,no
+5154029,sodium bicarbonate 8.4 % iv soln,IV,Antiacid?,no,no,no,no,no,no,no
+7217599,sodium bicarbonate 8.4 % iv soln,Intravenous,Antiacid?,no,no,no,no,no,no,no
+929731,sodium bicarbonate 8.4%,.ROUTE,Antiacid?,no,no,no,no,no,no,no
+1383295,sodium bicarbonate 8.4%,INTRAVENOU,Antiacid?,no,no,no,no,no,no,no
+3754785,sodium bicarbonate 8.4%,INTRAVEN,Antiacid?,no,no,no,no,no,no,no
+5685267,sodium bicarbonate 8.4% (adult) syr,IV Push,Antiacid?,no,no,no,no,no,no,no
+5730164,sodium bicarbonate 8.4% (adult) syr,IV,Antiacid?,no,no,no,no,no,no,no
+274938,sodium bicarbonate 8.4% 50 ml inj,IV,Antiacid?,no,no,no,no,no,no,no
+2043942,sodium bicarbonate 8.4% 50 ml inj,IRR,Antiacid?,no,no,no,no,no,no,no
+2046163,sodium bicarbonate 8.4% 50 ml inj,IV Push,Antiacid?,no,no,no,no,no,no,no
+6705882,sodium chl 0.9% flushsyrg(10ml),FLUSH,Cleans catheters?,no,no,no,no,no,no,no
+4631704,sodium chloride,INJ,Electrolyte?,no,no,no,no,no,no,no
+4637119,sodium chloride,.ROUTE,Electrolyte?,no,no,no,no,no,no,no
+4707994,sodium chloride,IV,Electrolyte?,no,no,no,no,no,no,no
+3775311,sodium chloride 0.45%,INTRAVEN,Electrolyte?,no,no,no,no,no,no,no
+296650,sodium chloride 0.45% 1000 ml lvp,IV,Electrolyte?,no,no,no,no,no,no,no
+2844528,sodium chloride 0.9 %,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+5300160,sodium chloride 0.9 % bolus,IV,Electrolyte?,no,no,no,no,no,no,no
+1249339,sodium chloride 0.9 % flush 10 ml,IV Flush,Cleans catheters?,no,no,no,no,no,no,no
+3500376,sodium chloride 0.9 % flush 10 ml,IK,Cleans catheters?,no,no,no,no,no,no,no
+2513255,sodium chloride 0.9 % flush peripheral lok 3 ml,IV PUSH,Cleans catheters?,no,no,no,no,no,no,no
+620722,sodium chloride 0.9 % ij soln,IV,Electrolyte?,no,no,no,no,no,no,no
+987150,sodium chloride 0.9 % iv : 1000 ml,IV,Electrolyte?,no,no,no,no,no,no,no
+4837946,sodium chloride 0.9 % iv : 250 ml,IV,Electrolyte?,no,no,no,no,no,no,no
+1021492,sodium chloride 0.9 % iv : 500 ml,IV,Electrolyte?,no,no,no,no,no,no,no
+1887781,sodium chloride 0.9 % iv 1000 ml bag,IV,Electrolyte?,no,no,no,no,no,no,no
+175081,sodium chloride 0.9 % iv 250 ml bag,IV,Electrolyte?,no,no,no,no,no,no,no
+5148539,sodium chloride 0.9 % iv bolus,IV,Electrolyte?,no,no,no,no,no,no,no
+1489208,sodium chloride 0.9 % iv soln,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+1766692,sodium chloride 0.9 % iv soln,IV,Electrolyte?,no,no,no,no,no,no,no
+5224449,sodium chloride 0.9 % iv soln bolus,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+7217575,sodium chloride 0.9 % iv soln bolus,Other,Electrolyte?,no,no,no,no,no,no,no
+3390160,sodium chloride 0.9 % iv solp,IV,Electrolyte?,no,no,no,no,no,no,no
+978447,sodium chloride 0.9 % syringe : 10 ml syringe,IV,Electrolyte?,no,no,no,no,no,no,no
+175078,sodium chloride 0.9 % syringe 10 ml syringe,IV,Electrolyte?,no,no,no,no,no,no,no
+773818,sodium chloride 0.9%,IV,Electrolyte?,no,no,no,no,no,no,no
+1566222,sodium chloride 0.9%,INTRAVEN,Electrolyte?,no,no,no,no,no,no,no
+2007630,sodium chloride 0.9%,LOK,Electrolyte?,no,no,no,no,no,no,no
+2855269,sodium chloride 0.9%,INTRA-ARTERIAL,Electrolyte?,no,no,no,no,no,no,no
+3560901,sodium chloride 0.9%,INTRAVENOU,Electrolyte?,no,no,no,no,no,no,no
+4530330,sodium chloride 0.9%,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+6721359,sodium chloride 0.9%,DEVICE,Electrolyte?,no,no,no,no,no,no,no
+1477037,sodium chloride 0.9%  sso,IV,Electrolyte?,no,no,no,no,no,no,no
+3756920,sodium chloride 0.9% (ns) infusion,Intravenous,Electrolyte?,no,no,no,no,no,no,no
+4157812,"sodium chloride 0.9% 1,000 ml",IV,Electrolyte?,no,no,no,no,no,no,no
+148548,"sodium chloride 0.9% 1,000 ml bag",.ROUTE,Electrolyte?,no,no,no,no,no,no,no
+148554,"sodium chloride 0.9% 1,000 ml bag",IV,Electrolyte?,no,no,no,no,no,no,no
+4015045,sodium chloride 0.9% 100 ml pb,IV,Electrolyte?,no,no,no,no,no,no,no
+5822144,sodium chloride 0.9% 100 ml pb,IVPB,Electrolyte?,no,no,no,no,no,no,no
+3134782,sodium chloride 0.9% 1000 ml,IV,Electrolyte?,no,no,no,no,no,no,no
+3995209,sodium chloride 0.9% 1000 ml lvp,IV,Electrolyte?,no,no,no,no,no,no,no
+4002767,sodium chloride 0.9% 1000 ml pb,IV,Electrolyte?,no,no,no,no,no,no,no
+227458,sodium chloride 0.9% 250 ml lvp,IV,Electrolyte?,no,no,no,no,no,no,no
+4004906,sodium chloride 0.9% 250 ml pb,IV,Electrolyte?,no,no,no,no,no,no,no
+5730156,sodium chloride 0.9% 250 ml pb,IVPB,Electrolyte?,no,no,no,no,no,no,no
+280809,sodium chloride 0.9% 50 ml pb,IV,Electrolyte?,no,no,no,no,no,no,no
+2109873,sodium chloride 0.9% 50 ml pb,IVPB,Electrolyte?,no,no,no,no,no,no,no
+4709457,sodium chloride 0.9% 500 ml bag,.ROUTE,Electrolyte?,no,no,no,no,no,no,no
+4046795,sodium chloride 0.9% 500 ml lvp,IV,Electrolyte?,no,no,no,no,no,no,no
+5685283,sodium chloride 0.9% 500 ml lvp,Arterial,Electrolyte?,no,no,no,no,no,no,no
+305763,sodium chloride 0.9% 500 ml pb,IV,Electrolyte?,no,no,no,no,no,no,no
+2219355,sodium chloride 0.9% 500 ml pb,Arterial,Electrolyte?,no,no,no,no,no,no,no
+2320787,sodium chloride 0.9% 500 ml pb,IVPB,Electrolyte?,no,no,no,no,no,no,no
+6118739,sodium chloride 0.9% flush 10 ml,IV PUSH,Cleans catheters?,no,no,no,no,no,no,no
+780962,sodium chloride 0.9% p.f.,IV,Electrolyte?,no,no,no,no,no,no,no
+7174316,sodium chloride 0.9% syringe sso,IV,Electrolyte?,no,no,no,no,no,no,no
+991569,sodium chloride 0.9%solp (1000 ml),IV,Electrolyte?,no,no,no,no,no,no,no
+7193684,sodium chloride bacteriostatic 0.9 % inj soln,Intradermal,Electrolyte?,no,no,no,no,no,no,no
+7217578,sodium chloride flush 0.9 % iv soln 10 ml prefill syringe,Flush,Electrolyte?,no,no,no,no,no,no,no
+7217583,sodium chloride flush 0.9 % iv soln 10 ml prefill syringe,Other,Electrolyte?,no,no,no,no,no,no,no
+1219240,sodium chloride infusion 0.9%,IV,Electrolyte?,no,no,no,no,no,no,no
+4561920,sodium phosphate,IV,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+7121989,sodium phosphate,INTRAVENOU,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+4056926,sodium phosphate 15 mmol/100ml ns,IVPB,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+335524,sodium phosphate 3 mmol/ml 15 ml inj,IVPB,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+6744738,sodium phosphate 3 mmole/ml iv : 15 ml vial,IV,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+4056938,sodium phosphate 30 mmol/250ml ns,IVPB,Salts to help prevent kidney stones?,no,no,no,no,no,no,no
+6419267,sodium polystyrene sulfonate,ORAL,Treatment for high blood potassium,no,no,no,no,no,no,no
+6663547,spironolactone,PO,Diuretic,no,no,no,no,no,no,no
+6794,spironolactone 25 mg po tabs,PO,Diuretic,no,no,no,no,no,no,no
+201984,sublimaze,IV,opioid (fentanyl),yes,yes,no,no,no,no,no
+3282678,synthroid,Oral,Treatment for hypothyroidism,no,no,no,no,no,no,no
+2099094,tamsulosin 0.4 mg cap,PO,Treatment for enlarged prostate?,no,no,no,no,no,no,no
+3837187,tamsulosin hcl 0.4 mg po caps,PO,Treatment for enlarged prostate?,no,no,no,no,no,no,no
+6382437,tamsulosin hcl 0.4 mg po caps,Oral,Treatment for enlarged prostate?,no,no,no,no,no,no,no
+773817,thiamine,IV,Vitamin B?,no,no,no,no,no,no,no
+2851071,thiamine,IM,Vitamin B?,no,no,no,no,no,no,no
+3992918,thiamine 100 mg tab,PO,Vitamin B?,no,no,no,no,no,no,no
+5752181,thiamine 100 mg tab,NG,Vitamin B?,no,no,no,no,no,no,no
+3001700,thiamine hcl,PO,Vitamin B?,no,no,no,no,no,no,no
+3848083,thiamine hcl 100 mg po tabs,PO,Vitamin B?,no,no,no,no,no,no,no
+3848086,thiamine hcl 100 mg po tabs,PER NG TUBE,Vitamin B?,no,no,no,no,no,no,no
+4374789,thiamine hcl 100 mg/ml ij soln,IV,Vitamin B?,no,no,no,no,no,no,no
+3833580,ticagrelor 90 mg po tabs,PO,Blood thinner,no,no,yes,no,no,no,no
+4430873,ticagrelor 90 mg po tabs,Oral,Blood thinner,no,no,yes,no,no,no,no
+4376573,tiotropium bromide monohydrate 18 mcg in caps,IN,Bronchodilator - treats breathing difficulties?,no,no,no,no,no,no,no
+4237781,toprol xl,PO (oral)                                                                                           ,beta-blocker,no,no,no,yes,no,no,no
+4795092,toprol xl,Oral,beta-blocker,no,no,no,yes,no,no,no
+5543143,tramadol hcl,PO,opioid,yes,yes,no,no,no,no,no
+3836837,tramadol hcl 50 mg po tabs,PO,opioid,yes,yes,no,no,no,no,no
+4488106,tramadol hcl 50 mg po tabs,Oral,opioid,yes,yes,no,no,no,no,no
+4535864,trazodone,ORAL,Antidepressant and sedative,no,no,no,no,no,no,no
+4535868,trazodone,NG,Antidepressant and sedative,no,no,no,no,no,no,no
+6410423,trazodone,Oral,Antidepressant and sedative,no,no,no,no,no,no,no
+213205,tylenol,PO,Analgesic,yes,no,no,no,no,no,no
+978443,tylenol,Oral,Analgesic,yes,no,no,no,no,no,no
+1021493,tylenol,Rectal,Analgesic,yes,no,no,no,no,no,no
+1969756,tylenol,REC,Analgesic,yes,no,no,no,no,no,no
+2025736,tylenol,NG,Analgesic,yes,no,no,no,no,no,no
+6795586,ultram,Oral,opioid (tramadol),yes,yes,no,no,no,no,no
+6788713,valium,Oral,Anxiolytic and Sedative,no,no,no,no,no,no,no
+4795366,vancocin,IV,Antibiotic,no,no,no,no,no,no,no
+4256261,vancomycin,IV,Antibiotic,no,no,no,no,no,no,no
+4259019,vancomycin,IVPB,Antibiotic,no,no,no,no,no,no,no
+5109311,vancomycin,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+895773,vancomycin 1 g mini-bag plus (vial mate),IV,Antibiotic,no,no,no,no,no,no,no
+5109295,vancomycin 1 g/200 ml d5w,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+4035855,vancomycin 1 gm in ns 250 ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+5805878,vancomycin 1 gm in ns 250 ml ivpb,IV,Antibiotic,no,no,no,no,no,no,no
+4862904,"vancomycin 1,000 mg iv solution : 1 each vial",IV,Antibiotic,no,no,no,no,no,no,no
+55206,vancomycin 1.25 gm in ns 250 ml ivpb (repackage),IV,Antibiotic,no,no,no,no,no,no,no
+231406,vancomycin 1.25 gm in ns 500ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+5051158,vancomycin 1.5 g/500 ml ns,INTRAVENOU,Antibiotic,no,no,no,no,no,no,no
+3889029,vancomycin 1.5 gm in ns 250 ml ivpb (repackage),IV,Antibiotic,no,no,no,no,no,no,no
+235250,vancomycin 1.5 gm in ns 500ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+266640,vancomycin 750 mg in ns 250 ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+929729,vancomycin hcl,.ROUTE,Antibiotic,no,no,no,no,no,no,no
+3848067,vancomycin hcl 10 g iv solr,IV,Antibiotic,no,no,no,no,no,no,no
+4271712,vancomycin hcl 10 g iv solr,IVPB,Antibiotic,no,no,no,no,no,no,no
+3817562,vancomycin hcl 1000 mg iv solr,IV,Antibiotic,no,no,no,no,no,no,no
+6277514,vancomycin hcl 1000 mg iv solr,IR,Antibiotic,no,no,no,no,no,no,no
+1504399,vancomycin hcl in dextrose 1 gm/200ml iv soln,Intravenous,Antibiotic,no,no,no,no,no,no,no
+2763144,vancomycin hcl in dextrose 1 gm/200ml iv soln,IV,Antibiotic,no,no,no,no,no,no,no
+5683367,vasopressin 60 units in 100 ml ns,IVPB,Helps treat fluid retention post surgery?,no,no,no,no,no,no,no
+5685285,vasopressin 60 units in 100 ml ns,IV,Helps treat fluid retention post surgery?,no,no,no,no,no,no,no
+193717,ventolin 2.5mg/0.5ml,INH,Bronchodilator - treats breathing difficulties,no,no,no,no,no,no,no
+2410601,versed,IV,Sedative,no,no,no,no,no,no,no
+3837806,vitamin d 1000 units po tabs,PO,Vitamin D,no,no,no,no,no,no,no
+3889030,vitamin d 1000 units po tabs,PER G TUBE,Vitamin D,no,no,no,no,no,no,no
+897,vitamins/minerals po tabs,PO,Vitamins/minerals,no,no,no,no,no,no,no
+23006,vitamins/minerals po tabs,PER NG TUBE,Vitamins/minerals,no,no,no,no,no,no,no
+3714126,vitamins/minerals po tabs,Oral,Vitamins/minerals,no,no,no,no,no,no,no
+1530394,warfarin,ORAL,Blood thinner,no,no,no,no,no,no,no
+11594,warfarin - physician monitored,PO,Blood thinner,no,no,no,no,no,no,no
+5782937,warfarin 5 mg tab,PO,Blood thinner,no,no,no,no,no,no,no
+1863059,warfarin sod,PO,Blood thinner,no,no,no,no,no,no,no
+505927,warfarin sodium (coumadin) tab 5 mg,PO,Blood thinner,no,no,no,no,no,no,no
+1620015,warfarin sodium 1 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+5146871,warfarin sodium 2 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+3865269,warfarin sodium 2.5 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+1436609,warfarin sodium 3 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+6554312,warfarin sodium 4 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+47479,warfarin sodium 5 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+1597354,warfarin sodium 7.5 mg po tabs,PO,Blood thinner,no,no,no,no,no,no,no
+4244112,xanax,PO,Sedative,no,no,no,no,no,no,no
+6699138,xanax,Oral,Sedative,no,no,no,no,no,no,no
+1969731,zestril,PO,ACE inhibitor,no,no,no,no,no,no,yes
+1012036,zocor,Oral,Statin,no,no,no,no,yes,no,no
+215934,zofran,IV,antiemetic,no,no,no,no,no,no,no
+4811032,zofran odt,Oral,antiemetic,no,no,no,no,no,no,no
+4253152,zolpidem,PO,Sedative,no,no,no,no,no,no,no
+2030681,zolpidem 5 mg tab,PO,Sedative,no,no,no,no,no,no,no
+5552643,zolpidem 5 mg tablet,Oral,Sedative,no,no,no,no,no,no,no
+873445,zolpidem tartrate,PO,Sedative,no,no,no,no,no,no,no
+1538875,zolpidem tartrate,ORAL,Sedative,no,no,no,no,no,no,no
+4381374,zolpidem tartrate 5 mg po tabs,PO,Sedative,no,no,no,no,no,no,no
+6391450,zolpidem tartrate 5 mg po tabs,Oral,Sedative,no,no,no,no,no,no,no
+3172747,zosyn,IV,Antibiotic,no,no,no,no,no,no,no
+4103769,zosyn 3.375 gram in ns 100 ml ivpb,IVPB,Antibiotic,no,no,no,no,no,no,no
+4056927,zosyn 3.375 gram inj,IVPB,Antibiotic,no,no,no,no,no,no,no
+5822130,zosyn 3.375 gram inj,IV,Antibiotic,no,no,no,no,no,no,no

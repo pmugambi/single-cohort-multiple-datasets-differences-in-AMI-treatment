@@ -1,0 +1,14 @@
+,variable,coef,p-value,OR
+0,shock?,1.8758,0.0,6.52604
+1,received-analgesic?,3.86148,0.0,47.53565
+2,received-combined-therapy?,1.19994,0.00015,3.31992
+3,received-ace-inhibitor?,-1.50271,0.0,0.22253
+4,received-aspirin?,-1.59593,0.00314,0.20272
+5,received-beta-blocker?,-2.28097,0.0,0.10219
+6,received-statin?,-0.78497,0.00303,0.45613
+7,agegroup-40-49,-2.67465,0.00045,0.06893
+8,agegroup-50-59,-1.48676,0.00924,0.2261
+9,insurance-government,-2.85428,0.02089,0.0576
+10,insurance-medicare,-1.87122,0.00029,0.15394
+11,insurance-private,-1.82937,0.0002,0.16051
+12,ethnic-group-caucasian,-0.39655,0.02388,0.67264

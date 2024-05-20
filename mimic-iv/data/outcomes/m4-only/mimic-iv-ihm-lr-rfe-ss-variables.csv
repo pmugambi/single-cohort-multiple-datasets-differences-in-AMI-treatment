@@ -1,0 +1,5 @@
+,variable,coef,p-value,OR
+0,received-beta-blocker?,-2.32108,0.0,0.09817
+1,shock?,2.78187,0.0,16.14919
+2,received-combined-therapy?,1.81097,1e-05,6.11638
+3,received-ace-inhibitor?,-0.9424,0.01442,0.38969

@@ -1,0 +1,723 @@
+drug,route,notes,pain_med?,narcotic?,opiod_mix?,aspirin?,beta_blocker?,statin?,anti-platelet?,ace_inhibitor?
+*NF* VYTONE CREAM,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+0.45% Sodium Chloride,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+0.9% Sodium Chloride,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+0.9% Sodium Chloride,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+0.9% Sodium Chloride,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+0.9% Sodium Chloride (Mini Bag Plus),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+1/2 NS,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+5% Dextrose,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+5% Dextrose,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+5% Dextrose (EXCEL BAG),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+ACCUZYME,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+ATRIPLA,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+ATRIPLA,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Abacavir Sulfate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Abciximab,IV DRIP,,NO,NO,NO,NO,NO,NO,YES,NO
+AcetaZOLAMIDE Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Acetaminophen,PO,APAP,YES,NO,NO,NO,NO,NO,NO,NO
+Acetaminophen,PR,APAP,YES,NO,NO,NO,NO,NO,NO,NO
+Acetaminophen,NG,APAP,YES,NO,NO,NO,NO,NO,NO,NO
+Acetaminophen,PO/NG,APAP,YES,NO,NO,NO,NO,NO,NO,NO
+Acetaminophen (Liquid),PO,APAP,YES,NO,NO,NO,NO,NO,NO,NO
+Acetaminophen w/Codeine,PO,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Acetazolamide Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Acetylcysteine,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Acetylcysteine 20%,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Acetylcysteine 20%,IV,,NO,NO,NO,NO,NO,NO,YES,NO
+Acyclovir,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Acyclovir,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Adenosine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Advair Diskus,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Albumin 25% (12.5g / 50mL),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Albumin 5% (12.5 g),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Albumin 5% (25 g),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Albumin 5% (25g / 500mL),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Albuterol,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Albuterol 0.083% Neb Soln,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Albuterol Inhaler,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Albuterol Neb Soln,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Albuterol-Ipratropium,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Alendronate Sodium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Allopurinol,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Allopurinol,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Alprazolam,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Alprazolam,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Alteplase (Catheter Clearance),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Aluminum Hydroxide Suspension,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Aluminum-Magnesium Hydrox.-Simethicone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Aluminum-Magnesium Hydrox.-Simethicone,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Aluminum-Magnesium Hydroxide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Amino Acids 4.25% W/ Dextrose 5%,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone HCl,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Amiodarone HCl,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+Amitriptyline,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Amitriptyline HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Amlodipine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Amlodipine,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Amlodipine Besylate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Amoxicillin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ampicillin Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ampicillin-Sulbactam,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Anzemet,IJ,,NO,NO,NO,NO,NO,NO,NO,NO
+Aprotinin (Bovine),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Argatroban,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Aripiprazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Artificial Tear Ointment,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Artificial Tears,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Artificial Tears,BOTH EYES,,NO,NO,NO,NO,NO,NO,NO,NO
+Artificial Tears Preserv. Free,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Ascorbic Acid,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Aspirin,PO,,NO,NO,NO,YES,NO,NO,NO,NO
+Aspirin,NG,,NO,NO,NO,YES,NO,NO,NO,NO
+Aspirin,PR,,NO,NO,NO,YES,NO,NO,NO,NO
+Aspirin,PO/NG,,NO,NO,NO,YES,NO,NO,NO,NO
+Aspirin (Buffered),PO,,NO,NO,NO,YES,NO,NO,NO,NO
+Aspirin EC,PO,,NO,NO,NO,YES,NO,NO,NO,NO
+Atenolol,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Atorvastatin,PO,,NO,NO,NO,NO,NO,YES,NO,NO
+Atorvastatin,PO/NG,,NO,NO,NO,NO,NO,YES,NO,NO
+Atropine Sulfate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Atropine Sulfate Ophth 1%,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Azathioprine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Azithromycin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Azithromycin ,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Bacitracin Ointment,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Bacitracin Ophthalmic Oint,RIGHT EYE,,NO,NO,NO,NO,NO,NO,NO,NO
+Bacitracin Ophthalmic Oint,BOTH EYES,,NO,NO,NO,NO,NO,NO,NO,NO
+Baclofen,PO,"muscle relaxer, sometimes used for pain associated with spacticity",MAYBE,NO,NO,NO,NO,NO,NO,NO
+Bag,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Beclomethasone Dipro. AQ (Nasal),NU,,NO,NO,NO,NO,NO,NO,NO,NO
+Benzonatate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Benztropine Mesylate,IM,,NO,NO,NO,NO,NO,NO,NO,NO
+Bethanechol,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Bicitra,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Bisacodyl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Bisacodyl,PR,,NO,NO,NO,NO,NO,NO,NO,NO
+Bivalirudin,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+BuPROPion,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+BuPROPion (Sustained Release),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Budesonide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Bumetanide,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Bupropion HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Bupropion SR,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+BusPIRone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Butalbital-Acet-Caffeine,PO,"Barbituate-APAP combination, used to treat migraine",YES,,NO,NO,NO,NO,NO,NO
+CLARITIN,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcitriol,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Acetate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Carbonate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Carbonate,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Carbonate (Tums),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Chloride,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Gluconate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Calcium Gluconate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Captopril,PO,,NO,NO,NO,NO,NO,NO,NO,YES
+Captopril,PO/NG,,NO,NO,NO,NO,NO,NO,NO,YES
+Captopril,NG,,NO,NO,NO,NO,NO,NO,NO,YES
+Carbamazepine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Carvedilol,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Carvedilol,PO/NG,,NO,NO,NO,NO,YES,NO,NO,NO
+Caspofungin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+CefazoLIN,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cefazolin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+CefePIME,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cefepime,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cefpodoxime Proxetil,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Cefpodoxime Proxetil,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+CeftazIDIME,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ceftazidime,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ceftriaxone,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cepacol (Menthol),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Cephalexin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Cetylpyridinium Chl (Cepacol),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Chlorhexidine Gluconate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Chlorhexidine Gluconate 0.12% Oral Rinse,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Chlorpheniramine Maleate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Cinacalcet HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ciprofloxacin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ciprofloxacin HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ciprofloxacin HCl,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Cisatracurium Besylate,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Cisatracurium Besylate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cisatracurium Besylate,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+Citalopram Hydrobromide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Clarithromycin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Claritin,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Clindamycin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Clindamycin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Clonazepam,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+CloniDINE,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Clonidine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Clonidine TTS 1 Patch,TD,,NO,NO,NO,NO,NO,NO,NO,NO
+Clonidine TTS 2 Patch,TD,,NO,NO,NO,NO,NO,NO,NO,NO
+Clonidine TTS 3 Patch,TD,,NO,NO,NO,NO,NO,NO,NO,NO
+Clopidogrel,PO/NG,,NO,NO,NO,NO,NO,NO,YES,NO
+Clopidogrel,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Clopidogrel Bisulfate,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Clotrimazole Cream,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Colazal,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Colchicine,PO,Anti-inflammatory,YES,NO,NO,NO,NO,NO,NO,NO
+Colchicine,PO/NG,Anti-inflammatory,YES,NO,NO,NO,NO,NO,NO,NO
+Cosyntropin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cyanocobalamin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+CycloSPORINE (Sandimmune),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Cyclobenzaprine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Cyclosporine (Sandimmune),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Cyclosporine Modified (Neoral),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+D10W,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D30W,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D5 1/2NS,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D5NS,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W (EXCEL BAG),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W (EXCEL BAG),IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W (EXCEL BAG),PB,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W (GLASS BOTTLE),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W (GLASS BOTTLE),IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+D5W (Glass Bottle),IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+DOBUTamine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+DOPamine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Desipramine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Desitin,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Desmopressin Acetate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dexmedetomidine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dexmedetomidine HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dexmedetomidine Hcl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dextran 40 10%,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dextromethorphan-Guaifenesin (Sugar Free),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Dextrose 20% in Water (D20W),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dextrose 5%,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dextrose 50%,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Diazepam,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Diazepam,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Diazepam,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Diclofenac Sodium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Dicloxacillin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Digoxin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Digoxin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Diltiazem,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Diltiazem,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Diltiazem Extended-Release,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+DiphenhydrAMINE,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+DiphenhydrAMINE,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+DiphenhydrAMINE HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Diphenhydramine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Diphenhydramine HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Diphenoxylate-Atropine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Dipyridamole,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Dipyridamole-Aspirin,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Divalproex Sodium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Dobutamine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Docusate Sodium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Docusate Sodium,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Docusate Sodium (Liquid),NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Docusate Sodium (Liquid),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Docusate Sodium (Liquid),PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Dolasetron Mesylate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Dolasetron Mesylate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+DopAmine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Dorzolamide 2% Ophth. Soln.,OD,,NO,NO,NO,NO,NO,NO,NO,NO
+Doxepin HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Efavirenz,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Emtricitabine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Enalapril Maleate,PO,,NO,NO,NO,NO,NO,NO,NO,YES
+Enoxaparin Sodium,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Entocort EC,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Epinephrine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Epinephrine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Epinephrine HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Eplerenone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Epoetin Alfa,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Eptifibatide,IV,,NO,NO,NO,NO,NO,NO,YES,NO
+Eptifibatide,IV DRIP,,NO,NO,NO,NO,NO,NO,YES,NO
+Eptifibatide,PB,,NO,NO,NO,NO,NO,NO,YES,NO
+Erythromycin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Erythromycin 0.5% Ophth Oint,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Erythromycin 0.5% Ophth Oint,OD,,NO,NO,NO,NO,NO,NO,NO,NO
+Escitalopram Oxalate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Esmolol,IV,,NO,NO,NO,NO,YES,NO,NO,NO
+Etomidate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ezetimibe,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Famotidine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Famotidine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Famotidine,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Famotidine,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Famotidine (IV),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Fentanyl Citrate,IV,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Fentanyl Citrate,IV DRIP,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Fentanyl Citrate,,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Fentanyl Patch,TP,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Ferric Gluconate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ferrous Gluconate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ferrous Sulfate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fexofenadine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fish Oil (Omega 3),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fleet Phospho-Soda,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluconazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluconazole,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Fludrocortisone Acetate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluoxetine,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluoxetine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluoxetine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluticasone Propionate 110mcg,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluticasone Propionate NASAL,NU,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluticasone Propionate Nasal,NU,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluticasone-Salmeterol,IN,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluticasone-Salmeterol (100/50),IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluticasone-Salmeterol (250/50),IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Fluvastatin Sodium,PO,,NO,NO,NO,NO,NO,YES,NO,NO
+Fluvoxamine Maleate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+FoLIC Acid,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+FoLIC Acid,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Folic Acid,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Folic Acid,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Folic Acid,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Folic Acid,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Fondaparinux Sodium,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Furosemide,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Furosemide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Furosemide,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Furosemide,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Gabapentin,PO/NG,anticonvulsant;  sometimes used to treat neuropathic pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Gabapentin,PO,anticonvulsant;  sometimes used to treat neuropathic pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Gemfibrozil,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Gentamicin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+GlipiZIDE,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+GlipiZIDE XL,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Glipizide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Glipizide XL,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Glucagon,IM,,NO,NO,NO,NO,NO,NO,NO,NO
+Glucovance (5mg-500mg),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+GlyBURIDE,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Glycopyrrolate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Golytely,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Guaifenesin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Guaifenesin,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Guaifenesin-Codeine Phosphate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Guaifenesin-Dextromethorphan,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+HYDROmorphone,SC,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone,PO,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone,IV,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone (Dilaudid),IV,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone (Dilaudid),PO,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone (Dilaudid),SC,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone (Dilaudid),PO/NG,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+HYDROmorphone (Dilaudid),IVPCA,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Haloperidol,IV,"Antipsychotic, occasioanlly used to treat migrane or abdominal pain",MAYBE,NO,NO,NO,NO,NO,NO,NO
+Haloperidol,IM,"Antipsychotic, occasioanlly used to treat migrane or abdominal pain",MAYBE,NO,NO,NO,NO,NO,NO,NO
+Haloperidol,PO,"Antipsychotic, occasioanlly used to treat migrane or abdominal pain",MAYBE,NO,NO,NO,NO,NO,NO,NO
+Heparin,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin (IABP),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin CRRT,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush (10 units/ml),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush (100 units/ml),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush CRRT (5000 Units/mL),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush CVL  (100 units/ml),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush PICC (100 units/ml),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Flush Port (10units/ml),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Heparin Sodium,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Hespan,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Humalog,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Humulin-R Insulin,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Humulin-R Insulin,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Hurricaine Spray,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+HydrALAZINE HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+HydrALAZINE HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+HydrALAzine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+HydrALAzine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Hydralazine HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Hydralazine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Hydrochlorothiazide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Hydrocodone-Acetaminophen,PO,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Hydrocortisone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Hydrocortisone Na Succ.,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Hydromorphone,PO,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Hydromorphone,SC,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Hydromorphone,IV,Opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Ibuprofen,PO,NSAID,YES,NO,NO,NO,NO,NO,NO,NO
+Ibuprofen Suspension,PO,NSAID,YES,NO,NO,NO,NO,NO,NO,NO
+Influenza Virus Vaccine,IM,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Glargine,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Human Regular,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Human Regular,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Human Regular,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Pump,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Regular Pork (Iletin II),SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Insulin Regular Pork (Iletin II),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ipratropium Bromide,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Ipratropium Bromide,NEB,,NO,NO,NO,NO,NO,NO,NO,NO
+Ipratropium Bromide MDI,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Ipratropium Bromide Neb,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Iron Dextran Complex,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Iron Polysaccharides Complex,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Iso-Osmotic Dextrose,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Iso-Osmotic Sodium Chloride,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Isosorbide Dinitrate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Isosorbide Mononitrate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Isosorbide Mononitrate (Extended Release),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Isotonic Sodium Chloride,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ketorolac,IV,NSAID,YES,NO,NO,NO,NO,NO,NO,NO
+Ketorolac,IM,NSAID,YES,NO,NO,NO,NO,NO,NO,NO
+LR,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+LaMIVudine-Zidovudine (Combivir),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+LaMOTrigine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Labetalol,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Labetalol,IV DRIP,,NO,NO,NO,NO,YES,NO,NO,NO
+Labetalol HCl,IV DRIP,,NO,NO,NO,NO,YES,NO,NO,NO
+Labetalol HCl,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Labetalol HCl,IV,,NO,NO,NO,NO,YES,NO,NO,NO
+Lactated Ringers,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Lactulose,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lamivudine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lamivudine,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Lansoprazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lansoprazole,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Lansoprazole Oral Disintegrating Tab,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lansoprazole Oral Solution,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Lansoprazole Oral Suspension,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Lanthanum,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lantus,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Latanoprost 0.005% Ophth. Soln.,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Levetiracetam,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Levofloxacin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Levofloxacin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Levofloxacin,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Levofloxacin,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Levothyroxine Sodium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Levothyroxine Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Lidocaine,IV, IV lidocaine typicallly used for arrythmia;  rearely used for analgesia,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Lidocaine,IV DRIP, IV lidocaine typicallly used for arrythmia;  rearely used for analgesia,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Lidocaine,IV BOLUS, IV lidocaine typicallly used for arrythmia;  rearely used for analgesia,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Lidocaine 1%,SC,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine 1%,IH,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine 1%/Epinephrine 1:100000,SC,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine 2%,,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine 5% Patch,TD,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine Jelly 2%,TP,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine Jelly 2% (Urojet),TP,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Lidocaine Viscous 2%,PO,Local Anesthetic,YES,NO,NO,NO,NO,NO,NO,NO
+Linezolid,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lisinopril,PO,,NO,NO,NO,NO,NO,NO,NO,YES
+Lisinopril,PO/NG,,NO,NO,NO,NO,NO,NO,NO,YES
+Loperamide HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lopinavir-Ritonavir,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lorazepam,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lorazepam,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Lorazepam,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Lorazepam,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Lorazepam,IM,,NO,NO,NO,NO,NO,NO,NO,NO
+Losartan Potassium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Lovastatin,ORAL,,NO,NO,NO,NO,NO,YES,NO,NO
+Maalox/Diphenhydramine/Lidocaine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Magnesium Citrate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Magnesium Oxide,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Magnesium Sulfate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Meclizine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Meperidine,IV,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Meperidine PF,IV,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Meropenem,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+MetFORMIN (Glucophage),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+MetRONIDAZOLE (FLagyl),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+MetRONIDAZOLE (FLagyl),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+MetRONIDAZOLE (FLagyl),PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Metformin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Methadon,PO,"Opioid;  typcially used for maintainace for people with OUD, occasioanlly can be used for pain",MAYBE,YES,NO,NO,NO,NO,NO,NO
+Methadone HCl,PO,"Opioid;  typcially used for maintainace for people with OUD, occasioanlly can be used for pain",MAYBE,YES,NO,NO,NO,NO,NO,NO
+Methimazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+MethylPREDNISolone Sodium Succ,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Methylprednisolone Na Succ,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Methylprednisolone Na Succ.,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Metoclopramide,PO,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Metoclopramide,IV,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Metoclopramide,PO/NG,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Metolazone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Metoprolol,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol,IV,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol Succinate XL,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol Tartrate,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol Tartrate,IV,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol Tartrate,PO/NG,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol XL,PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Metoprolol XL (Toprol XL),PO,,NO,NO,NO,NO,YES,NO,NO,NO
+Metronidazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Metronidazole,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Miconazole 2% Cream,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Miconazole Nitrate Vaginal,VG,,NO,NO,NO,NO,NO,NO,NO,NO
+Miconazole Powder 2%,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Midazolam,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Midazolam,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Midazolam,,,NO,NO,NO,NO,NO,NO,NO,NO
+Midazolam HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Midazolam HCl,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Milk of Magnesia,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Milrinone,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Minocycline HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Miralax,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Mirapex,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Mirtazapine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Moexipril HCl,PO,,NO,NO,NO,NO,NO,NO,NO,YES
+Montelukast Sodium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Morphine Sulfate,IV,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Morphine Sulfate,SC,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Morphine Sulfate,IVPCA,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Morphine Sulfate,IM,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Morphine Sulfate,IV DRIP,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Mucinex,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Multiple Vitamins Liq.,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamin 12,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamin 12,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamin IV,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamins,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamins,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamins,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamins,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Multivitamins W/minerals,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Mupirocin Cream 2%,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Mupirocin Nasal Ointment 2%,NU,,NO,NO,NO,NO,NO,NO,NO,NO
+Mycophenolate Mofetil,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Mycophenolate Mofetil,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+NIFEdipine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+NIFEdipine CR,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+NORepinephrine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+NS,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+NS,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+NS,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+NS,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+NS (Glass Bottle),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+NS (Mini Bag Plus),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+NS (Syringe),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Nafcillin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Neostigmine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Nephrocaps,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Nesiritide,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Neutra-Phos,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Neutra-Phos,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Neutra-phos,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Nevirapine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Niacin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Niaspan,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Nicotine,TD,,NO,NO,NO,NO,NO,NO,NO,NO
+Nicotine Patch,TD,,NO,NO,NO,NO,NO,NO,NO,NO
+Nicotine Polacrilex,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Nifedipine CR,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Nitroglycerin,IV DRIP,Vasodialtor: Also used to treat cardiac chest pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Nitroglycerin,IV,Vasodialtor: Also used to treat cardiac chest pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Nitroglycerin Oint. 2%,TP,Vasodialtor: Also used to treat cardiac chest pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Nitroglycerin Ointment  2%,TP,Vasodialtor: Also used to treat cardiac chest pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Nitroglycerin Patch,TD,Vasodialtor: Also used to treat cardiac chest pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Nitroglycerin SL,SL,Vasodialtor: Also used to treat cardiac chest pain,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Nitroprusside Sodium,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Norepinephrine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Norepinephrine,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Nortriptyline,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Nystatin Oral Suspension,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Octreotide Acetate,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Olanzapine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Olanzapine,IM,,NO,NO,NO,NO,NO,NO,NO,NO
+Olanzapine (Disintegrating Tablet),PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Omeprazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ondansetron,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ondansetron HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Ondansetron ODT,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Ondansetron ODT,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Oxacillin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Oxazepam,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Oxcarbazepine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+OxycoDONE (Immediate Release) ,PO,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+OxycoDONE (Immediate Release) ,PO/NG,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+OxycodONE (Immediate Release) ,PO,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Oxycodone,PO,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Oxycodone SR (OxyconTIN),PO,opioid ,YES,YES,NO,NO,NO,NO,NO,NO
+Oxycodone-Acetaminophen,PO,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Oxycodone-Acetaminophen,PO/NG,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Oxycodone-Acetaminophen (5mg-325mg),PO/NG,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Oxycodone-Acetaminophen Elixir,PO,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Oxymetazoline HCl,NU,,NO,NO,NO,NO,NO,NO,NO,NO
+PHENYLEPHrine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Pangestyme-EC,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Pantoprazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Pantoprazole,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Pantoprazole Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Pantoprazole Sodium,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Pantoprazole Sodium,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+Papain 2.5 % Solution,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Paroxetine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Paroxetine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Paxil CR,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Penicillin V Potassium,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenaseptic Throat Spray,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenazopyridine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Phentolamine Mesylate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenylephrine,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenylephrine HCl,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenylephrine HCl,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenytoin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenytoin,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Phenytoin Sodium,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Phytonadione,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Phytonadione,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Phytonadione,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Pioglitazone HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Piperacillin-Tazobactam Na,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Pneumococcal Vac Polyvalent,IM,,NO,NO,NO,NO,NO,NO,NO,NO
+Polyethylene Glycol,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Polysaccharide Iron Complex,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chl 40 mEq / 1000 mL NS,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chloride,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chloride,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chloride,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chloride,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chloride,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Chloride (Powder),PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Phosphate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Potassium Phosphate,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Prasugrel,PO,,NO,NO,NO,NO,NO,NO,YES,NO
+Pravastatin,PO,,NO,NO,NO,NO,NO,YES,NO,NO
+PredniSONE,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Prednisolone Acetate 1% Ophth. Susp.,OD,,NO,NO,NO,NO,NO,NO,NO,NO
+Prednisone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Primaquine Phosphate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Prismasate (B32 K2),REPLACE,,NO,NO,NO,NO,NO,NO,NO,NO
+Prismasate (B32 K2),DIALYS,,NO,NO,NO,NO,NO,NO,NO,NO
+Prochlorperazine,IV,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Prochlorperazine,PO,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Promethazine HCl,IV,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Promethazine HCl,PO,antiemetic;  also used to treat migraine,MAYBE,NO,NO,NO,NO,NO,NO,NO
+Propofol,,,NO,NO,NO,NO,NO,NO,NO,NO
+Propofol,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Propofol,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Propofol (Generic),IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Propoxyphene Nap.-Apap (N-100),PO,opioid/APAP combo prep,YES,YES,YES,NO,NO,NO,NO,NO
+Protamine Sulfate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Pseudoephedrine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Pyridoxine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Quetiapine Fumarate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Quinapril,PO,,NO,NO,NO,NO,NO,NO,NO,YES
+Ramipril,PO,,NO,NO,NO,NO,NO,NO,NO,YES
+Ranitidine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ranitidine,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Ranitidine,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Risperidone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Ropinirole,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Ropinirole HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Rosiglitazone Maleate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Rosuvastatin Calcium,PO,,NO,NO,NO,NO,NO,YES,NO,NO
+SW,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+SW,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+SW,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Salmeterol,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Salmeterol Xinafoate Diskus (50 mcg),IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Sarna Lotion,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Seasonale,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Senna,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Senna,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Sertraline,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Sertraline HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sevelamer,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Silver Sulfadiazine 1% Cream,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Simethicone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Simethicone,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Simvastatin,PO,,NO,NO,NO,NO,NO,YES,NO,NO
+Simvastatin,PO/NG,,NO,NO,NO,NO,NO,YES,NO,NO
+Sirolimus,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Bicarbonate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Bicarbonate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Bicarbonate,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Chloride 0.9%  Flush,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Chloride Nasal,NU,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Phosphate,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Polystyrene Sulfonate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Polystyrene Sulfonate,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Sodium Polystyrene Sulfonate,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Soln,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Soln,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Soln.,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Spironolactone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Spironolactone,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Stavudine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sterile Water,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Succinylcholine,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Sucralfate,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Sucralfate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sucralfate,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+SulfaSALAzine,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sulfameth/Trimethoprim,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Sulfameth/Trimethoprim DS,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sulfameth/Trimethoprim SS,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Sulfinpyrazone,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Syringe,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Syringe,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Syringe (IV Room),IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Tacrolimus,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Tamsulosin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Tamsulosin HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Tenofovir Disoproxil Fum.,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Testosterone 5mg Patch,TD,,NO,NO,NO,NO,NO,NO,NO,NO
+Theophylline SR,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Thiamine,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Thiamine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Thiamine HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Thiamine HCl,NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Thiamine HCl,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Thrombin,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Thyroid,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Timolol Maleate 0.5%,OU,,NO,NO,NO,NO,NO,NO,NO,NO
+Tirofiban,IV DRIP,,NO,NO,NO,NO,NO,NO,YES,NO
+Tirofiban,IV,,NO,NO,NO,NO,NO,NO,YES,NO
+Tizanidine HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Tocopheryl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Topiramate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+TraMADOL (Ultram),PO,Opioid,YES,YES,NO,NO,NO,NO,NO,NO
+Triamcinolone Acetonide 0.1% Cream,TP,,NO,NO,NO,NO,NO,NO,NO,NO
+Tricor,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+Tuberculin Protein,ID,,NO,NO,NO,NO,NO,NO,NO,NO
+Tucks Hemorrhoidal Oint 1%,PR,,NO,NO,NO,NO,NO,NO,NO,NO
+Valsartan,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Valsartan,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Vancomycin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Vancomycin,PB,,NO,NO,NO,NO,NO,NO,NO,NO
+Vancomycin HCl,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Vancomycin Oral Liquid,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Vasopressin,IV DRIP,,NO,NO,NO,NO,NO,NO,NO,NO
+Vasopressin,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Vecuronium Bromide,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Venlafaxine XR,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Verapamil HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Verapamil SR,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Vial,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Vial,SC,,NO,NO,NO,NO,NO,NO,NO,NO
+Vial,IV BOLUS,,NO,NO,NO,NO,NO,NO,NO,NO
+Vitamin B Complex w/C,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Vitamin D,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Vitamin D,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Voriconazole,IV,,NO,NO,NO,NO,NO,NO,NO,NO
+Voriconazole,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Warfarin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Warfarin,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+Xopenex,IH,,NO,NO,NO,NO,NO,NO,NO,NO
+Zinc Sulfate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+Zolpidem Tartrate,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+aspirin,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+clo,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+clomi,ORAL,,NO,NO,NO,NO,NO,NO,NO,NO
+traMADOL,PO,Opioid,YES,YES,NO,NO,NO,NO,NO,NO
+traZODONE,PO,,NO,NO,NO,NO,NO,NO,NO,NO
+traZODONE,PO/NG,,NO,NO,NO,NO,NO,NO,NO,NO
+traZODONE HCl,PO,,NO,NO,NO,NO,NO,NO,NO,NO
