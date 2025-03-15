@@ -324,7 +324,6 @@ idea/
 aumc/data/AmsterdamUMCdb-v1.0.2/
 aumc/data/batch-files/
 aumc/data/drug-orders-per-day/
-aumc/data/diagnoses-items.csv
 eicu/data/eicu-collaborative-research-database-2.0/
 eicu/data/batch-files/
 eicu/data/drug-orders-per-day/
@@ -337,5 +336,15 @@ mimic-iv/data/icu/
 mimic-iv/data/batch-files/
 mimic-iv/data/drug-orders-per-day/
 
+reducts_and_extras/differences-in-m3-m4.py
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,macos
+/aumc/data/aumc-ami-patients-master-unprocessed-old.csv
+/reducts_and_extras/
+/eicu-and-mimic-iii/
+/general/
+/aumc/data/raw/
+/eicu/data/raw/
+/mimic-iii/data/raw/
+/mimic-iv/data/raw/

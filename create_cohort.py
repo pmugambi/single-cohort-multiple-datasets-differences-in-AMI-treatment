@@ -1,7 +1,6 @@
 import pandas as pd
 from dask import dataframe as dd
 from pathlib import Path
-import time
 
 
 def obtain_ami_cohorts(dataset="all"):
@@ -22,7 +21,7 @@ def obtain_ami_cohorts(dataset="all"):
     def mimic_iii():
         print("---creating an AMI cohort from MIMIC-III---")
         print("1. obtaining diagnoses information")
-        mimic_diagnoses_df = pd.read_csv("./mimic-iii/data/mimic-iii-clinical-database-1.4/DIAGNOSES_ICD.csv.gz")
+        mimic_diagnoses_df = pd.read_csv("./mimic-iii/data/raw/DIAGNOSES_ICD.csv.gz")
         mimic_ami_diagnoses_df = mimic_diagnoses_df[mimic_diagnoses_df["ICD9_CODE"].str.startswith("410", na=False)]
         mimic_ami_diagnoses_df = mimic_ami_diagnoses_df.drop(columns=["ROW_ID", "SUBJECT_ID"])
 
@@ -31,12 +30,12 @@ def obtain_ami_cohorts(dataset="all"):
                                                  records_mini_df=mimic_ami_diagnoses_df)
 
         print("2. obtaining admission and patient information")
-        mimic_admissions_df = pd.read_csv("./mimic-iii/data/mimic-iii-clinical-database-1.4/ADMISSIONS.csv.gz")
+        mimic_admissions_df = pd.read_csv("./mimic-iii/data/raw/ADMISSIONS.csv.gz")
         mimic_ami_patients_admissions_df = mimic_admissions_df[mimic_admissions_df["HADM_ID"].isin(
             mimic_ami_diagnoses_df["HADM_ID"].unique())]
         mimic_ami_patients_admissions_df = mimic_ami_patients_admissions_df.drop(columns=["ROW_ID"])
 
-        mimic_patients_df = pd.read_csv("./mimic-iii/data/mimic-iii-clinical-database-1.4/PATIENTS.csv.gz")
+        mimic_patients_df = pd.read_csv("./mimic-iii/data/raw/PATIENTS.csv.gz")
         mimic_ami_patients_df = mimic_patients_df[mimic_patients_df["SUBJECT_ID"].isin(
             mimic_ami_patients_admissions_df["SUBJECT_ID"].unique())]
         mimic_ami_patients_df = mimic_ami_patients_df.drop(columns=["ROW_ID"])
@@ -47,23 +46,21 @@ def obtain_ami_cohorts(dataset="all"):
 
         # past histories
         print("3. obtaining past medical information")
-        mimic_item_ids_df = pd.read_csv("./mimic-iii/data/mimic-iii-clinical-database-1.4/D_ITEMS.csv.gz")
+        mimic_item_ids_df = pd.read_csv("./mimic-iii/data/raw/D_ITEMS.csv.gz")
         mimic_past_history_item_ids_df = mimic_item_ids_df[mimic_item_ids_df["LABEL"].str.contains(
             "past medical history|medical history", case=False,
-            na=False)]  # I looked this up on the DB to make sure that
+            na=False)]  # NOTE:  I looked this up on the DB to make sure that
         # just these 2 are relevant to search for
         mimic_past_history_item_ids = mimic_past_history_item_ids_df["ITEMID"].unique().tolist()
 
-        # mimic_chartevents_df = pd.read_csv("./mimic-iii/data/mimic-iii-clinical-database-1.4/CHARTEVENTS.csv.gz")
-        # mimic_ami_patients_chart_events_df = mimic_chartevents_df[mimic_chartevents_df["HADM_ID"].isin(
-        #     mimic_ami_cohort_df["HADM_ID"].unique())]
-        mimic_chartevents_chunks = pd.read_csv("./mimic-iii/data/mimic-iii-clinical-database-1.4/CHARTEVENTS.csv.gz",
+        # NOTE: chartevents is a large table, reading it all with pandas as a single DF causes memory issues.
+        # therefore, it was read in chunks, and the medical history values searched for in each chunk.
+        mimic_chartevents_chunks = pd.read_csv("./mimic-iii/data/raw/CHARTEVENTS.csv.gz",
                                                chunksize=1000000)
 
         def process_chunk(df):
             df = df[df["ITEMID"].isin(mimic_past_history_item_ids)]
             return df
-
         mimic_past_medical_history_chartevents_chunk_list = []
 
         for chunk in mimic_chartevents_chunks:
@@ -74,8 +71,6 @@ def obtain_ami_cohorts(dataset="all"):
         mimic_ami_past_medical_history_df = mimic_past_medical_history_df[
             mimic_past_medical_history_df["HADM_ID"].isin(mimic_ami_cohort_df["HADM_ID"].unique())]
 
-        # mimic_ami_past_medical_history_df = mimic_ami_patients_chart_events_df[
-        #     mimic_ami_patients_chart_events_df["ITEMID"].isin(mimic_past_history_item_ids)]
         mimic_ami_past_medical_history_df = mimic_ami_past_medical_history_df.drop(columns=[
             "ROW_ID", "SUBJECT_ID", "ICUSTAY_ID", "CHARTTIME", "STORETIME", "CGID",
             "VALUENUM", "VALUEUOM", "WARNING", "ERROR", "RESULTSTATUS", "STOPPED"])
@@ -87,13 +82,14 @@ def obtain_ami_cohorts(dataset="all"):
 
         mimic_ami_cohort_df = pd.merge(left=mimic_ami_cohort_df, right=mimic_ami_past_medical_history_df,
                                        how="left", on="HADM_ID")
-        Path("./mimic-iii/data/").mkdir(parents=True, exist_ok=True)
-        mimic_ami_cohort_df.to_csv("./mimic-iii/data/mimic-iii-ami-patients-master-unprocessed.csv")
+        Path("./mimic-iii/data/processed/features-files/").mkdir(parents=True, exist_ok=True)
+        mimic_ami_cohort_df.to_csv(
+            "./mimic-iii/data/processed/features-files/mimic-iii-ami-patients-master-unprocessed.csv")
 
     def eicu():
         print("---creating an AMI cohort from eICU---")
         print("1. obtaining diagnoses information")
-        eicu_diagnoses_df = pd.read_csv("./eicu/data/eicu-collaborative-research-database-2.0/diagnosis.csv.gz")
+        eicu_diagnoses_df = pd.read_csv("./eicu/data/raw/diagnosis.csv.gz")
         eicu_ami_diagnoses_df = eicu_diagnoses_df[eicu_diagnoses_df["icd9code"].str.startswith("410", na=False)]
         eicu_ami_diagnoses_df = eicu_ami_diagnoses_df.drop(
             columns=["diagnosisid", "activeupondischarge", "diagnosisoffset"])
@@ -103,7 +99,7 @@ def obtain_ami_cohorts(dataset="all"):
                                                 records_mini_df=eicu_ami_diagnoses_df)
 
         print("2. obtaining admission and patient information")
-        eicu_patients_df = pd.read_csv("./eicu/data/eicu-collaborative-research-database-2.0/patient.csv.gz")
+        eicu_patients_df = pd.read_csv("./eicu/data/raw/patient.csv.gz")
         eicu_ami_patients_df = eicu_patients_df[eicu_patients_df["patientunitstayid"].isin(
             eicu_ami_diagnoses_df["patientunitstayid"].unique())]
         eicu_ami_cohort_df = pd.merge(left=eicu_ami_patients_df, right=eicu_ami_diagnoses_df, how="inner",
@@ -111,7 +107,7 @@ def obtain_ami_cohorts(dataset="all"):
 
         # past histories
         print("3. obtaining past medical information")
-        eicu_past_histories_df = pd.read_csv("./eicu/data/eicu-collaborative-research-database-2.0/pastHistory.csv.gz")
+        eicu_past_histories_df = pd.read_csv("./eicu/data/raw/pastHistory.csv.gz")
         eicu_ami_patients_histories_df = eicu_past_histories_df[eicu_past_histories_df["patientunitstayid"].isin(
             eicu_ami_diagnoses_df["patientunitstayid"].unique())]
         eicu_ami_patients_histories_df = eicu_ami_patients_histories_df.drop(
@@ -123,23 +119,48 @@ def obtain_ami_cohorts(dataset="all"):
         print("4. generating and writing cohort file")
         eicu_ami_cohort_df = pd.merge(left=eicu_ami_cohort_df, right=eicu_ami_patients_histories_df, how="left",
                                       on="patientunitstayid")
-        Path("./eicu/data/").mkdir(parents=True, exist_ok=True)
-        eicu_ami_cohort_df.to_csv("./eicu/data/eicu-ami-patients-master-unprocessed.csv")
+        Path("./eicu/data/processed/features-files/").mkdir(parents=True, exist_ok=True)
+        eicu_ami_cohort_df.to_csv("./eicu/data/processed/features-files/eicu-ami-patients-master-unprocessed.csv")
 
-    def amsterdamUMCdb():
+    def amsterdamumcdb():
         print("---creating an AMI cohort from AmsterdamUMCdb---")
         print("1. obtaining diagnoses information")
-        aumc_listitems_df = dd.read_csv("./aumc/data/AmsterdamUMCdb-v1.0.2/listitems.csv",
+        aumc_listitems_df = dd.read_csv("./aumc/data/raw/listitems.csv",
                                         encoding="ISO-8859-1",
                                         assume_missing=True)
         aumc_diagnoses_items_df = aumc_listitems_df[
-            aumc_listitems_df["item"].str.contains("APACHE|D_|DMC_", case=False, na=True)]
-        aumc_ami_diagnoses_df = aumc_diagnoses_items_df[aumc_diagnoses_items_df["value"].str.contains(
-            r'myocardial|MI|cardiogene shock|shock, cardiogenic', na=False)]
+            aumc_listitems_df["item"].str.contains("APACHE", case=False, na=True)]
+
+        # # aumc_ami_diagnoses_df = aumc_diagnoses_items_df[aumc_diagnoses_items_df["value"].str.contains(
+        # #     r'myocardial|MI|Cardiogene shock|cardiogene shock|shock, cardiogenic|shock, Cardiogenic|Shock,
+        # # Cardiogenic', na=False)] NOTE: criteria abandoned for the one below
+
+        # NOTE: diagnoses generated by clinical expert -- after reading through a list of unique APACHE diagnoses items
+        # listed in the DB.
+
+        apache_def_MI_diagnoses = [
+            "Non-operative cardiovascular - Infarction, acute myocardial (MI), none of the above",
+            "Non-operative cardiovascular - Infarction, acute myocardial (MI), ANTERIOR",
+            "Non-operative cardiovascular - Angina, stable (asymp or stable pattern of symptoms w/meds)",
+            "Non-operative cardiovascular - Infarction, acute myocardial (MI), INFEROLATERAL",
+            "Non-operative cardiovascular - Angina, unstable (angina interferes w/quality of "
+            "life or meds are tolerated poorly)",
+            "Non-operative cardiovascular - MI admitted > 24hrs after onset of ischemia",
+            "Non-operative cardiovascular - Infarction, acute myocardial (MI), NON Q Wave"]
+
+        # apache_possible_MI_diagnoses = [
+        #     "Non-operative cardiovascular - Papillary muscle rupture",
+        #     "Non-operative cardiovascular - Rhythm disturbance (conduction defect)",
+        #     "Non-operative cardiovascular - Rhythm disturbance (ventricular)",
+        #     "Non-operative cardiovascular - Rhythm disturbance (atrial, supraventricular)"]
+
+        # aumc_ami_diagnoses_df = aumc_diagnoses_items_df[aumc_diagnoses_items_df["value"].isin(
+        #     apache_def_MI_diagnoses+apache_possible_MI_diagnoses)]
+        aumc_ami_diagnoses_df = aumc_diagnoses_items_df[aumc_diagnoses_items_df["value"].isin(
+            apache_def_MI_diagnoses)]  # include def_MI_diagnoses only
         aumc_ami_diagnoses_df = aumc_ami_diagnoses_df.rename(columns={"itemid": "diagnosis-category-id",
                                                                       "item": "diagnosis-category",
                                                                       "value": "diagnosis"}).compute()
-        print(aumc_ami_diagnoses_df.head(), aumc_ami_diagnoses_df.columns, len(aumc_ami_diagnoses_df))
 
         aumc_ami_diagnoses_df = aumc_ami_diagnoses_df.drop(columns=["valueid", "measuredat", "registeredat",
                                                                     "registeredby", "updatedat", "updatedby",
@@ -148,38 +169,45 @@ def obtain_ami_cohorts(dataset="all"):
         # combine ami diagnoses by admissionid
         aumc_ami_diagnoses_df = combine_records(pid_col_name="admissionid",
                                                 records_mini_df=aumc_ami_diagnoses_df)
+        # print("unique number of admissions = ", len(aumc_ami_diagnoses_df))
         print("2. obtaining admission and patient information")
-        aumc_admissions_df = pd.read_csv("aumc/data/AmsterdamUMCdb-v1.0.2/admissions.csv")
+        aumc_admissions_df = pd.read_csv("aumc/data/raw/admissions.csv")
         aumc_ami_cohort_df = pd.merge(left=aumc_admissions_df, right=aumc_ami_diagnoses_df, how="right",
                                       on="admissionid")
         print("3. generating and writing cohort file")
-        Path("aumc/data/").mkdir(parents=True, exist_ok=True)
-        aumc_ami_cohort_df.to_csv("./aumc/data/aumc-ami-patients-master-unprocessed.csv")
+        Path("aumc/data/processed/features-files/").mkdir(parents=True, exist_ok=True)
+        aumc_ami_cohort_df.to_csv("./aumc/data/processed/features-files/aumc-ami-patients-master-unprocessed.csv")
 
     def mimic_iv():
-        print("---creating an AMI cohort from MIMIC-III---")
+        # NOTE: pipeline very similar to that of MIMIC-III, except that the tables are organized differently here
+        # and diagnoses are recorded both in ICD 9 and 10 codes.
+        print("---creating an AMI cohort from MIMIC-IV---")
         print("1. obtaining diagnoses information")
-        mimic_iv_diagnoses_df = pd.read_csv("./mimic-iv/data/hosp/diagnoses_icd.csv.gz")
+        mimic_iv_diagnoses_df = pd.read_csv("./mimic-iv/data/raw/hosp/diagnoses_icd.csv.gz")
         mimic_iv_ami_diagnoses_df = mimic_iv_diagnoses_df[((mimic_iv_diagnoses_df["icd_version"] == 9) & (
             mimic_iv_diagnoses_df["icd_code"].str.startswith("410", na=False))) | (
-                (mimic_iv_diagnoses_df["icd_version"] == 10) &
-                mimic_iv_diagnoses_df["icd_code"].str.startswith("I21", na=False))]
-
-        print("mimic_iv_ami_diagnoses_df.len = ", len(mimic_iv_ami_diagnoses_df),
-              mimic_iv_ami_diagnoses_df.icd_code.unique().tolist())
+                                                                  (mimic_iv_diagnoses_df["icd_version"] == 10) &
+                                                                  mimic_iv_diagnoses_df["icd_code"].str.startswith(
+                                                                      "I21", na=False))]
+        # print("mimic_iv_ami_diagnoses_df.len = ", len(mimic_iv_ami_diagnoses_df),
+        #       mimic_iv_ami_diagnoses_df.icd_code.unique().tolist())
 
         mimic_iv_ami_diagnoses_df = mimic_iv_ami_diagnoses_df.drop(columns=["subject_id"])
+
+        # convert seq_num to floats so that down the line, we can check for primary diagnosis by checking whether
+        # diagnoses startwith 1.0 or [1.0
+        mimic_iv_ami_diagnoses_df["seq_num"] = mimic_iv_ami_diagnoses_df["seq_num"].astype(float)
 
         # combine ami diagnoses by hadm_id
         mimic_iv_ami_diagnoses_df = combine_records(pid_col_name="hadm_id",
                                                     records_mini_df=mimic_iv_ami_diagnoses_df)
 
         print("2. obtaining admission and patient information")
-        mimic_iv_admissions_df = pd.read_csv("./mimic-iv/data/hosp/admissions.csv.gz")
+        mimic_iv_admissions_df = pd.read_csv("./mimic-iv/data/raw/hosp/admissions.csv.gz")
         mimic_iv_ami_patients_admissions_df = mimic_iv_admissions_df[mimic_iv_admissions_df["hadm_id"].isin(
             mimic_iv_ami_diagnoses_df["hadm_id"].unique())]
 
-        mimic_iv_patients_df = pd.read_csv("./mimic-iv/data/hosp/patients.csv.gz")
+        mimic_iv_patients_df = pd.read_csv("./mimic-iv/data/raw/hosp/patients.csv.gz")
         mimic_iv_ami_patients_df = mimic_iv_patients_df[mimic_iv_patients_df["subject_id"].isin(
             mimic_iv_ami_patients_admissions_df["subject_id"].unique())]
         mimic_iv_ami_cohort_df = pd.merge(left=mimic_iv_ami_patients_admissions_df, right=mimic_iv_ami_diagnoses_df,
@@ -188,49 +216,44 @@ def obtain_ami_cohorts(dataset="all"):
                                           how="left", on="subject_id")
 
         # past histories
-        # print("3. obtaining past medical information")
-        mimic_iv_item_ids_df = pd.read_csv("./mimic-iv/data/icu/d_items.csv.gz")
-        # print("mimic_iv_item_ids_df.head() = ", mimic_iv_item_ids_df.head(), mimic_iv_item_ids_df.columns.tolist())
+        print("3. obtaining past medical information")
+        mimic_iv_item_ids_df = pd.read_csv("./mimic-iv/data/raw/icu/d_items.csv.gz")
         mimic_iv_past_history_item_ids_df = mimic_iv_item_ids_df[mimic_iv_item_ids_df["label"].str.contains(
             "past medical history|medical history", case=False, na=False)]
         mimic_iv_past_history_item_ids = mimic_iv_past_history_item_ids_df["itemid"].unique().tolist()
 
-        mimic_iv_chartevents_chunks = pd.read_csv("./mimic-iv/data/icu/chartevents.csv.gz", chunksize=1000000)
+        # NOTE: similar to MIMIC-III, chartevents is a large table, reading it all with pandas as a single
+        # DF causes memory issues.
+        # therefore, it was read in chunks, and the medical history values searched for in each chunk.
+
+        mimic_iv_chartevents_chunks = pd.read_csv("./mimic-iv/data/raw/icu/chartevents.csv.gz", chunksize=1000000)
 
         def process_chunk(df):
             df = df[df["itemid"].isin(mimic_iv_past_history_item_ids)]
             return df
 
         mimic_iv_past_medical_history_chartevents_chunk_list = []
-        start = time.time()
         for chunk in mimic_iv_chartevents_chunks:
             filtered_chunk = process_chunk(chunk)
             mimic_iv_past_medical_history_chartevents_chunk_list.append(filtered_chunk)
 
         mimic_iv_past_medical_history_df = pd.concat(mimic_iv_past_medical_history_chartevents_chunk_list)
-        end = time.time()
-        print("it took ", (end - start), " seconds to read and process all chartevent records. start-time = ",
-              start, " and end time = ", end)
         mimic_iv_ami_past_medical_history_df = mimic_iv_past_medical_history_df[
             mimic_iv_past_medical_history_df["hadm_id"].isin(mimic_iv_ami_cohort_df["hadm_id"].unique())]
-
-        print("mimic_iv_ami_past_medical_history_df.head() = ", mimic_iv_ami_past_medical_history_df.head(),
-              mimic_iv_ami_past_medical_history_df.columns.tolist(), len(mimic_iv_ami_past_medical_history_df))
 
         mimic_iv_ami_past_medical_history_df = mimic_iv_ami_past_medical_history_df.drop(columns=[
             "subject_id", "charttime", "storetime", "valuenum", "valueuom", "warning", "caregiver_id", "stay_id"])
 
         # combine past histories into one patient admission id
-        # print("4. generating and writing cohort file")
+        print("4. generating and writing cohort file")
         mimic_iv_ami_past_medical_history_df = combine_records(records_mini_df=mimic_iv_ami_past_medical_history_df,
                                                                pid_col_name="hadm_id")
 
         mimic_iv_ami_cohort_df = pd.merge(left=mimic_iv_ami_cohort_df, right=mimic_iv_ami_past_medical_history_df,
                                           how="left", on="hadm_id")
-        print("mimic_iv_ami_cohort_df.head() = ", mimic_iv_ami_cohort_df.head(),
-              mimic_iv_ami_cohort_df.columns.tolist(), len(mimic_iv_ami_cohort_df))
-        Path("./mimic-iv/data/").mkdir(parents=True, exist_ok=True)
-        mimic_iv_ami_cohort_df.to_csv("./mimic-iv/data/mimic-iv-ami-patients-master-unprocessed.csv")
+        Path("./mimic-iv/data/processed/features-files/").mkdir(parents=True, exist_ok=True)
+        mimic_iv_ami_cohort_df.to_csv(
+            "./mimic-iv/data/processed/features-files/mimic-iv-ami-patients-master-unprocessed.csv")
 
     if dataset == "all":
         # 1. MIMIC-III
@@ -238,9 +261,11 @@ def obtain_ami_cohorts(dataset="all"):
         # 2. eICU
         eicu()
         # 3. AmsterdamUMCdb
-        amsterdamUMCdb()
+        amsterdamumcdb()
         # 4. MIMIC-IV
         mimic_iv()
+    elif dataset == "aumc":
+        amsterdamumcdb()
     elif dataset == "mimic-iii":
         mimic_iii()
     elif dataset == "mimic-iv":
@@ -249,7 +274,7 @@ def obtain_ami_cohorts(dataset="all"):
         eicu()
     else:
         raise ValueError("wrong value for dataset provided. "
-                         "the expected values are: 'all', 'mimic-iii', 'mimic-iv', 'eicu', 'amsterdamUMCdb'")
+                         "the expected values are: 'all', 'aumc', 'mimic-iii', 'mimic-iv', 'eicu'")
 
 
 def combine_records(records_mini_df, pid_col_name):
@@ -287,4 +312,6 @@ def combine_records(records_mini_df, pid_col_name):
 
 
 if __name__ == '__main__':
-    obtain_ami_cohorts(dataset="mimic-iv")
+    obtain_ami_cohorts()
+
+

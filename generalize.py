@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import combine_pvalues
 from scipy.stats import norm, chi2
-from analysis import compute_barnard_exact_test_score as barnard_exact
+from analysis_of_disparities import compute_barnard_exact_test_score as barnard_exact
 from scipy.stats import fisher_exact
 from scipy.stats import chi2_contingency
 
